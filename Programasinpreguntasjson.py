@@ -113,7 +113,7 @@ def chatbot():
     archivo = "preguntasyrespuestas.json"
     base = cargar(archivo)
 
-    print("¡Hola! Soy tu chatbot de viajes. Escribí 'fin' para salir.")
+    print("¡Holaaaaaaaaaaaaaaaaaa! Soy tu chatbot de viajes. Escribí 'fin' para salir.")
     
     while True:
         pregunta = input("Usuario: ").strip().lower()
