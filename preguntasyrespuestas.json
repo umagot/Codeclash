@@ -1,942 +1,977 @@
 [
-  {
-    "tema": "buenos aires",
-    "pregunta": "cual es la historia o su historia",
-    "respuesta": "Fue fundada en 1536 por Pedro de Mendoza y refundada en 1580 por Juan de Garay. Desde el período colonial fue un puerto clave por su ubicación estratégica sobre el Río de la Plata. Fue escenario de las Invasiones Inglesas (1806–1807) y de los principales procesos revolucionarios, incluida la Revolución de Mayo en 1810. La provincia de Buenos Aires, que rodea a la ciudad, también tuvo gran protagonismo en la historia nacional, con figuras como Juan Manuel de Rosas y una economía basada en la ganadería, agricultura e industria."
-  },
-  {
-    "tema": "buenos aires",
-    "pregunta": "como puedo viajar a Buenos Aires en avión y cuánto cuesta y dura",
-    "respuesta": "Aeroparque Jorge Newbery (AEP) y Ezeiza - Aeropuerto Internacional Ministro Pistarini (EZE) conectan Buenos Aires con el resto del país y el mundo. Tiempo estimado desde otras provincias: entre 1 y 2 horas. Costo promedio de ida y vuelta: $130.000 a $160.000 según origen y aerolínea"
-  },
-  {
-    "tema": "buenos aires",
-    "pregunta": "como puedo viajar a Buenos Aires en micro y cuánto cuesta y dura",
-    "respuesta": "La Terminal de Ómnibus de Retiro es la principal del país. Desde provincias del norte y oeste (como Salta o Mendoza), el viaje en micro toma entre 12 y 20 horas. El costo promedio ida y vuelta es de $80.000 a $100.000 dependiendo del origen."
-  },
-  {
-    "tema": "buenos aires",
-    "pregunta": "que opciones de hotel o hospedaje o departamento hay en Buenos Aires y cuánto cuestan",
-    "respuesta": "En CABA: Alvear Palace Hotel (Recoleta): $250.000/noche, Hotel NH Collection Centro: $100.000/noche, Ibis Obelisco: $60.000/noche, Hostel Estoril (Avenida de Mayo): $25.000/noche. En Provincia de Buenos Aires (PBA), los más destacados son: San Isidro: Hotel del Casco ($95.000/noche), Tigre: Wyndham Nordelta ($120.000/noche), Cabañas Delta ($50.000/noche), Mar del Plata: Hotel Costa Galana ($160.000/noche), Hotel Tronador ($70.000/noche), hostels desde $30.000."
-  },
-  {
-    "tema": "buenos aires",
-    "pregunta": "como es clima y cuál es la mejor época para viajar",
-    "respuesta": "Clima templado húmedo. Veranos cálidos (28–35°C) y húmedos, inviernos suaves (5–15°C). La mejor época para viajar es de marzo a mayo (otoño) y septiembre a noviembre (primavera), cuando hay menos lluvias y temperaturas agradables."
-  },
-  {
-    "tema": "buenos aires",
-    "pregunta": "cuales son los mejores lugares para visitar",
-    "respuesta": "En CABA: La Boca (Caminito), San Telmo, Recoleta (cementerio y museos), Plaza de Mayo y Casa Rosada, Obelisco, Puerto Madero, Teatro Colón. En Provincia de Buenos Aires (PBA): Costa Atlántica: Mar del Plata, Pinamar, Villa Gesell, Cariló, Sierra de la Ventana: naturaleza, trekking, Tigre: Delta del Paraná, Puerto de Frutos, San Antonio de Areco: tradición gauchesca, La Plata: ciudad planificada, Catedral, Museo de Ciencias Naturales."
-  },
-  {
-    "tema": "buenos aires",
-    "pregunta": "que actividades turísticas se pueden hacer",
-    "respuesta": "En CABA: Visitas guiadas por el Casco Histórico (a voluntad), Tour en bus turístico ($50.000), Tango show con cena en San Telmo o Abasto ($100.000 aprox.), Museos: MALBA, Bellas Artes, Museo del Bicentenario (muchos con entrada libre o hasta $25.000), Feria de San Telmo (domingo) y Feria de Mataderos, Navegar por el Río de la Plata en catamarán ($45.000). En PBA: Surf, pesca y actividades náuticas en la Costa Atlántica (desde $30.000), Trekking y tirolesa en Sierra de la Ventana ($40.000–$60.000), Kayak y paseos en lancha en el Delta ($50.000), Fiesta de la Tradición en San Antonio de Areco (noviembre, acceso libre), Recorridos históricos en estancias rurales ($60.000 aprox.)."
-  },
-  {
-    "tema": "buenos aires",
-    "pregunta": "como moverse dentro de Buenos Aires",
-    "respuesta": "En CABA: Excelente red de transporte público: subtes (líneas A a H), colectivos (más de 150 líneas), trenes suburbanos. Se usa la Tarjeta SUBE para todos los medios. También hay bicicletas públicas (BA Ecobici) gratuitas por tiempo limitado. En Provincia de Buenos Aires: Trenes suburbanos desde CABA a localidades del conurbano y más allá (Tigre, La Plata, Pilar, etc.). Colectivos interurbanos (con SUBE). Para recorrer zonas rurales, turísticas o balnearias (como Sierra de la Ventana, Mar del Plata o Areco), se recomienda alquilar vehículo, comprar un boleto de micro o contratar excursiones."
-  },
-  {
-    "tema": "catamarca",
-    "pregunta": "cual es la historia o su historia",
-    "respuesta": "San Fernando del Valle de Catamarca fue fundada en 1683 por Fernando de Mendoza y Mate de Luna. La provincia tiene profundas raíces indígenas diaguitas y calchaquíes. Su nombre proviene del quechua “Katamarka” que significa “Fortaleza en la ladera”. Fue escenario de las Guerras Calchaquíes. Destaca su artesanía en telar, cuero y cerámica."
-  },
-  {
-    "tema": "catamarca",
-    "pregunta": "como puedo viajar a catamarca en micro y cuanto cuesta y dura",
-    "respuesta": "El Aeropuerto Coronel Felipe Varela (CTC) conecta San Fernando del Valle de Catamarca con Buenos Aires.  El tiempo estimado de los vuelos es de 2 horas de vuelo y con un costo promedio de $145.000 por Aerolineas Argentinas. Incluye ida y vuelta"
-  },
-  {
-    "tema": "catamarca",
-    "pregunta": "como puedo viajar a catamarca en micro y cuanto cuesta y dura",
-    "respuesta": "Acceso principal por Ruta Nacional 38 y 60. Servicios regulares de ómnibus desde Buenos Aires y ciudades principales. El tiempo estimado de los micros es de 16 horas de viajes y con un costo promedio de $90.000 por central de pasajes. Incluye ida y vuelta"
-  },
-  {
-    "tema": "catamarca",
-    "pregunta": "que opciones de hotel o hospedaje o departamento hay en Catamarca y cuánto cuestan",
-    "respuesta": "San Fernando del Valle: Amerian Catamarca Park Hotel ($115.000/noche), Hotel Casino Catamarca ($165.000/día), Hotel Ancasti ($150.000/noche), Apart Hotel Cuncumen ($50.000/noche), alojamientos familiares desde $45.000/noche."
-  },
-  {
-    "tema": "catamarca",
-    "pregunta": "como es clima de catamarca y cuál es la mejor epoca para viajar",
-    "respuesta": "Clima árido, veranos muy cálidos (30-38°C), inviernos templados y secos (15-20°C). Mejor época de abril a octubre."
-  },
-  {
-    "tema": "catamarca",
-    "pregunta": "cuales son los mejores lugares para visitar en catamarca",
-    "respuesta": "Catamarca tiene localidades destacadas como Fiambalá, conocida por sus termas y la Ruta del Adobe; Antofagasta de la Sierra, famosa por sus paisajes volcánicos; La Cuesta del Portezuelo, con vistas panorámicas impresionantes; El Shincal de Quimivil, con ruinas incas; y Los Seismiles, con altos picos montañosos ideales para el turismo de aventura."
-  },
-  {
-    "tema": "catamarca",
-    "pregunta": "que actividades turisticas se pueden hacer en catamarca",
-    "respuesta": "Catedral Basílica de Nuestra Señora del Valle ($20.000), Paseo Cultural Urbano y Casa de la Cultura ($60.000), excursión al Dique El Jumeal ($100.000), baños termales en Termas de Fiambalá ($65.000), excursión a Dunas de Tatón ($150.000), visita a viñedos y bodegas artesanales (a voluntad), excursión al Campo de Piedra Pómez ($100.000), visita al volcán Galán y cráter ($165.000), observación de fauna andina en lagunas altoandinas (bajo o a voluntad)."
-  },
-  {
-    "tema": "chaco",
-    "pregunta": "cual es la historia o su historia",
-    "respuesta": "Originalmente habitada por pueblos indígenas como los qom y wichí, la provincia fue incorporada al territorio nacional en el siglo XIX y se convirtió en provincia en 1951."
-  },
-  {
-    "tema": "chaco",
-    "pregunta": "como puedo viajar a Chaco en avión y cuánto cuesta y dura",
-    "respuesta": "Vuelos desde Buenos Aires al Aeropuerto de Resistencia duran aproximadamente 1h 30m, con precios desde $56.000"
-  },
-  {
-    "tema": "chaco",
-    "pregunta": "como puedo viajar a Chaco en micro y cuánto cuesta y dura",
-    "respuesta": "El viaje en micro desde Buenos Aires a Resistencia dura entre 12 y 14 horas, con precios  desde $50.000"
-  },
-  {
-    "tema": "chaco",
-    "pregunta": "que opciones de hotel o hospedaje o departamento hay en Chaco y cuánto cuestan",
-    "respuesta": "Hay varias opciones de alojamiento en Chaco como Amérian Hotel Casino Gala (99.720/noche), Gala Hotel y Convenciones (63.702/noche), Howard Johnson Plaza La Ribera (122.396/noche), Cv Apart (53.894/noche). Presidencia Roque Sáenz Peña: El Rebenque (56.675/noche), Apart Temporario HB (81.612/noche), La Termal Centro (49.874/noche), Temporarios Saenz Peña (59.985/noche)."
-  },
-  {
-    "tema": "chaco",
-    "pregunta": "como es clima de Chaco y cuál es la mejor época para viajar",
-    "respuesta": "Clima subtropical con estación seca, caracterizado por veranos calurosos e inviernos templados, la mejor época para visitar es durante el otoño y la primavera."
-  },
-  {
-    "tema": "chaco",
-    "pregunta": "cuales son los mejores lugares para visitar en Chaco",
-    "respuesta": "Parque Nacional Chaco, ciudad de Resistencia (ciudad de las esculturas), y el Parque Provincial Pampa del Indio."
-  },
-  {
-    "tema": "chaco",
-    "pregunta": "que actividades turísticas se pueden hacer en Chaco",
-    "respuesta": "Visitas a parques naturales, turismo cultural en Resistencia y festivales locales."
-  },
-  {
-    "tema": "chaco",
-    "pregunta": "como moverse dentro de Chaco",
-    "respuesta": "Cuenta con una red de rutas y transporte público en las ciudades principales."
-  },
-  {
-    "tema": "chubut",
-    "pregunta": "cual es la historia o su historia",
-    "respuesta": "La historia de Chubut comienza con los pueblos originarios, principalmente tehuelches y mapuches, que habitaron la región durante siglos antes de la llegada europea. En 1865 llegaron los colonos galeses a bordo del barco Mimosa y fundaron la primera colonia en la zona del valle del río Chubut, estableciendo un vínculo cultural que aún perdura. Durante el siglo XIX, el Estado argentino consolidó su control sobre el territorio a través de campañas militares como la Conquista del Desierto. Chubut fue constituido como territorio nacional en 1884 y se convirtió en provincia en 1955. A lo largo del siglo XX creció gracias a la ganadería ovina, la pesca, la industria petrolera y, más recientemente, el turismo en lugares como Puerto Madryn, Península Valdés y la cordillera andina. Su identidad se destaca por la convivencia de culturas originarias, criollas y galesas."
-  },
-  {
-    "tema": "chubut",
-    "pregunta": "como puedo viajar a Chubut en avión y cuánto cuesta y dura",
-    "respuesta": "Para viajar a Chubut en avión desde Buenos Aires, puedes volar directamente a Trelew, Puerto Madryn o Comodoro Rivadavia. El vuelo a Trelew dura aproximadamente 2 horas y 5 minutos, y los precios de los pasajes suelen estar entre $90.000 y $99.000, dependiendo de la temporada. Los vuelos a Puerto Madryn tienen una duración similar, de unas 2 horas, y los pasajes rondan los $80.000. Comodoro Rivadavia también está a unas 2 horas y 15 minutos de Buenos Aires, con precios de pasajes similares a los de los otros destinos. Aerolíneas Argentinas y JetSMART son las principales aerolíneas que operan estas rutas. Los precios pueden variar según la demanda, por lo que es recomendable comprar los boletos con antelación para obtener mejores tarifas."
-  },
-  {
-    "tema": "chubut",
-    "pregunta": "como puedo viajar a Chubut en micro y cuánto cuesta y dura",
-    "respuesta": "Para viajar en micro desde Buenos Aires a Chubut, existen varias opciones dependiendo del destino específico dentro de la provincia. Buenos Aires a Trelew: El viaje en micro desde Buenos Aires a Trelew tiene una duración aproximada de 19 a 22 horas. Los precios de los pasajes varían entre $83.725 y $84.937 ARS por persona, dependiendo de la empresa y la clase del servicio. Empresas como Andesmar, Vía Bariloche y Cóndor Estrella ofrecen estos servicios. Buenos Aires a Puerto Madryn: El viaje en micro desde Buenos Aires a Puerto Madryn tiene una duración aproximada de 17 a 20 horas. Los precios de los pasajes varían entre $71.250 y $106.875 ARS por persona. Empresas como Vía Bariloche, Andesmar y Cóndor Estrella ofrecen estos servicios. Buenos Aires a Comodoro Rivadavia: El viaje en micro desde Buenos Aires a Comodoro Rivadavia tiene una duración aproximada de 24 a 27 horas. Los precios de los pasajes están hasta $101.320 ARS por persona. Empresas como Don Otto, Vía Bariloche y Cóndor Estrella ofrecen estos servicios."
-  },
-  {
-    "tema": "chubut",
-    "pregunta": "que opciones de hotel o hospedaje o departamento hay en Chubut y cuánto cuestan",
-    "respuesta": "Hay varias opciones como Hotel Territorio: Es un hotel de 4 estrellas ubicado en Puerto Madryn, con vistas panorámicas al Golfo Nuevo, ideal para avistamiento de ballenas y disfrutar de la costa patagónica ($134.000 por noche). Dazzler by Wyndham Puerto Madryn: Hotel 4 estrellas frente al mar, en pleno centro de Puerto Madryn. Ofrece habitaciones modernas, spa, restaurante con cocina regional y desayuno buffet. Ideal para turistas que buscan confort y buena ubicación ($95.000 por noche). Hotel Península Valdés: Hotel 3 estrellas ubicado frente al mar en el centro de Puerto Madryn. Ofrece habitaciones modernas con vistas al Golfo Nuevo, spa, gimnasio, restaurante y desayuno buffet. Ideal para quienes buscan confort y una ubicación estratégica ($100.000 por noche)"
-  },
-  {
-    "tema": "chubut",
-    "pregunta": "como es clima de Chubut y cuál es la mejor época para viajar",
-    "respuesta": "Chubut tiene un clima diverso según la región: en la costa, como en Puerto Madryn o Comodoro Rivadavia, es templado, seco y ventoso, con veranos suaves y agradables e inviernos frescos. En cambio, en la zona cordillerana, como Esquel, el clima es más frío, con inviernos nevados y veranos frescos. La mejor época para viajar es el verano, de diciembre a marzo, cuando las temperaturas son más templadas y los días más largos, ideales para recorrer la naturaleza, disfrutar de playas patagónicas o hacer actividades como trekking y avistaje de fauna marina."
-  },
-  {
-    "tema": "chubut",
-    "pregunta": "cuales son los mejores lugares para visitar en Chubut",
-    "respuesta": "Chubut tiene una gran variedad de paisajes y propuestas turísticas. En la costa, Puerto Madryn es uno de los destinos más populares, ideal para ver ballenas francas australes entre junio y diciembre, además de lobos marinos, pingüinos y delfines. Muy cerca se encuentra la Península Valdés, declarada Patrimonio de la Humanidad, que ofrece una de las reservas de fauna marina más importantes del país. En el interior, Gaiman es famoso por su herencia galesa y sus casas de té. Hacia el oeste, Esquel es una excelente base para visitar el Parque Nacional Los Alerces, con lagos cristalinos, bosques milenarios y senderos de montaña. Desde allí también parte el tren turístico La Trochita. Otro destino destacado es Trelew, con su museo paleontológico y cercanía a Gaiman y Punta Tombo, la mayor colonia continental de pingüinos de Magallanes. Cada zona ofrece una experiencia distinta, lo que convierte a Chubut en una provincia muy completa para el turismo."
-  },
-  {
-    "tema": "chubut",
-    "pregunta": "que actividades turísticas se pueden hacer en Chubut",
-    "respuesta": "En Puerto Madryn: Esta ciudad costera es uno de los mejores lugares del mundo para el avistaje de ballenas, entre junio y diciembre. Además, desde aquí se accede fácilmente a la Península Valdés, hogar de lobos y elefantes marinos, orcas y pingüinos. Se puede practicar buceo con lobos marinos con un costo desde $135.000, hacer snorkel con un costo de $100.000, disfrutar de playas tranquilas y visitar reservas naturales únicas. Es un excelente destino para los amantes de la fauna marina y la naturaleza. En Trelew: es una ciudad con fuerte identidad cultural y científica. Su principal atractivo es el Museo Paleontológico Egidio Feruglio (MEF), uno de los más importantes de Sudamérica en su tipo, con un costo de $18.000 la entrada general. Desde aquí también se puede visitar Gaiman, una colonia galesa donde se conservan tradiciones y casas de té, además de acceder a Punta Tombo, la mayor colonia continental de pingüinos de Magallanes. Una visita guiada allí puede costar $150.000 aproximadamente por persona. En Esquel: rodeada por montañas, Esquel combina historia, naturaleza y aventura. Es conocida por el histórico tren La Trochita, una locomotora a vapor que todavía funciona. El recorrido dura 2:30hs y su precio va desde los $35.000 hasta los $50.000 por persona para los residentes nacionales. También es la puerta de entrada al Parque Nacional Los Alerces, ideal para trekking, pesca y camping. En invierno, el centro de esquí La Hoya atrae visitantes por su excelente calidad de nieve y además por ser mas económico en relación a otros centros, podes alquilar un equipo de esquí/snowboard a partir de $40.000."
-  },
-  {
-    "tema": "chubut",
-    "pregunta": "como moverse dentro de Chubut",
-    "respuesta": "Dentro de Chubut podés moverte en micros de media y larga distancia que conectan ciudades como Trelew, Comodoro Rivadavia, Puerto Madryn y Esquel. En las principales localidades también hay taxis, remises y servicios de combis, y en zonas turísticas es común contratar excursiones o alquilar un auto para recorrer los alrededores. Las distancias son grandes y muchas rutas atraviesan zonas rurales, por lo que es recomendable planificar los traslados con anticipación."
-  },
-  {
-    "tema": "cordoba",
-    "pregunta": "cual es la historia o su historia",
-    "respuesta": "Fundada en 1573 por Jerónimo Luis de Cabrera, Córdoba es una de las ciudades más antiguas de Argentina. Durante la época colonial fue un centro jesuita clave, cuya Manzana Jesuítica es Patrimonio de la Humanidad. También tuvo un rol destacado en la reforma universitaria de 1918 y es hoy un polo cultural, educativo y productivo del país."
-  },
-  {
-    "tema": "cordoba",
-    "pregunta": "como puedo viajar a cordoba en avión y cuanto cuesta y dura",
-    "respuesta": "El Aeropuerto Internacional Ingeniero Ambrosio Taravella (COR) ofrece múltiples vuelos diarios desde Buenos Aires. El tiempo de vuelo es de 1 hora y media y el costo promedio por Aerolíneas Argentinas es de $140.000 (ida y vuelta)."
-  },
-  {
-    "tema": "cordoba",
-    "pregunta": "como puedo viajar a cordoba en micro y cuanto cuesta y dura",
-    "respuesta": "Conectada por Ruta Nacional 9. El viaje en micro desde Buenos Aires dura aproximadamente 10 horas y cuesta alrededor de $80.000 ida y vuelta según Central de Pasajes."
-  },
-  {
-    "tema": "cordoba",
-    "pregunta": "que opciones de hotel o hospedaje o departamento hay en cordoba y cuánto cuestan",
-    "respuesta": "Córdoba Capital: NH Córdoba Panorama ($90.000/noche), Windsor Hotel & Tower ($120.000/noche), Hotel Sussex ($55.000/noche). Villa Carlos Paz: Amerian Carlos Paz Suites ($85.000/noche), Cabañas del Sol ($65.000/noche), Hotel Capvio ($50.000/noche). La Cumbrecita: Hotel Bremen ($95.000/noche), Posada del Río ($60.000/noche)."
-  },
-  {
-    "tema": "cordoba",
-    "pregunta": "como es clima de cordoba y cuál es la mejor época para viajar",
-    "respuesta": "Clima templado serrano. Veranos cálidos (30-36°C) con lluvias ocasionales, inviernos frescos (5-18°C). La mejor época para viajar es entre marzo y mayo o de septiembre a noviembre, cuando el clima es templado y seco."
-  },
-  {
-    "tema": "cordoba",
-    "pregunta": "cuales son los mejores lugares para visitar en cordoba",
-    "respuesta": "Córdoba Capital con su Manzana Jesuítica y Catedral, Villa Carlos Paz en el Valle de Punilla, La Cumbrecita y Villa General Belgrano en las sierras, Alta Gracia con la Estancia Jesuítica, y Mina Clavero con su río de aguas cristalinas."
-  },
-  {
-    "tema": "cordoba",
-    "pregunta": "que actividades turísticas se pueden hacer en Córdoba",
-    "respuesta": "Tour histórico por Córdoba capital ($30.000), visitas a estancias jesuíticas ($50.000), paseo en aerosilla en Carlos Paz ($25.000), senderismo en Los Gigantes ($40.000), rafting en Río Los Reartes ($70.000), visita al Museo del Che ($20.000), Oktoberfest en Villa General Belgrano (desde $80.000)."
-  },
-  {
-    "tema": "cordoba",
-    "pregunta": "como moverse dentro de cordoba",
-    "respuesta": "Amplia red de transporte público en la capital. Para recorrer valles turísticos se recomienda alquilar vehículo o usar buses interurbanos frecuentes."
-  },
-  {
-    "tema": "corrientes",
-    "pregunta": "cual es la historia o su historia",
-    "respuesta": "Fundada el 3 de abril de 1588 como San Juan de Vera de las Siete Corrientes, fue una de las provincias fundadoras de la Confederación Argentina."
-  },
-  {
-    "tema": "corrientes",
-    "pregunta": "como puedo viajar a Corrientes en avión y cuanto cuesta y dura",
-    "respuesta": "Vuelos desde Buenos Aires al Aeropuerto de Corrientes (CNQ) duran aproximadamente 1h 45m, con precios desde $80.000."
-  },
-  {
-    "tema": "corrientes",
-    "pregunta": "como puedo viajar a Corrientes en micro y cuanto cuesta y dura",
-    "respuesta": "El viaje en micro desde Buenos Aires a Corrientes dura entre 13 y 15 horas, con precios que varían según la empresa y el servicio esta desde $50.000"
-  },
-  {
-    "tema": "corrientes",
-    "pregunta": "que opciones de hotel o hospedaje o departamento hay en Corrientes y cuánto cuestan",
-    "respuesta": "En Corrientes hay varias opciones como Turismo Hotel Casino (145.379/noche), La Alondra, Casa de huéspedes (168.582/noche), DonSuites (123.146/noche), Bl Calle Catamarca (105.415/noche). Goya: Condado Hotel Casino Goya (93.989/noche), Costanera Goya Apart & Hotel (79.005/noche), Los teros en Goya (83.398/noche). Paso de los libres: Hotel Monte Carlo (46.876/noche), Apartamentos Don Bosco (50.595/noche), Departamentos Por Dia El Trebol N4 (37.745/noche)"
-  },
-  {
-    "tema": "corrientes",
-    "pregunta": "como es clima de Corrientes y cuál es la mejor época para viajar",
-    "respuesta": "Clima subtropical húmedo, con veranos calurosos e inviernos suaves, la mejor época para visitar es desde principios de noviembre hasta principios de abril."
-  },
-  {
-    "tema": "corrientes",
-    "pregunta": "cuales son los mejores lugares para visitar en Corrientes",
-    "respuesta": "Esteros del Iberá, Costanera de Corrientes, playas fluviales, catedrales e iglesias centenarias."
-  },
-  {
-    "tema": "corrientes",
-    "pregunta": "que actividades turísticas se pueden hacer en Corrientes",
-    "respuesta": "Turismo en los Esteros del Iberá, pesca deportiva, festivales de chamamé y visitas a playas fluviales."
-  },
-  {
-    "tema": "corrientes",
-    "pregunta": "como moverse dentro de corrientes",
-    "respuesta": "Sistema de transporte público con colectivos urbanos e interurbanos"
-  },
-  {
-    "tema": "entre rios",
-    "pregunta": "cual es la historia o su historia",
-    "respuesta": "Habitada originalmente por guaraníes, charrúas y chanás, la provincia fue escenario de importantes eventos durante las guerras de independencia y civiles."
-  },
-  {
-    "tema": "entre rios",
-    "pregunta": "Cómo puedo viajar a Entre Ríos en avión y cuánto cuesta y dura",
-    "respuesta": "Vuelos desde Buenos Aires al Aeropuerto de Paraná duran aproximadamente 1h 15m, con precios desde $79.000"
-  },
-  {
-    "tema": "entre rios",
-    "pregunta": "Cómo puedo viajar a Entre Ríos en micro y cuánto cuesta y dura",
-    "respuesta": "El viaje en micro desde Buenos Aires a Entre Ríos dura entre 6 y 8 horas, con precios desde $18.900"
-  },
-  {
-    "tema": "entre rios",
-    "pregunta": "Qué opciones de hotel o hospedaje o departamento hay en Entre Ríos y cuánto cuestan",
-    "respuesta": "En Paraná hay varias opciones como InterTower Hotel (104.822/noche), Gran Hotel Parana (79.345/noche), Departamento Catedral (51.007/noche). Gualeguaychú: O2 Hotel Gualeguaychú (48.315/noche), El Buen Descanso (53.660/noche), Aguaý (150.000/noche), Posada Via Verde (65.969/noche). Colón: Terrazas de Colón (90.680/noche), Complejo Tajamar (123.967/noche), Hacienda Don Justo Hotel Boutique Spa (76.961/noche), La Casona de Susana (40.500/noche)"
-  },
-  {
-    "tema": "entre rios",
-    "pregunta": "como es clima de Entre Ríos y cuál es la mejor época para viajar",
-    "respuesta": "Clima templado húmedo, con veranos cálidos e inviernos suaves, la mejor época para visitar es durante la primavera y el otoño."
-  },
-  {
-    "tema": "entre rios",
-    "pregunta": "Cuáles son los mejores lugares para visitar en Entre Ríos",
-    "respuesta": "Termas de Federación, Parque Nacional El Palmar, Colón, Gualeguaychú y Paraná."
-  },
-  {
-    "tema": "entre rios",
-    "pregunta": "Qué actividades turísticas se pueden hacer en Entre Ríos",
-    "respuesta": "Turismo termal, pesca deportiva, carnavales y visitas a parques nacionales."
-  },
-  {
-    "tema": "entre rios",
-    "pregunta": "Cómo moverse dentro de Entre Ríos",
-    "respuesta": "Cuenta con colectivos y trenes públicos para recorrer algunas zonas de la provincia."
-  },
-  {
-    "tema": "formosa",
-    "pregunta": "cual es la historia o su historia",
-    "respuesta": "Habitada por pueblos indígenas como los pilagás y wichíes, fue incorporada al territorio nacional en el siglo XIX y se convirtió en provincia en 1955."
-  },
-  {
-    "tema": "formosa",
-    "pregunta": "Como puedo viajar a Formosa en avión y cuánto cuesta y dura",
-    "respuesta": "Vuelos desde Buenos Aires al Aeropuerto de Formosa duran aproximadamente 1h 45m, con precios a partir de $120.000"
-  },
-  {
-    "tema": "formosa",
-    "pregunta": "Como puedo viajar a Formosa en micro y cuánto cuesta y dura",
-    "respuesta": "El viaje en micro desde Buenos Aires a Formosa dura entre 14 y 16 horas, con precios desde $60.000"
-  },
-  {
-    "tema": "formosa",
-    "pregunta": "Qué opciones de hotel o hospedaje o departamento hay en Formosa y cuánto cuestan",
-    "respuesta": "En Formosa temenos una amplia cantidad de opciones como AGUAMARINA SPA Y APART (79.345/noche), La Plaza (31.624/noche), Departamento 4 - 1er piso Centro Pileta (23.101/noche), La Pilar (40.942/noche), Hotel Plaza Formosa (32.679/noche), El Catorce Departamento Temporario (40.806/noche). Clorinda: Apart LyM 1 (56.675/noche), Martita House (65.743/noche), DELPON Apart (62.569/noche)"
-  },
-  {
-    "tema": "formosa",
-    "pregunta": "como es clima de Formosa y cuál es la mejor época para viajar",
-    "respuesta": "Clima tropical con estación seca, con temperaturas elevadas durante gran parte del año y lluvias concentradas en verano, la mejor época para visitar es durante el otoño y la primavera."
-  },
-  {
-    "tema": "formosa",
-    "pregunta": "Cuáles son los mejores lugares para visitar en Formosa",
-    "respuesta": "Reserva de Biósfera Laguna Oca, Bañado La Estrella y el Parque Nacional Río Pilcomayo."
-  },
-  {
-    "tema": "formosa",
-    "pregunta": "que actividades turísticas se pueden hacer en Formosa",
-    "respuesta": "Ecoturismo en áreas naturales, pesca deportiva y turismo cultural en comunidades indígenas."
-  },
-  {
-    "tema": "formosa",
-    "pregunta": "Como moverse dentro de Formosa",
-    "respuesta": "Cuenta con transporte público en las ciudades principales o se puede alquilar un vehículo"
-  },
-  {
-    "tema": "general",
-    "pregunta": "hola",
-    "respuesta": "¡Hola! ¿En qué puedo ayudarte?"
-  },
-  {
-    "tema": "general",
-    "pregunta": "como estas",
-    "respuesta": "Estoy bien, gracias por preguntar."
-  },
-  {
-    "tema": "general",
-    "pregunta": "quieneres",
-    "respuesta": "Soy un chatbot turístico diseñado para ayudarte a planear viajes dentro de Argentina."
-  },
-  {
-    "tema": "general",
-    "pregunta": "que podes hacer o que haces",
-    "respuesta": "Puedo conversar sobre viajes por Argentina, darte información útil y hacerte recomendaciones."
-  },
-  {
-    "tema": "general",
-    "pregunta": "adios o chau",
-    "respuesta": "¡Hasta luego! Que tengas un buen día."
-  },
-  {
-    "tema": "general",
-    "pregunta": "ayuda",
-    "respuesta": "Puedo responder a saludos, consultas básicas y darte información turística de distintas provincias."
-  },
-  {
-    "tema": "general",
-    "pregunta": "gracias",
-    "respuesta": "¡De nada! Si tenés más preguntas, estoy para ayudarte."
-  },
-  {
-    "tema": "general",
-    "pregunta": "donde estas",
-    "respuesta": "Estoy en la nube, siempre listo para asistirte con tu viaje."
-  },
-  {
-    "tema": "jujuy",
-    "pregunta": "cual es la historia o su historia",
-    "respuesta": "Jujuy es una provincia con profundas raíces indígenas, principalmente de las culturas Omaguaca, Atacama y Quechua. Fue fundada oficialmente como ciudad en 1593 por Francisco de Argañarás y Murguía, aunque la región ya tenía asentamientos indígenas desde mucho antes. Fue escenario de numerosas batallas durante la independencia, destacándose el Éxodo Jujeño liderado por Manuel Belgrano en 1812. Su identidad está marcada por la fuerte influencia andina y el mestizaje cultural."
-  },
-  {
-    "tema": "jujuy",
-    "pregunta": "Como puedo viajar a jujuy en avion y cuanto cuesta y dura",
-    "respuesta": "El Aeropuerto Internacional Gobernador Horacio Guzmán (JUJ) conecta San Salvador de Jujuy con Buenos Aires. El tiempo estimado de los vuelos es de 2 horas de vuelo y con un costo promedio de $150.000 por Aerolineas Argentinas.  Incluye ida y vuelta"
-  },
-  {
-    "tema": "jujuy",
-    "pregunta": "Como puedo viajar a jujuy en micro y cuanto cuesta y dura",
-    "respuesta": "Excelente conexión por Ruta Nacional 9 que atraviesa la provincia. Servicios de ómnibus de larga distancia desde Buenos Aires y ciudades principales. El tiempo estimado de los micros es de 24 horas de viajes y con un costo promedio de $100.000 por central de pasajes. Incluye ida y vuelta"
-  },
-  {
-    "tema": "jujuy",
-    "pregunta": "Que opciones de hotel o hospedaje o departamento hay en Jujuy y cuánto cuestan",
-    "respuesta": "Purmamarca: La Comarca ($220.000/día), Posada Tierra Adentro ($70.000/día), Pumahuasi Hotel Boutique ($150.000/día). Tilcara: La Posada de la Calandria ($60.000/día), Cabañas Bodega Kindgard ($180.000/día), Hotel Marqués De Tojo ($210.000/día). Humahuaca: Casa de la Flia. Sánchez ($50.000/día), Hostería del Tantanakuy ($70.000/día)."
-  },
-  {
-    "tema": "jujuy",
-    "pregunta": "como es clima de Jujuy y cuál es la mejor época para viajar",
-    "respuesta": "Clima subtropical con estación seca. Veranos cálidos (25-32°C) y lluviosos, inviernos templados (15-20°C) y secos. Clima árido de altura con gran amplitud térmica (días 20-25°C, noches pueden bajar a 0°C incluso en verano). La mejor época para visitar es de abril a noviembre para evitar la temporada de lluvias."
-  },
-  {
-    "tema": "jujuy",
-    "pregunta": "Cuáles son los mejores lugares para visitar en Jujuy",
-    "respuesta": "Jujuy es famosa por Purmamarca, con su cerro de los Siete Colores; Tilcara, con su Pucará y el Museo Arqueológico; La Quebrada de Humahuaca, un valle lleno de historia y paisajes únicos; y Yaví, un pequeño pueblo con arquitectura colonial y un pasado cultural rico."
-  },
-  {
-    "tema": "jujuy",
-    "pregunta": "Qué actividades turísticas se pueden hacer en Jujuy",
-    "respuesta": "Cerro de los Siete Colores (Purmamarca), feria artesanal en plaza central, excursión a Salinas Grandes (costo promedio $50.000), Pucará de Tilcara, Jardín Botánico de Altura (gratuito), trekking a Garganta del Diablo (costo promedio $30.000), Monumento a los Héroes de la Independencia, excursión al Hornocal (Cerro de los 14 Colores) con costo promedio $80.000, mercado municipal de artesanías sin costo agregado."
-  },
-  {
-    "tema": "jujuy",
-    "pregunta": "Como moverse dentro de Jujuy",
-    "respuesta": "Hay servicios regulares de colectivos entre las principales localidades turísticas. Para la Quebrada y Puna se recomienda alquilar vehículo o contratar excursiones."
-  },
-  {
-    "tema": "la pampa",
-    "pregunta": "cual es la historia o su historia",
-    "respuesta": "La Pampa fue habitada originalmente por pueblos originarios como los ranqueles y tehuelches. Durante la conquista y expansión territorial en el siglo XIX, fue escenario de enfrentamientos entre indígenas y el Estado argentino. Se constituyó como provincia en 1951. Su economía se desarrolló con la ganadería extensiva y, en menor medida, con agricultura."
-  },
-  {
-    "tema": "la pampa",
-    "pregunta": "Cómo puedo viajar a La Pampa en avión y cuánto cuesta y dura",
-    "respuesta": "El Aeropuerto de Santa Rosa (RSA) conecta con Buenos Aires mediante Aerolíneas Argentinas. El vuelo dura aproximadamente 1 hora y 20 minutos y cuesta entre $35.000 y $50.000 (ida y vuelta), según disponibilidad y fechas."
-  },
-  {
-    "tema": "la pampa",
-    "pregunta": "Cómo puedo viajar a La Pampa en micro y cuánto cuesta y dura",
-    "respuesta": "Se puede viajar desde Buenos Aires por Ruta Nacional 5. Empresas como Chevallier o Andesmar ofrecen servicios regulares. El viaje dura entre 9 y 10 horas y cuesta entre $22.000 y $30.000 (ida y vuelta)."
-  },
-  {
-    "tema": "la pampa",
-    "pregunta": "Qué opciones de hotel hay en La Pampa y cuánto cuestan",
-    "respuesta": "Santa Rosa: Hotel La Campiña ($20.000/noche), Mercure Santa Rosa La Pampa ($40.000/noche), Hotel Calfucurá ($18.000/noche). General Pico: Hotel Pico ($25.000/noche), Hotel Lihuel Calel ($17.000/noche). En localidades rurales hay estancias turísticas desde $30.000 por noche con pensión completa."
-  },
-  {
-    "tema": "la pampa",
-    "pregunta": "como es clima de La Pampa y cuál es la mejor época para viajar",
-    "respuesta": "Clima templado seco. Veranos cálidos (30-35°C) e inviernos fríos (2-12°C). Las lluvias son escasas. Mejor época para visitar: primavera (septiembre-noviembre) y otoño (marzo-mayo) por el clima agradable."
-  },
-  {
-    "tema": "la pampa",
-    "pregunta": "Cuáles son los mejores lugares para visitar en La Pampa",
-    "respuesta": "Parque Luro (reserva natural con ciervos colorados), Laguna Don Tomás (espacio recreativo en Santa Rosa), Colonia Menonita en Guatraché, Museo Provincial de Historia Natural, y pueblos rurales con arquitectura tradicional y vida de campo."
-  },
-  {
-    "tema": "la pampa",
-    "pregunta": "Qué actividades turísticas se pueden hacer en La Pampa",
-    "respuesta": "Avistaje de fauna en Parque Luro ($15.000), visitas guiadas a estancias rurales ($25.000), pesca en lagunas ($10.000), turismo cultural en museos ($5.000), caminatas en senderos naturales ($0 a $5.000), recorridos históricos en Santa Rosa ($8.000)."
-  },
-  {
-    "tema": "la pampa",
-    "pregunta": "Cómo moverse dentro de La Pampa",
-    "respuesta": "En Santa Rosa y General Pico hay colectivos urbanos. Para visitar reservas, estancias o pueblos rurales se recomienda alquilar auto o contratar excursiones privadas."
-  },
-  {
-    "tema": "la rioja",
-    "pregunta": "cual es la historia o su historia",
-    "respuesta": "Fundada en 1591 por Juan Ramírez de Velasco. Su nombre proviene de la región homónima de España. La historia está marcada por la resistencia de los diaguitas y calchaquíes contra la colonización española y las luchas entre unitarios y federales. Destaca la figura del caudillo Facundo Quiroga. Tradiciones culturales vinculadas a la religiosidad popular."
-  },
-  {
-    "tema": "la rioja",
-    "pregunta": "Como puedo viajar a la rioja en avion y cuánto cuesta y dura",
-    "respuesta": "El Aeropuerto Capitán Vicente Almandos Almonacid (IRJ) conecta La Rioja con Buenos Aires. El tiempo estimado de los vuelos es de 2 horas de vuelo y con un costo promedio de $145.000 por Aerolineas Argentinas. Incluye ida y vuelta. Incluye ida y vuelta"
-  },
-  {
-    "tema": "la rioja",
-    "pregunta": "Como puedo viajar a la rioja en micro y cuanto cuesta y dura",
-    "respuesta": "Acceso por Rutas Nacionales 38, 74 y 75. Servicios regulares de ómnibus desde Buenos Aires y otras capitales. El tiempo estimado de los micros es de 16 horas de viajes y con un costo promedio de $90.000 por central de pasajes. Incluye ida y vuelta"
-  },
-  {
-    "tema": "la rioja",
-    "pregunta": "Qué opciones de hotel o hospedaje o departamento hay en La Rioja y cuánto cuestan",
-    "respuesta": "La Rioja Capital: Hotel Casino Nova y Naindo Park Hotel ($115.000/noche), GM Rooms Rental Suites ($95.000/noche), Centro Apart La Rioja ($40.000/día), Mantra Apart ($60.000/noche), Los Cactus ($30.000/día), Cabañas Puertas del Sol ($70.000/noche)."
-  },
-  {
-    "tema": "la rioja",
-    "pregunta": "como es clima de La Rioja y cuál es la mejor época para viajar",
-    "respuesta": "Clima desértico cálido, veranos muy calurosos (35-45°C), inviernos templados (15-25°C). Mejor época de abril a octubre para evitar calor extremo."
-  },
-  {
-    "tema": "la rioja",
-    "pregunta": "Cuáles son los mejores lugares para visitar en La Rioja",
-    "respuesta": "La Rioja se destaca por La Rioja capital, con su arquitectura colonial y gastronomía; Chilecito, conocida por el Parque Nacional Talampaya y la histórica “Ferroviaria”; Los Colorados, un paisaje de formaciones rocosas de colores vibrantes; y Villa Unión, puerta de entrada al Parque Nacional Talampaya, un destino ideal para los amantes del turismo de naturaleza y aventura."
-  },
-  {
-    "tema": "la rioja",
-    "pregunta": "Qué actividades turísticas se pueden hacer en La Rioja",
-    "respuesta": "Museo Folklórico y Museo Arqueológico Inca Huasi (costo bajo o a voluntad), Catedral de San Nicolás de Bari ($50.000), Parque de la Ciudad (sin costo), Cable Carril en Chilecito (a voluntad), Mina La Mexicana ($45.000), tour por bodegas y olivares ($80.000), recorrido guiado por Cañón de Talampaya ($90.000), Parque Provincial Ischigualasto ($40.000), excursión a Laguna Brava ($35.000)."
-  },
-  {
-    "tema": "mendoza",
-    "pregunta": "cual es la historia o su historia",
-    "respuesta": "Mendoza fue fundada en 1561 por Pedro del Castillo. En tiempos prehispánicos estuvo habitada por los huarpes. Durante la independencia, fue clave por ser base del Ejército de los Andes liderado por José de San Martín. Su desarrollo moderno se vincula al sistema de riego y la industria vitivinícola, que es emblema de la región."
-  },
-  {
-    "tema": "mendoza",
-    "pregunta": "Como puedo viajar a Mendoza en avión y cuánto cuesta y dura",
-    "respuesta": "El Aeropuerto Internacional El Plumerillo (MDZ) conecta Mendoza con Buenos Aires. El vuelo dura aproximadamente 2 horas y cuesta en promedio $150.000 por Aerolíneas Argentinas (ida y vuelta)."
-  },
-  {
-    "tema": "mendoza",
-    "pregunta": "Como puedo viajar a Mendoza en micro y cuánto cuesta y dura",
-    "respuesta": "Buena conexión por Ruta Nacional 7. Servicios regulares desde Buenos Aires. El viaje en micro dura aproximadamente 14 horas y cuesta $95.000 (ida y vuelta) según Central de Pasajes."
-  },
-  {
-    "tema": "mendoza",
-    "pregunta": "Que opciones de hotel o hospedaje o departamento hay en Mendoza y cuánto cuestan",
-    "respuesta": "Ciudad de Mendoza: Park Hyatt Mendoza ($200.000/noche), Hotel Internacional ($70.000/noche), Hotel Crillón ($55.000/noche). Luján de Cuyo: Entre Cielos Luxury Wine Hotel ($250.000/noche), Casa Glebinias ($150.000/noche), Cabañas Andinas ($85.000/noche). Uspallata: Hotel Pukarainca ($90.000/noche), Hostel Cerro del Plata ($35.000/noche)."
-  },
-  {
-    "tema": "mendoza",
-    "pregunta": "como es clima de Mendoza y cuál es la mejor época para viajar",
-    "respuesta": "Clima árido y seco. Veranos calurosos (30-38°C) con poca lluvia; inviernos fríos y secos (2-15°C). Mejor época para visitar: marzo a mayo (vendimia y clima templado) o septiembre a noviembre (primavera)."
-  },
-  {
-    "tema": "mendoza",
-    "pregunta": "Cuales son los mejores lugares para visitar en Mendoza",
-    "respuesta": "La ciudad de Mendoza con sus plazas y bodegas urbanas, el Parque General San Martín, el Aconcagua (el pico más alto de América), Uspallata, el Valle de Uco y el Camino del Vino en Luján de Cuyo y Maipú."
-  },
-  {
-    "tema": "mendoza",
-    "pregunta": "Que actividades turísticas se pueden hacer en Mendoza",
-    "respuesta": "Degustación en bodegas ($80.000 aprox.), tour enológico en bicicleta ($50.000), trekking en Parque Aconcagua ($70.000), termas en Cacheuta ($45.000), rafting en Potrerillos ($90.000), city tour ($30.000), excursión a Alta Montaña ($100.000)."
-  },
-  {
-    "tema": "mendoza",
-    "pregunta": "Como moverse dentro de Mendoza",
-    "respuesta": "Transporte público con tarjeta Red Bus. Rutas turísticas con buses turísticos. Para zonas vitivinícolas y montañas, se recomienda alquilar auto o contratar excursiones."
-  },
-  {
-    "tema": "misiones",
-    "pregunta": "cual es la historia o su historia",
-    "respuesta": "Misiones fue habitada originalmente por los guaraníes y fue escenario del establecimiento de reducciones jesuíticas en los siglos XVII y XVIII, destacándose las ruinas de San Ignacio Miní, fue declarada provincia en 1953."
-  },
-  {
-    "tema": "misiones",
-    "pregunta": "Cómo puedo viajar a Misiones en avión y cuánto cuesta y dura",
-    "respuesta": "Se puede viajar en avión al Aeropuerto Internacional de Puerto Iguazú (IGR) o al de Posadas (PSS), desde Buenos Aires con vuelos de 1h 45 min por un costo promedio de $145.000 ida y vuelta por Aerolíneas Argentinas."
-  },
-  {
-    "tema": "misiones",
-    "pregunta": "Cómo puedo viajar a Misiones en micro y cuánto cuesta y dura",
-    "respuesta": "Los micros desde Buenos Aires a Posadas o Puerto Iguazú tardan entre 12 a 18 horas, y tienen un costo promedio de $100.000 ida y vuelta por empresas como Flechabus o Crucero del Norte."
-  },
-  {
-    "tema": "misiones",
-    "pregunta": "Qué opciones de hotel o hospedaje o departamento hay en Misiones y cuánto cuestan",
-    "respuesta": "En Puerto Iguazú: Hotel Saint George ($90.000/noche), La Aldea Lodge ($65.000/noche), Gran Meliá Iguazú ($270.000/noche), en Posadas: Hotel Julio César ($60.000/noche), Maitei Posadas ($85.000/noche)."
-  },
-  {
-    "tema": "misiones",
-    "pregunta": "como es clima de Misiones y cuál es la mejor época para viajar",
-    "respuesta": "Clima subtropical húmedo con lluvias abundantes todo el año, veranos calurosos (30–35 °C), inviernos suaves (15–22 °C), mejor época: marzo a noviembre para evitar las lluvias intensas."
-  },
-  {
-    "tema": "misiones",
-    "pregunta": "Cuáles son los mejores lugares para visitar en Misiones",
-    "respuesta": "Cataratas del Iguazú, Parque Nacional Iguazú, ruinas jesuíticas de San Ignacio, Saltos del Moconá, Parque Provincial Urugua-í y la ciudad de Posadas con su costanera y museos."
-  },
-  {
-    "tema": "misiones",
-    "pregunta": "Qué actividades turísticas se pueden hacer en Misiones",
-    "respuesta": "Caminatas por la selva, avistaje de aves, navegación por ríos, visitas a comunidades guaraníes, recorridos históricos por las ruinas jesuíticas, visitas a yerbales, termas y turismo rural."
-  },
-  {
-    "tema": "misiones",
-    "pregunta": "Cómo moverse dentro de Misiones",
-    "respuesta": "Servicios de colectivos interurbanos conectan las ciudades principales, para recorrer parques y zonas rurales se recomienda alquilar vehículo o contratar excursiones."
-  },
-  {
-    "tema": "neuquen",
-    "pregunta": "cual es la historia o su historia",
-    "respuesta": "Neuquén tiene sus raíces en pueblos originarios como los mapuches, que habitaron la región antes de la llegada del Estado argentino. A fines del siglo XIX, durante la Campaña del Desierto, el gobierno nacional ocupó el territorio. En 1884 se creó como territorio nacional y en 1955 se convirtió en provincia. Su desarrollo se basó en la explotación de petróleo y gas, con un fuerte impulso en la actualidad gracias a Vaca Muerta, una de las mayores reservas no convencionales del mundo. También es importante por su energía hidroeléctrica y su turismo, con destinos como San Martín de los Andes y Villa La Angostura."
-  },
-  {
-    "tema": "neuquen",
-    "pregunta": "Como puedo viajar a Neuquén en avión y cuánto cuesta y dura",
-    "respuesta": "El Aeropuerto Internacional Presidente Perón (NQN) conecta la ciudad de Neuquén con Buenos Aires. El tiempo estimado de vuelo es de aproximadamente 2 horas, con un costo desde $90.000 por Aerolíneas Argentinas, incluyendo ida y vuelta"
-  },
-  {
-    "tema": "neuquen",
-    "pregunta": "Como puedo viajar a Neuquén en micro y cuánto cuesta y dura",
-    "respuesta": "La conexión se realiza por la Ruta Nacional 22 y otras rutas que atraviesan la provincia. Hay servicios de ómnibus de larga distancia desde Buenos Aires y otras ciudades principales. El tiempo estimado de viaje en micro es de aproximadamente 17 a 20 horas, con un costo promedio de $50.000 por Central de Pasajes, incluyendo ida y vuelta"
-  },
-  {
-    "tema": "neuquen",
-    "pregunta": "Qué opciones de hotel o hospedaje o departamento hay en Neuquén y cuánto cuestan",
-    "respuesta": "Villa la Angostura: ubicada a orillas del lago Nahuel Huapi y rodeada de montañas, es uno de los destinos más exclusivos de la Patagonia argentina. Entre sus hoteles más populares se encuentran: El Faro Boutique Hotel & Spa by DON: con vistas panorámicas al lago, ofrece servicios de spa, piscina climatizada y un entorno ideal para el descanso ($142.000 por noche). Ruma Andina by DOT Cabana: cabañas de montaña totalmente equipadas, con servicios de hotel, perfectas para familias y parejas ($66.000 por noche). Las Balsas Relais & Châteaux: lodge exclusivo con solo 15 habitaciones, servicio personalizado, spa, bodega y restaurante gourmet, es una opción más exclusiva y costosa ($650.000 por noche). San Martín de los Andes:  es una ciudad rodeada por el Parque Nacional Lanín, con acceso al lago Lácar y al Cerro Chapelco. Es uno de los centros turísticos más importantes de la Patagonia. Sus hoteles destacados son: Hotel Patagonia Plaza: ubicado en el centro, cuenta con habitaciones modernas, piscina climatizada y restaurante (115.000 por noche). Hotel Intermonti: presenta arquitectura típica de montaña y una ubicación privilegiada, cerca de comercios y atractivos turísticos ($100.000 por noche). El Refugio Ski & Summer Lodge: ideal para quienes buscan aventuras al aire libre, tanto en invierno como en verano, con fácil acceso al centro de esquí Chapelco ($80.000 por noche)."
-  },
-  {
-    "tema": "neuquen",
-    "pregunta": "como es clima de Neuquén y cuál es la mejor época para viajar",
-    "respuesta": "El clima de la provincia de Neuquén varía según la región, pero en general se caracteriza por ser seco y continental. En el centro y este de la provincia, los inviernos son fríos y los veranos calurosos, con pocas precipitaciones a lo largo del año. En cambio, en la zona cordillerana, como San Martín de los Andes o Villa La Angostura, el clima es más templado y húmedo, con abundantes lluvias y nevadas en invierno. La mejor época para viajar depende de las actividades que se quieran realizar. La primavera (de septiembre a noviembre) ofrece temperaturas agradables y paisajes verdes, ideal para caminatas, pesca y turismo de naturaleza. El verano (de diciembre a marzo) es perfecto para disfrutar de los lagos, playas y deportes al aire libre, especialmente en las zonas montañosas. En invierno (de junio a agosto), las localidades cordilleranas se convierten en destinos ideales para los amantes del esquí y la nieve, con centros como Chapelco o Cerro Bayo entre los más visitados"
-  },
-  {
-    "tema": "neuquen",
-    "pregunta": "Cuáles son los mejores lugares para visitar en Neuquén",
-    "respuesta": "Algunos de los mejores lugares para visitar en la provincia de Neuquén son San Martín de los Andes, Villa La Angostura, Volcán Lanín, Caviahue y Copahue, la Ruta de los Siete Lagos, la ciudad de Neuquén y San Patricio del Chañar. Estos destinos son ideales por sus paisajes de montañas y lagos, actividades al aire libre como senderismo, pesca, esquí o termas, y por su valor cultural y gastronómico. Además, combinan naturaleza, tranquilidad y opciones para disfrutar tanto en verano como en invierno."
-  },
-  {
-    "tema": "neuquen",
-    "pregunta": "Qué actividades turísticas se pueden hacer en Neuquén",
-    "respuesta": "En la provincia de Neuquén se pueden realizar diversas actividades al aire libre y disfrutar de paisajes únicos, tanto en verano como en invierno. Dos de los destinos más destacados son San Martín de los Andes y Villa La Angostura, ambos ubicados en plena cordillera y rodeados de lagos, montañas y bosques. En San Martín de los Andes, el ingreso al Parque Nacional Lanín cuesta $20.000 por persona (tarifa general), con descuentos para estudiantes y residentes. Allí se pueden hacer caminatas por senderos de montaña, disfrutar del Lago Lácar, realizar pesca deportiva (especialmente de truchas), o recorrer la famosa Ruta de los 7 Lagos, ideal para hacer en auto, moto o bicicleta. En invierno, el Cerro Chapelco es una opción muy popular para esquiar, con pases que cuestan entre $50.000 y $60.000 por persona, según la temporada. Por su parte, Villa La Angostura es un destino perfecto para relajarse y conectar con la naturaleza. Ofrece actividades como trekking, mountain bike y paseos lacustres. En invierno, se puede esquiar en el Cerro Bayo, una opción más tranquila que otros centros, con un costo de acceso de $20.000 por persona. Además, es conocida por su gastronomía de montaña, sus senderos entre bosques y por ser la entrada al famoso Bosque de Arrayanes. Un tour panorámico por toda la villa cuesta aproximadamente $40.000 por persona."
-  },
-  {
-    "tema": "neuquen",
-    "pregunta": "Cómo moverse dentro de Neuquén",
-    "respuesta": "Para moverte por la provincia de Neuquén, puedes usar colectivos urbanos en la ciudad capital y otras localidades cercanas, taxis, remises, y servicios como Uber. Además, algunas ciudades tienen ciclovías para quienes prefieren moverse en bicicleta. Si necesitas viajar entre diferentes ciudades, las rutas interurbanas son una opción, aunque debes estar atento al estado de las carreteras, especialmente en invierno."
-  },
-  {
-    "tema": "rio negro",
-    "pregunta": "cual es la historia o su historia",
-    "respuesta": "La historia de Río Negro comienza con los pueblos originarios como los mapuches, tehuelches y pehuenches, quienes habitaban la región mucho antes de la llegada de los españoles. Durante la colonización, la zona fue de difícil acceso y permaneció relativamente aislada. A lo largo del siglo XIX, el territorio fue disputado por Argentina y Chile, y en 1955 se estableció como una provincia separada de Buenos Aires. A partir del siglo XX, Río Negro experimentó un notable desarrollo económico gracias a la irrigación de tierras, lo que permitió el crecimiento de la agricultura, especialmente la fruticultura. Además, la inmigración europea contribuyó a su expansión cultural y económica. Hoy en día, Río Negro sigue siendo una provincia clave para la economía argentina, destacándose en sectores como el turismo, con lugares como Bariloche, y la producción de energía, especialmente petróleo y gas."
-  },
-  {
-    "tema": "rio negro",
-    "pregunta": "Como puedo viajar a Río Negro en avión y cuánto cuesta y dura",
-    "respuesta": "Puedes viajar a Río Negro en avión a través del Aeropuerto Internacional de San Carlos de Bariloche (BRC), que conecta la ciudad con Buenos Aires y otras ciudades principales. El tiempo estimado de vuelo es de aproximadamente 2:15 horas, con un costo desde $100.000 por Aerolíneas Argentinas, incluyendo ida y vuelta"
-  },
-  {
-    "tema": "rio negro",
-    "pregunta": "Como puedo viajar a Río Negro en micro y cuánto cuesta y dura",
-    "respuesta": "Podés viajar a Río Negro en micro desde Buenos Aires con diferentes opciones según el destino. Por ejemplo, el viaje a San Carlos de Bariloche dura entre 20 y 24 horas, con pasajes desde aproximadamente $8.500 hasta $105.000, dependiendo de la empresa y el servicio elegido. En cambio, el trayecto a Viedma tiene una duración de alrededor de 12 a 14 horas, y los precios varían entre $50.000 y $90.000. Las principales empresas que operan estas rutas incluyen Vía Bariloche, Vía Tac, Chevallier, Andesmar y El Cóndor. Es recomendable comprar los pasajes con anticipación para asegurar disponibilidad y mejores tarifas"
-  },
-  {
-    "tema": "rio negro",
-    "pregunta": "Qué opciones de hotel o hospedaje o departamento hay en Río Negro y cuánto cuestan",
-    "respuesta": "San Carlos de Bariloche: Ubicado en pleno centro de Bariloche, el “Hotel Cristal” ofrece habitaciones modernas con excelente aislamiento acústico, piscina climatizada cubierta, sauna, gimnasio y desayuno buffet. Es ideal para quienes desean estar cerca de tiendas, restaurantes y el lago Nahuel Huapi ($142.000 por noche). Por otro lado, el hotel “Design Suites Bariloche” combina diseño contemporáneo con naturaleza patagónica. Está frente al lago Nahuel Huapi y ofrece habitaciones con vista, spa, piscina climatizada, restaurante gourmet y servicio de traslado al centro ($112.000 por noche). Por último, el “Hotel y Casino del Río”, ubicado en la ciudad de General Roca, este hotel 4 estrellas es ideal para viajes de negocios o turismo. Cuenta con habitaciones modernas, restaurante, gimnasio, spa y casino. Ofrece un excelente nivel de confort en el corazón del Alto Valle rionegrino ($88.000 por noche)."
-  },
-  {
-    "tema": "rio negro",
-    "pregunta": "como es clima de Río Negro y cuál es la mejor época para viajar",
-    "respuesta": "El clima de Río Negro varía según la zona, en la cordillera (como Bariloche y El Bolsón) es frío y húmedo, con nevadas en invierno y veranos frescos; en la costa atlántica (como Las Grutas y Viedma) es más templado y seco, con veranos cálidos e inviernos suaves; y en el centro y norte (como General Roca o Cipolletti) predomina un clima árido, con veranos muy calurosos e inviernos fríos y secos. La mejor época para viajar depende de lo que quieras hacer: en verano (diciembre a marzo) es ideal para disfrutar de playas, lagos y actividades al aire libre, mientras que en invierno (junio a septiembre) es la temporada perfecta para esquiar y disfrutar de la nieve en la cordillera."
-  },
-  {
-    "tema": "rio negro",
-    "pregunta": "Cuáles son los mejores lugares para visitar en Río Negro",
-    "respuesta": "Río Negro tiene muchos lugares destacados para visitar. Entre los más reconocidos están San Carlos de Bariloche, ideal por sus paisajes, el Cerro Catedral y el Lago Nahuel Huapi; El Bolsón, conocido por su naturaleza, ferias artesanales y senderos; Las Grutas, famosa por sus playas de aguas cálidas; y la capital, Viedma, junto al río Negro y con historia y cultura regional. También son interesantes General Roca y Cipolletti en el Alto Valle, por su producción frutícola y propuestas culturales."
-  },
-  {
-    "tema": "rio negro",
-    "pregunta": "Qué actividades turísticas se pueden hacer en Río Negro",
-    "respuesta": "Río Negro ofrece una gran variedad de actividades para disfrutar durante todo el año, tanto en invierno como en verano. En zonas como la cordillera, es posible esquiar y practicar snowboard en centros invernales como el Cerro Catedral, mientras que el resto del año se pueden realizar actividades al aire libre como trekking, mountain bike o paseos lacustres. Las excursiones en lagos, visitas a islas y bosques, y los recorridos gastronómicos con chocolates y cervezas artesanales son ideales para compartir en familia, pareja o con amigos. Los precios aproximados para actividades de montaña incluyen $30.000 por persona para ascenso y descenso en teleférico, y entre $90.000 y $100.000 para deportes como esquí o snowboard"
-  },
-  {
-    "tema": "rio negro",
-    "pregunta": "Cómo moverse dentro de Río Negro",
-    "respuesta": "Dentro de Río Negro podés moverte en colectivo entre ciudades y pueblos mediante servicios interurbanos, mientras que en las principales localidades como Bariloche, Viedma o General Roca también hay transporte urbano. Además, hay taxis, remises y servicios como Uber en algunas zonas, y rutas pavimentadas que permiten trasladarse en auto propio o alquilado. En lugares turísticos, también es común el uso de bicicletas o excursiones contratadas."
-  },
-  {
-    "tema": "salta",
-    "pregunta": "cual es la historia o su historia",
-    "respuesta": "Conocida como “Salta la Linda”, fue fundada en 1582 por Hernando de Lerma. La provincia jugó un papel crucial en la independencia argentina, destacándose Martín Miguel de Güemes, quien defendió la frontera norte contra los realistas. Su arquitectura colonial está bien preservada, especialmente en su capital. La cultura salteña refleja una fuerte influencia española mezclada con tradiciones indígenas."
-  },
-  {
-    "tema": "salta",
-    "pregunta": "Como puedo viajar a salta en avion y cuanto cuesta y dura",
-    "respuesta": "El Aeropuerto Internacional Martín Miguel de Güemes (SLA) ofrece conexiones directas con Buenos Aires y otras ciudades importantes. El tiempo estimado de los vuelos es de 2 horas de vuelo y con un costo promedio de $145.000 por Aerolineas Argentinas. Incluye ida y vuelta"
-  },
-  {
-    "tema": "salta",
-    "pregunta": "Como puedo viajar a salta en micro y cuanto cuesta y dura",
-    "respuesta": "Excelente red vial a través de la Ruta Nacional 9 y 34. Servicios de ómnibus de larga distancia desde Buenos Aires. El tiempo estimado de los micros es de 20 horas de viajes y con un costo promedio de $100.000 por central de pasajes. Incluye ida y vuelta"
-  },
-  {
-    "tema": "salta",
-    "pregunta": "Qué opciones de hotel o hospedaje o departamento hay en Salta y cuánto cuestan",
-    "respuesta": "Salta Capital: Apart Hotel Marilian ($50.000/noche), Sheraton Salta Hotel ($180.000/día), Departamento Caseros ($60.000/noche). Cafayate: Posadas Larsen ($70.000/noche), Hotel Kepenke ($75.000/día). Cachi: La Merced del Alto ($200.000/noche), Hopedaje la Casona de Cachai ($40.000/día)."
-  },
-  {
-    "tema": "salta",
-    "pregunta": "como es clima de Salta y cuál es la mejor época para viajar",
-    "respuesta": "Clima subtropical con estación seca. Veranos cálidos (25-30°C) con lluvias frecuentes, inviernos templados y secos (15-20°C). Mejor época para visitar de abril a noviembre."
-  },
-  {
-    "tema": "salta",
-    "pregunta": "Cuáles son los mejores lugares para visitar en Salta",
-    "respuesta": "Salta ofrece lugares como Salta capital, con su arquitectura colonial y el Museo de Arqueología; Cafayate, famoso por sus bodegas y paisajes de viñedos; La Puna, ideal para ver lagunas altiplánicas y montañas; y Cachi, un pintoresco pueblo en los valles calchaquíes, rodeado de montañas y ruinas prehispánicas."
-  },
-  {
-    "tema": "salta",
-    "pregunta": "Qué actividades turísticas se pueden hacer en Salta",
-    "respuesta": "Recorrido por centro histórico y Catedral, ascenso en teleférico al Cerro San Bernardo (costo promedio $150.000), Museo de Arqueología de Alta Montaña (MAAM) con entrada a voluntad, tour por bodegas y degustación en Cafayate (costo promedio $80.000), excursión a Quebrada de las Conchas (costo promedio $200.000), Museo de la Vid y el Vino (entrada a voluntad), recorrido por Cachi y Parque Nacional Los Cardones (costo promedio $60.000), paseo por Ruta 40 hacia Cachi (costo promedio $40.000)."
-  },
-  {
-    "tema": "salta",
-    "pregunta": "Cómo moverse dentro de Salta",
-    "respuesta": "Sistema de transporte público urbano eficiente en la capital. Para valles y zonas rurales se recomienda alquilar vehículo o contratar excursiones."
-  },
-  {
-    "tema": "san juan",
-    "pregunta": "cual es la historia o su historia",
-    "respuesta": "Fundada en 1562 por Juan Jufré, la provincia fue cuna de Domingo Faustino Sarmiento, figura clave en la educación argentina. San Juan fue devastada por un terremoto en 1944, lo que dio lugar a una reconstrucción moderna. Tiene fuerte herencia huarpe y una economía ligada a la vitivinicultura y la minería."
-  },
-  {
-    "tema": "san juan",
-    "pregunta": "Como puedo viajar a San Juan en avión y cuánto cuesta y dura",
-    "respuesta": "El Aeropuerto Domingo Faustino Sarmiento (UAQ) conecta San Juan con Buenos Aires. El vuelo dura aproximadamente 2 horas y cuesta en promedio $145.000 por Aerolíneas Argentinas (ida y vuelta)."
-  },
-  {
-    "tema": "san juan",
-    "pregunta": "Como puedo viajar a San Juan en micro y cuánto cuesta y dura",
-    "respuesta": "Acceso principal por Ruta Nacional 40. Hay micros diarios desde Buenos Aires. El viaje dura aproximadamente 15 horas y cuesta unos $90.000 (ida y vuelta) por Central de Pasajes."
-  },
-  {
-    "tema": "san juan",
-    "pregunta": "Que opciones de hotel o hospedaje o departamento hay en San Juan y cuánto cuestan",
-    "respuesta": "San Juan capital: Hotel Alkazar ($70.000/noche), Hotel Viñas del Sol ($95.000/noche), Apart Hotel Terraza ($60.000/noche). Valle Fértil: Hotel Rural Luna del Valle ($45.000/noche), Cabañas Valle Verde ($40.000/noche). Barreal: Eco Hotel Posada Paso de los Patos ($90.000/noche), El Aleph Cabañas ($55.000/noche)."
-  },
-  {
-    "tema": "san juan",
-    "pregunta": "como es clima de San Juan y cuál es la mejor época para viajar",
-    "respuesta": "Clima desértico, muy seco. Veranos extremadamente calurosos (35-45°C), inviernos templados (10-20°C). Mejor época: de abril a octubre para evitar el calor intenso."
-  },
-  {
-    "tema": "san juan",
-    "pregunta": "Cuales son los mejores lugares para visitar en San Juan",
-    "respuesta": "Ischigualasto (Valle de la Luna), declarado Patrimonio de la Humanidad; Parque Nacional El Leoncito en Calingasta; la Casa Natal de Sarmiento; el Dique de Ullum; y Barreal, ideal para astroturismo y naturaleza."
-  },
-  {
-    "tema": "san juan",
-    "pregunta": "Que actividades turísticas se pueden hacer en San Juan",
-    "respuesta": "Excursión al Valle de la Luna ($90.000), observación astronómica en el Leoncito (a voluntad), rafting en el río San Juan ($70.000), visita a bodegas ($60.000), trekking en cerros de Barreal ($50.000), recorrido histórico por la ciudad ($30.000)."
-  },
-  {
-    "tema": "san juan",
-    "pregunta": "Como moverse dentro de San Juan",
-    "respuesta": "Transporte público limitado fuera del centro. Para zonas turísticas alejadas como Valle Fértil o Calingasta se recomienda alquilar vehículo o contratar excursiones."
-  },
-  {
-    "tema": "san luis",
-    "pregunta": "cual es la historia o su historia",
-    "respuesta": "San Luis fue fundada en 1594 por Luis Jufré de Loaysa y Meneses. Su historia está marcada por la resistencia indígena de los huarpes y la posterior colonización. Durante las guerras de independencia, la provincia tuvo un rol logístico importante. En el siglo XX se consolidó como destino turístico y modelo de gestión moderna."
-  },
-  {
-    "tema": "san luis",
-    "pregunta": "Como puedo viajar a San Luis en avión y cuánto cuesta y dura",
-    "respuesta": "El Aeropuerto Brigadier Mayor César Raúl Ojeda (LUQ) conecta San Luis capital con Buenos Aires. El vuelo dura aproximadamente 1 hora y 45 minutos y cuesta en promedio $145.000 por Aerolíneas Argentinas (ida y vuelta)."
-  },
-  {
-    "tema": "san luis",
-    "pregunta": "Como puedo viajar a San Luis en micro y cuánto cuesta y dura",
-    "respuesta": "Conectada por Rutas Nacionales 7 y 20. Hay servicios frecuentes desde Buenos Aires. El viaje en micro dura unas 12 horas y cuesta alrededor de $85.000 ida y vuelta por Central de Pasajes."
-  },
-  {
-    "tema": "san luis",
-    "pregunta": "Que opciones de hotel o hospedaje o departamento hay en San Luis y cuánto cuestan",
-    "respuesta": "Ciudad de San Luis: Premium Tower Suites ($80.000/noche), Hotel Dos Venados ($60.000/noche), Hotel Aiello ($55.000/noche). Merlo: Epic Hotel Villa de Merlo ($180.000/noche), Altos del Sol Spa & Resort ($120.000/noche), Cabañas Rincón del Valle ($70.000/noche). Potrero de los Funes: Hotel Potrero de los Funes ($190.000/noche), Complejo Ayres del Lago ($90.000/noche)."
-  },
-  {
-    "tema": "san luis",
-    "pregunta": "como es clima de San Luis y cuál es la mejor época para viajar",
-    "respuesta": "Clima semiárido con veranos cálidos (30-38°C) y tormentas ocasionales, inviernos templados (10-20°C). La mejor época para viajar es de marzo a noviembre, cuando el clima es más suave y seco."
-  },
-  {
-    "tema": "san luis",
-    "pregunta": "Cuales son los mejores lugares para visitar en San Luis",
-    "respuesta": "Villa de Merlo, conocida por su microclima; Potrero de los Funes con su lago y circuito de turismo aventura; Parque Nacional Sierra de las Quijadas con paisajes áridos y fósiles; y Salinas del Bebedero, ideales para fotografía."
-  },
-  {
-    "tema": "san luis",
-    "pregunta": "Que actividades turísticas se pueden hacer en San Luis",
-    "respuesta": "Senderismo en la Reserva Natural Mogote Bayo ($50.000), parapente en Merlo ($90.000), city tour por San Luis capital ($30.000), visita al Parque Astronómico de La Punta (gratis), cabalgatas y turismo rural en Carpintería ($40.000), paseo en catamarán en Potrero ($35.000), visita a Sierra de las Quijadas ($70.000)."
-  },
-  {
-    "tema": "san luis",
-    "pregunta": "Como moverse dentro de San Luis",
-    "respuesta": "Transporte público funcional en la capital y principales villas. Para destinos turísticos como Merlo o Quijadas, se recomienda alquilar auto o contratar excursiones."
-  },
-  {
-    "tema": "santa cruz",
-    "pregunta": "cual es la historia o su historia",
-    "respuesta": "La historia de Santa Cruz comienza con los pueblos originarios como los tehuelches, quienes habitaron la región durante miles de años antes de la llegada de los europeos. En el siglo XVI, exploradores españoles como Hernando de Magallanes recorrieron la costa atlántica, aunque el territorio permaneció casi despoblado durante mucho tiempo. En el siglo XIX, con la expansión del Estado argentino hacia la Patagonia, comenzaron los asentamientos y la colonización, impulsados por la llamada \"Conquista del Desierto\". Santa Cruz se constituyó oficialmente como territorio nacional en 1884 y, más tarde, fue reconocida como provincia en 1957. Su economía creció gracias a la ganadería ovina, la minería, el petróleo y, en tiempos recientes, el turismo, especialmente en lugares como El Calafate y el glaciar Perito Moreno. Hoy es una de las provincias más importantes del sur argentino, con una rica historia ligada al desarrollo patagónico."
-  },
-  {
-    "tema": "santa cruz",
-    "pregunta": "Como puedo viajar en avión y cuánto cuesta y dura",
-    "respuesta": "Puedes viajar a Santa Cruz en avión a través del Aeropuerto Internacional Viru Viru que conecta la ciudad con Buenos Aires y otras ciudades principales. El tiempo estimado de vuelo es de aproximadamente 3:00 horas, con un costo desde $80.000 por Aerolíneas Argentinas, incluyendo ida y vuelta"
-  },
-  {
-    "tema": "santa cruz",
-    "pregunta": "Como puedo viajar en micro y cuánto cuesta y dura",
-    "respuesta": "Podés viajar en micro desde Buenos Aires a ciudades como Río Gallegos (capital de Santa Cruz). El viaje dura aproximadamente 36 a 40 horas, dependiendo de la empresa y el destino dentro de la provincia. El pasaje cuesta entre $100.000 y $150.000. Las salidas son desde Retiro y operan empresas como Taqsa, Marga, y Condor Estrella."
-  },
-  {
-    "tema": "santa cruz",
-    "pregunta": "Qué opciones de hotel o hospedaje o departamento hay en Santa Cruz y cuánto cuestan",
-    "respuesta": "El hotel Patagonia, ubicado en el centro de Río Gallegos, este hotel ofrece habitaciones amplias y confortables. Cuenta con restaurante, bar y salas de reuniones, siendo ideal tanto para viajeros de negocios como de placer. Los huéspedes destacan su atención y limpieza ($75.000 por noche). El hotel Amérian Río Gallegos Apart & Suites, situado estratégicamente en la avenida principal de la ciudad, este hotel combina la comodidad de un apart con los servicios de un hotel. Ofrece 74 habitaciones modernas, estacionamiento propio, Wi-Fi en todo el edificio y desayuno continental. Como ultima opción, el hotel Esplendor by Wyndham El Calafate se encuentra en El Calafate y ofrece vistas panorámicas al Lago Argentino. Cuenta con spa, piscina cubierta y restaurante gourmet. Es una opción destacada para quienes buscan confort y buena ubicación en la ciudad"
-  },
-  {
-    "tema": "santa cruz",
-    "pregunta": "como es clima de Santa Cruz y cuál es la mejor época para viajar",
-    "respuesta": "El clima de Santa Cruz, Argentina, es frío y ventoso, especialmente en la zona sur y en las áreas cercanas a los glaciares. Las temperaturas en invierno suelen ser bajas, con mínimas que pueden llegar a los -10°C, mientras que en verano las máximas rondan los 15°C a 20°C. La mejor época para visitar es durante el verano, de diciembre a marzo, cuando las temperaturas son más suaves y se pueden disfrutar actividades al aire libre, como el trekking o la visita a los glaciares. Sin embargo, la primavera y el otoño también son buenas opciones, ya que el clima es agradable y el paisaje ofrece tonos espectaculares. El invierno, aunque frío, es ideal para quienes disfrutan de la nieve y las actividades invernales."
-  },
-  {
-    "tema": "santa cruz",
-    "pregunta": "Cuáles son los mejores lugares para visitar en Santa Cruz",
-    "respuesta": "anta Cruz, Argentina, es un destino fascinante, conocido por su impresionante naturaleza. Uno de los lugares más destacados es El Calafate, la puerta de entrada al Parque Nacional Los Glaciares, hogar del famoso Glaciar Perito Moreno, que sigue avanzando, ofreciendo un espectáculo natural único. A solo unas horas de allí, El Chaltén es ideal para los amantes del trekking, con el imponente Monte Fitz Roy y el Cerro Torre como sus principales atractivos, siendo un paraíso para los senderistas. Río Gallegos, la capital de la provincia, es un buen punto de partida para explorar la región, y cuenta con una reserva natural costera donde se puede observar una gran cantidad de aves. Más al sur, Punta Tombo es famosa por su enorme colonia de pingüinos de Magallanes, que llega a la costa durante los meses de primavera y verano. El Parque Nacional Monte León, en la costa atlántica, es un lugar más tranquilo, perfecto para disfrutar de paisajes solitarios y observar fauna marina. La Cueva de las Manos, por su parte, es un sitio arqueológico impresionante, con pinturas rupestres de hace miles de años. Y los lagos Posadas y Pueyrredón ofrecen tranquilidad y hermosos paisajes para aquellos que buscan estar en contacto con la naturaleza."
-  },
-  {
-    "tema": "santa cruz",
-    "pregunta": "Qué actividades turísticas se pueden hacer en Santa Cruz",
-    "respuesta": "El Chaltén, autodenominado capital nacional del trekking, es un paraíso para los amantes de la montaña. Sus senderos llevan a lugares icónicos como la Laguna de los Tres y el Cerro Fitz Roy. Además, es ideal para la escalada, la pesca deportiva y el turismo de aventura. Su entorno natural, casi virgen, lo convierte en uno de los mejores destinos para desconectarse y explorar paisajes únicos. Por otro lado, conocida como la puerta de entrada al Glaciar Perito Moreno, El Calafate es uno de los destinos patagónicos más emblemáticos. Además de las pasarelas que permiten ver de cerca el glaciar, se pueden hacer navegaciones por el Lago Argentino para conocer otros glaciares, como el Upsala y el Spegazzini. Una excursión por los glaciares ronda entre los $140.000 por persona, dependiendo la agencia de turismo. También se ofrecen experiencias en estancias patagónicas, cabalgatas y visitas al museo Glaciarium, un museo de glaciares que incluye un bar de hielo. La entrada general cuesta $20.000 según el sitio oficial."
-  },
-  {
-    "tema": "santa cruz",
-    "pregunta": "Cómo moverse dentro de Santa Cruz",
-    "respuesta": "Dentro de Santa Cruz podés moverte en micros de media y larga distancia que conectan las principales localidades como Río Gallegos, El Calafate, Puerto Deseado y Caleta Olivia. También hay servicios de combis, taxis y remises en las ciudades más grandes. En zonas turísticas como El Calafate o El Chaltén, es común usar excursiones organizadas, traslados privados o alquilar un auto para recorrer parques y rutas escénicas. Las distancias son largas y muchas rutas son solitarias, por lo que es importante planificar bien los traslados."
-  },
-  {
-    "tema": "santa fe",
-    "pregunta": "cual es la historia o su historia",
-    "respuesta": "Fundada en 1573, la ciudad de Santa Fe fue una de las primeras del país y desempeñó un papel clave en la historia argentina, incluyendo la firma de la Constitución Nacional en 1853."
-  },
-  {
-    "tema": "santa fe",
-    "pregunta": "Cómo puedo viajar a Santa Fe en avión y cuánto cuesta y dura",
-    "respuesta": "Vuelos desde Buenos Aires al Aeropuerto de Santa Fe duran aproximadamente 1h 15m, con precios desde $60.000 incluyendo ida y vuelta"
-  },
-  {
-    "tema": "santa fe",
-    "pregunta": "Cómo puedo viajar a Santa Fe en micro y cuánto cuesta y dura",
-    "respuesta": "El viaje en micro desde Buenos Aires a Santa Fe dura entre 6 y 8 horas, con precios que varían desde los $30.000"
-  },
-  {
-    "tema": "santa fe",
-    "pregunta": "Qué opciones de hotel o hospedaje o departamento hay en Santa Fe y cuánto cuestan",
-    "respuesta": "Santa Fe ofrece varias opciones como Castelar Hotel Santa Fe (69.474/noche), Hotel Riogrande (71.682/noche), House Park Hotel Boutique (107.682/noche), Hostal Santa Fe De La Veracruz (88.639/noche), Hotel de Campo Colón Resort and Spa (80.932/noche). Rosario: Holiday Inn Express Rosario by IHG (74.811/noche), Aloha II (44.433/noche), Exclusivo Apart Rio con piscina (47.734/noche), Hotel Solans Riviera (88.061/noche), Carat Apart Boutique (99.748/noche)"
-  },
-  {
-    "tema": "santa fe",
-    "pregunta": "como es clima de Santa Fe y cuál es la mejor época para viajar",
-    "respuesta": "Clima templado húmedo, con veranos calurosos e inviernos suaves, la mejor época para visitar es durante la primavera y el otoño."
-  },
-  {
-    "tema": "santa fe",
-    "pregunta": "Cuáles son los mejores lugares para visitar en Santa Fe",
-    "respuesta": "Ciudad de Santa Fe, Rosario, Parque Nacional Islas de Santa Fe"
-  },
-  {
-    "tema": "santiago del estero",
-    "pregunta": "cual es la historia o su historia",
-    "respuesta": "Es la provincia más antigua de Argentina, fundada en 1553 por Francisco de Aguirre. Conocida como “Madre de Ciudades”. Fue hogar de comunidades indígenas tonocotés y juríes. Conserva el uso del quichua santiagueño, única variante del quechua en Argentina. Cuna de importantes manifestaciones culturales, especialmente música folclórica."
-  },
-  {
-    "tema": "santiago del estero",
-    "pregunta": "Como puedo viajar a santiago del estero en avion y cuanto cuesta y dura",
-    "respuesta": "El Aeropuerto Vicecomodoro Ángel de la Paz Aragonés (SDE) conecta la capital con Buenos Aires. El tiempo estimado de los vuelos es de 1 hora y media de vuelo y con un costo promedio de $135.000 por Aerolineas Argentinas.  Incluye ida y vuelta"
-  },
-  {
-    "tema": "santiago del estero",
-    "pregunta": "Como puedo viajar a santiago del estero en micro y cuanto cuesta y dura",
-    "respuesta": "Se conecta con Buenos Aires por Rutas Nacionales 9 y 34. Servicios regulares de ómnibus desde Buenos Aires y ciudades principales. El tiempo estimado de los micros es de 12 horas de viajes y con un costo promedio de $80.000 por central de pasajes. Incluye ida y vuelta"
-  },
-  {
-    "tema": "santiago del estero",
-    "pregunta": "Qué opciones de hotel o hospedaje o departamentotel hay en Santiago del Estero y cuánto cuestan",
-    "respuesta": "Santiago del Estero capital: Hotel Casino Carlos V ($365.000/noche), Hotel Coventry ($75.000/día), Hotel Termal Rio Hondo ($95.000/día), San Marino Apartamentos ($40.000/día)."
-  },
-  {
-    "tema": "santiago del estero",
-    "pregunta": "como es clima de Santiago del Estero y cuál es la mejor época para viajar",
-    "respuesta": "Clima subtropical con estación seca, veranos muy calurosos y húmedos (35-45°C) con tormentas eléctricas frecuentes. Mejor época de mayo a septiembre."
-  },
-  {
-    "tema": "santiago del estero",
-    "pregunta": "Cuáles son los mejores lugares para visitar en Santiago del Estero",
-    "respuesta": "Santiago del Estero destaca por Termas de Río Hondo, famosa por sus aguas termales y spas; La Banda, conocida por su tradición cultural y musical; Ruinas de los Quilmes, un importante sitio arqueológico indígena; y El Río Dulce, ideal para disfrutar de actividades al aire libre y deportes acuáticos."
-  },
-  {
-    "tema": "santiago del estero",
-    "pregunta": "Qué actividades turísticas se pueden hacer en Santiago del Estero",
-    "respuesta": "Convento de Santo Domingo y Parque Aguirre (a voluntad), Centro Cultural del Bicentenario ($45.000), peñas folclóricas tradicionales ($50.000), Termas de Río Hondo ($70.000), pesca deportiva en Embalse Río Hondo ($30.000), competencias en Autódromo Termas de Río Hondo ($150.000), caminatas en Sierras de Guasayán ($70.000), réplica Casa de Tucumán (a voluntad), pinturas rupestres en Maco ($65.000)."
-  },
-  {
-    "tema": "santiago del estero",
-    "pregunta": "Cómo moverse dentro de Santiago del Estero",
-    "respuesta": "Transporte público limitado. Se recomienda alquilar vehículo o contratar excursiones para zonas rurales."
-  },
-  {
-    "tema": "tierra del fuego",
-    "pregunta": "cual es la historia o su historia",
-    "respuesta": "La historia de Tierra del Fuego comienza con los pueblos originarios yámanas, selk’nam, haush y kawésqar, que habitaron la región durante milenios adaptándose a un entorno hostil y frío. En 1520, Fernando de Magallanes fue el primer europeo en avistar estas tierras, nombrándolas \"Tierra del Humo\", luego cambiada a \"Tierra del Fuego\" por Carlos I de España. Durante siglos, la región permaneció aislada hasta fines del siglo XIX, cuando el Estado argentino fortaleció su presencia mediante la instalación de un presidio en Ushuaia y la expansión de la soberanía. Esto tuvo un fuerte impacto en los pueblos originarios, que fueron desplazados o exterminados. En 1884 se creó el Territorio Nacional de Tierra del Fuego y recién en 1990 fue declarado provincia, incluyendo también a las islas del Atlántico Sur y la Antártida Argentina. Hoy, Tierra del Fuego es la provincia más austral del país, con una historia marcada por el contraste entre la cultura indígena, la colonización y su crecimiento como polo turístico y estratégico."
-  },
-  {
-    "tema": "tierra del fuego",
-    "pregunta": "Como puedo viajar a Tierra del Fuego en avión y cuánto cuesta y dura",
-    "respuesta": "Se puede viajar desde Buenos Aires a Ushuaia en avión directo, con una duración aproximada de 3 horas y 30 minutos. Aerolíneas Argentinas y otras aerolíneas operan esta ruta. El precio del pasaje varía según la temporada, pero ronda entre $80.000 y $150.000 ARS"
-  },
-  {
-    "tema": "tierra del fuego",
-    "pregunta": "Como puedo viajar a Tierra del Fuego en micro y cuánto cuesta y dura",
-    "respuesta": "Viajar en micro desde Buenos Aires a Ushuaia puede tomar entre 50 y 55 horas, dependiendo del servicio. El viaje incluye cruzar a Chile y luego reingresar a Argentina, por lo que es más complejo. El precio va desde aproximadamente $270.000 ARS en adelante"
-  },
-  {
-    "tema": "tierra del fuego",
-    "pregunta": "Qué opciones de hotel o hospedaje o departamento hay en Tierra del Fuego y cuánto cuestan",
-    "respuesta": "En Ushuaia: Hotel Tierra del Fuego, ubicado en el centro de Ushuaia, ofrece habitaciones con vistas al canal Beagle y a las montañas. Cuenta con gimnasio, Wi-Fi gratuito y desayuno incluido. El precio por noche ronda los $196.600 ARS, aunque puede variar según la temporada y la disponibilidad. Luego, el hotel Cilene del Fuego Suites & Spa, es de 4 estrellas, se encuentra a pocos metros del centro de Ushuaia y ofrece suites con cocina equipada, spa, piscina cubierta y Wi-Fi gratuito. El precio por noche es de aproximadamente $217.500 ARS, sujeto a cambios según la fecha de reserva. Finalmente, se encuentra el hotel Los Acebos Ushuaia Hotel situado en una colina con vistas panorámicas al canal Beagle, este hotel ofrece habitaciones amplias, restaurante gourmet y Wi-Fi gratuito. El precio por noche puede variar, por lo que se recomienda consultar directamente con el hotel para obtener tarifas actualizadas."
-  },
-  {
-    "tema": "tierra del fuego",
-    "pregunta": "como es clima de Tierra del Fuego y cuál es la mejor época para viajar",
-    "respuesta": "El clima es frío la mayor parte del año, con veranos frescos y agradables e inviernos largos y con nieve. La mejor época para viajar es entre diciembre y marzo, cuando las temperaturas oscilan entre 10°C y 20°C y hay más luz natural para disfrutar los paisajes."
-  },
-  {
-    "tema": "tierra del fuego",
-    "pregunta": "Cuáles son los mejores lugares para visitar en Tierra del Fuego",
-    "respuesta": "Entre los principales lugares para conocer están Ushuaia, el Parque Nacional Tierra del Fuego, el Canal Beagle y la zona de los lagos como el Fagnano y el Escondido. También es muy interesante el Museo del Fin del Mundo y la histórica cárcel de Ushuaia."
-  },
-  {
-    "tema": "tierra del fuego",
-    "pregunta": "Qué actividades turísticas se pueden hacer en Tierra del Fuego",
-    "respuesta": "Se puede hacer senderismo, paseos en tren y navegación por el Canal Beagle, visitar museos, recorrer el parque nacional, hacer excursiones en 4x4 por la nieve, pescar, esquiar en invierno y hasta tomar cruceros hacia la Antártida desde Ushuaia. Por ejemplo, para el Museo Marítimo y del Presidio la entrada general cuesta $36.000; jubilados, estudiantes y docentes argentinos $25.000; menores de 12 años entran gratis. La entrada es válida por dos días consecutivos. Otra opción son las clases de esquí que en Ushuaia cuestan $40.000 la hora, por persona."
-  },
-  {
-    "tema": "tierra del fuego",
-    "pregunta": "Cómo moverse dentro de Tierra del Fuego",
-    "respuesta": "Dentro de Tierra del Fuego, podés moverte principalmente en micros interurbanos que conectan Ushuaia con Río Grande y otras localidades. En las ciudades principales, como Ushuaia, hay taxis, remises y servicios de colectivos urbanos. Además, en zonas turísticas, es común alquilar autos o contratar excursiones organizadas para visitar lugares como el Parque Nacional Tierra del Fuego o el Canal Beagle. Las distancias son relativamente cortas entre ciudades, pero en áreas más alejadas, el transporte público es limitado, por lo que es importante planificar los traslados con anticipación."
-  },
-  {
-    "tema": "tucuman",
-    "pregunta": "cual es la historia o su historia",
-    "respuesta": "San Miguel de Tucumán fue fundada en 1565 por Diego de Villarroel y trasladada a su ubicación actual en 1685. Conocida como el “Jardín de la República”. Lugar destacado en la historia argentina por ser la cuna de la independencia nacional, firmada el 9 de julio de 1816. Centro económico importante por la industria azucarera."
-  },
-  {
-    "tema": "tucuman",
-    "pregunta": "Como puedo viajar a tucuman en avion y cuanto cuesta y dura",
-    "respuesta": "El Aeropuerto Internacional Teniente Benjamín Matienzo (TUC) ofrece conexiones diarias con Buenos Aires. El tiempo estimado de los vuelos es de 2 horas de vuelo y con un costo promedio de $145.000 por Aerolineas Argentinas.  Incluye ida y vuelta"
-  },
-  {
-    "tema": "tucuman",
-    "pregunta": "Como puedo viajar a tucuman en micro y cuanto cuesta y dura",
-    "respuesta": "Bien conectada por Ruta Nacional 9 y 38. Servicios frecuentes de ómnibus desde Buenos Aires y principales ciudades.  El tiempo estimado de los micros es de 14 horas de viajes y con un costo promedio de $90.000 por central de pasajes. Incluye ida y vuelta"
-  },
-  {
-    "tema": "tucuman",
-    "pregunta": "Qué opciones de hotel o hospedaje o departamentotel hay en Tucumán y cuánto cuestan",
-    "respuesta": "San Miguel de Tucumán: Sheraton Tucumán Hotel ($135.000/día), Hotel Español ($55.000/noche), Garden Park Hotel ($90.000/noche). Tafí del Valle: Hostería Lunahuana ($102.000/noche), Cabañas El Portal de Tafí ($20.000/noche), Hotel Quilla Inn ($50.000/día). Yerba Buena: Howard Johnson Tucumán Center ($133.000/día)."
-  },
-  {
-    "tema": "tucuman",
-    "pregunta": "como es clima de Tucumán y cuál es la mejor época para viajar",
-    "respuesta": "Clima subtropical con estación seca, veranos calurosos y lluviosos (25-35°C), inviernos templados y secos (12-20°C). Mejor época de abril a octubre."
-  },
-  {
-    "tema": "tucuman",
-    "pregunta": "Cuáles son los mejores lugares para visitar en Tucumán",
-    "respuesta": "Tucumán ofrece lugares como San Miguel de Tucumán, su capital, con una rica historia colonial; Tafí del Valle, un destino de montaña ideal para el ecoturismo; Los Menhires, un yacimiento arqueológico de piedras precolombinas; y El Cadillal, un embalse perfecto para actividades acuáticas y recreación."
-  },
-  {
-    "tema": "tucuman",
-    "pregunta": "Qué actividades turísticas se pueden hacer en Tucumán",
-    "respuesta": "Casa Histórica de la Independencia y Plaza Independencia (entrada a voluntad), Parque 9 de Julio y Museo Casa Padilla ($45.000), tour por ingenios azucareros ($80.000), menhires precolombinos en Tafí del Valle ($70.000), degustación de quesos y gastronomía local ($100.000), trekking en Dique La Angostura ($150.000), senderismo en Cerro del Médano ($90.000), participación en festividades tradicionales ($40.000), visita a capillas históricas y mercado artesanal ($30.000)."
-  },
-  {
-    "tema": "tucuman",
-    "pregunta": "Cómo moverse dentro de Tucumán",
-    "respuesta": "Transporte público urbano eficiente en San Miguel de Tucumán. Para áreas rurales y montañosas se recomienda alquilar vehículo o contratar excursiones."
-  }
+    {
+        "tema": "buenos aires",
+        "pregunta": "cual es la historia o su historia de buenos aires",
+        "respuesta": "Fue fundada en 1536 por Pedro de Mendoza y refundada en 1580 por Juan de Garay. Desde el período colonial fue un puerto clave por su ubicación estratégica sobre el Río de la Plata. Fue escenario de las Invasiones Inglesas (1806–1807) y de los principales procesos revolucionarios, incluida la Revolución de Mayo en 1810. La provincia de Buenos Aires, que rodea a la ciudad, también tuvo gran protagonismo en la historia nacional, con figuras como Juan Manuel de Rosas y una economía basada en la ganadería, agricultura e industria."
+    },
+    {
+        "tema": "buenos aires",
+        "pregunta": "como puedo viajar a buenos aires en avion y cuanto cuesta y dura",
+        "respuesta": "Aeroparque Jorge Newbery (AEP) y Ezeiza - Aeropuerto Internacional Ministro Pistarini (EZE) conectan Buenos Aires con el resto del país y el mundo. Tiempo estimado desde otras provincias: entre 1 y 2 horas. Costo promedio de ida y vuelta: $130.000 a $160.000 según origen y aerolínea"
+    },
+    {
+        "tema": "buenos aires",
+        "pregunta": "como puedo viajar a Buenos Aires en micro y cuánto cuesta y dura",
+        "respuesta": "La Terminal de Ómnibus de Retiro es la principal del país. Desde provincias del norte y oeste (como Salta o Mendoza), el viaje en micro toma entre 12 y 20 horas. El costo promedio ida y vuelta es de $80.000 a $100.000 dependiendo del origen."
+    },
+    {
+        "tema": "buenos aires",
+        "pregunta": "que opciones de hotel o hospedaje o departamento hay en Buenos Aires y cuánto cuestan",
+        "respuesta": "En CABA: Alvear Palace Hotel (Recoleta): $250.000/noche, Hotel NH Collection Centro: $100.000/noche, Ibis Obelisco: $60.000/noche, Hostel Estoril (Avenida de Mayo): $25.000/noche. En Provincia de Buenos Aires (PBA), los más destacados son: San Isidro: Hotel del Casco ($95.000/noche), Tigre: Wyndham Nordelta ($120.000/noche), Cabañas Delta ($50.000/noche), Mar del Plata: Hotel Costa Galana ($160.000/noche), Hotel Tronador ($70.000/noche), hostels desde $30.000."
+    },
+    {
+        "tema": "buenos aires",
+        "pregunta": "como es clima y cual es la mejor época para viajar en buenos aires",
+        "respuesta": "Clima templado húmedo. Veranos cálidos (28–35°C) y húmedos, inviernos suaves (5–15°C). La mejor época para viajar es de marzo a mayo (otoño) y septiembre a noviembre (primavera), cuando hay menos lluvias y temperaturas agradables."
+    },
+    {
+        "tema": "buenos aires",
+        "pregunta": "cuales son los mejores lugares para visitar en buenos aires",
+        "respuesta": "En CABA: La Boca (Caminito), San Telmo, Recoleta (cementerio y museos), Plaza de Mayo y Casa Rosada, Obelisco, Puerto Madero, Teatro Colón. En Provincia de Buenos Aires (PBA): Costa Atlántica: Mar del Plata, Pinamar, Villa Gesell, Cariló, Sierra de la Ventana: naturaleza, trekking, Tigre: Delta del Paraná, Puerto de Frutos, San Antonio de Areco: tradición gauchesca, La Plata: ciudad planificada, Catedral, Museo de Ciencias Naturales."
+    },
+    {
+        "tema": "buenos aires",
+        "pregunta": "que actividades turísticas se pueden hacer en buenos aires",
+        "respuesta": "En CABA: Visitas guiadas por el Casco Histórico (a voluntad), Tour en bus turístico ($50.000), Tango show con cena en San Telmo o Abasto ($100.000 aprox.), Museos: MALBA, Bellas Artes, Museo del Bicentenario (muchos con entrada libre o hasta $25.000), Feria de San Telmo (domingo) y Feria de Mataderos, Navegar por el Río de la Plata en catamarán ($45.000). En PBA: Surf, pesca y actividades náuticas en la Costa Atlántica (desde $30.000), Trekking y tirolesa en Sierra de la Ventana ($40.000–$60.000), Kayak y paseos en lancha en el Delta ($50.000), Fiesta de la Tradición en San Antonio de Areco (noviembre, acceso libre), Recorridos históricos en estancias rurales ($60.000 aprox.)."
+    },
+    {
+        "tema": "buenos aires",
+        "pregunta": "como moverse dentro de Buenos Aires",
+        "respuesta": "En CABA: Excelente red de transporte público: subtes (líneas A a H), colectivos (más de 150 líneas), trenes suburbanos. Se usa la Tarjeta SUBE para todos los medios. También hay bicicletas públicas (BA Ecobici) gratuitas por tiempo limitado. En Provincia de Buenos Aires: Trenes suburbanos desde CABA a localidades del conurbano y más allá (Tigre, La Plata, Pilar, etc.). Colectivos interurbanos (con SUBE). Para recorrer zonas rurales, turísticas o balnearias (como Sierra de la Ventana, Mar del Plata o Areco), se recomienda alquilar vehículo, comprar un boleto de micro o contratar excursiones."
+    },
+    {
+        "tema": "catamarca",
+        "pregunta": "cual es la historia o su historia de catamarca",
+        "respuesta": "San Fernando del Valle de Catamarca fue fundada en 1683 por Fernando de Mendoza y Mate de Luna. La provincia tiene profundas raíces indígenas diaguitas y calchaquíes. Su nombre proviene del quechua “Katamarka” que significa “Fortaleza en la ladera”. Fue escenario de las Guerras Calchaquíes. Destaca su artesanía en telar, cuero y cerámica."
+    },
+    {
+        "tema": "catamarca",
+        "pregunta": "como puedo viajar a catamarca en micro y cuanto cuesta y dura",
+        "respuesta": "El Aeropuerto Coronel Felipe Varela (CTC) conecta San Fernando del Valle de Catamarca con Buenos Aires.  El tiempo estimado de los vuelos es de 2 horas de vuelo y con un costo promedio de $145.000 por Aerolineas Argentinas. Incluye ida y vuelta"
+    },
+    {
+        "tema": "catamarca",
+        "pregunta": "como puedo viajar a catamarca en micro y cuanto cuesta y dura",
+        "respuesta": "Acceso principal por Ruta Nacional 38 y 60. Servicios regulares de ómnibus desde Buenos Aires y ciudades principales. El tiempo estimado de los micros es de 16 horas de viajes y con un costo promedio de $90.000 por central de pasajes. Incluye ida y vuelta"
+    },
+    {
+        "tema": "catamarca",
+        "pregunta": "que opciones de hotel o hospedaje o departamento hay en Catamarca y cuánto cuestan",
+        "respuesta": "San Fernando del Valle: Amerian Catamarca Park Hotel ($115.000/noche), Hotel Casino Catamarca ($165.000/día), Hotel Ancasti ($150.000/noche), Apart Hotel Cuncumen ($50.000/noche), alojamientos familiares desde $45.000/noche."
+    },
+    {
+        "tema": "catamarca",
+        "pregunta": "como es clima de catamarca y cuál es la mejor epoca para viajar",
+        "respuesta": "Clima árido, veranos muy cálidos (30-38°C), inviernos templados y secos (15-20°C). Mejor época de abril a octubre."
+    },
+    {
+        "tema": "catamarca",
+        "pregunta": "cuales son los mejores lugares para visitar en catamarca",
+        "respuesta": "Catamarca tiene localidades destacadas como Fiambalá, conocida por sus termas y la Ruta del Adobe; Antofagasta de la Sierra, famosa por sus paisajes volcánicos; La Cuesta del Portezuelo, con vistas panorámicas impresionantes; El Shincal de Quimivil, con ruinas incas; y Los Seismiles, con altos picos montañosos ideales para el turismo de aventura."
+    },
+    {
+        "tema": "catamarca",
+        "pregunta": "que actividades turisticas se pueden hacer en catamarca",
+        "respuesta": "Catedral Basílica de Nuestra Señora del Valle ($20.000), Paseo Cultural Urbano y Casa de la Cultura ($60.000), excursión al Dique El Jumeal ($100.000), baños termales en Termas de Fiambalá ($65.000), excursión a Dunas de Tatón ($150.000), visita a viñedos y bodegas artesanales (a voluntad), excursión al Campo de Piedra Pómez ($100.000), visita al volcán Galán y cráter ($165.000), observación de fauna andina en lagunas altoandinas (bajo o a voluntad)."
+    },
+    {
+        "tema": "catamarca",
+        "pregunta": "cómo moverse dentro de Catamarca",
+        "respuesta": "En San Fernando del Valle de Catamarca, el transporte público urbano incluye colectivos con recorridos regulares y tarifas accesibles ($700 por viaje). También hay taxis y remises disponibles. Para explorar el interior provincial, se recomienda alquilar un auto o contratar excursiones, ya que muchos destinos turísticos como la Cuesta del Portezuelo, Antofagasta de la Sierra o Fiambalá están alejados y con acceso limitado por transporte público."
+    },
+    {
+        "tema": "chaco",
+        "pregunta": "cual es la historia o su historia",
+        "respuesta": "Originalmente habitada por pueblos indígenas como los qom y wichí, la provincia fue incorporada al territorio nacional en el siglo XIX y se convirtió en provincia en 1951."
+    },
+    {
+        "tema": "chaco",
+        "pregunta": "como puedo viajar a Chaco en avión y cuánto cuesta y dura",
+        "respuesta": "Vuelos desde Buenos Aires al Aeropuerto de Resistencia duran aproximadamente 1h 30m, con precios desde $56.000"
+    },
+    {
+        "tema": "chaco",
+        "pregunta": "como puedo viajar a Chaco en micro y cuánto cuesta y dura",
+        "respuesta": "El viaje en micro desde Buenos Aires a Resistencia dura entre 12 y 14 horas, con precios  desde $50.000"
+    },
+    {
+        "tema": "chaco",
+        "pregunta": "que opciones de hotel o hospedaje o departamento hay en Chaco y cuánto cuestan",
+        "respuesta": "Hay varias opciones de alojamiento en Chaco como Amérian Hotel Casino Gala (99.720/noche), Gala Hotel y Convenciones (63.702/noche), Howard Johnson Plaza La Ribera (122.396/noche), Cv Apart (53.894/noche). Presidencia Roque Sáenz Peña: El Rebenque (56.675/noche), Apart Temporario HB (81.612/noche), La Termal Centro (49.874/noche), Temporarios Saenz Peña (59.985/noche)."
+    },
+    {
+        "tema": "chaco",
+        "pregunta": "como es clima de Chaco y cuál es la mejor época para viajar",
+        "respuesta": "Clima subtropical con estación seca, caracterizado por veranos calurosos e inviernos templados, la mejor época para visitar es durante el otoño y la primavera."
+    },
+    {
+        "tema": "chaco",
+        "pregunta": "cuales son los mejores lugares para visitar en Chaco",
+        "respuesta": "Parque Nacional Chaco, ciudad de Resistencia (ciudad de las esculturas), y el Parque Provincial Pampa del Indio."
+    },
+    {
+        "tema": "chaco",
+        "pregunta": "que actividades turísticas se pueden hacer en Chaco",
+        "respuesta": "Visitas a parques naturales, turismo cultural en Resistencia y festivales locales."
+    },
+    {
+        "tema": "chaco",
+        "pregunta": "como moverse dentro de Chaco",
+        "respuesta": "Cuenta con una red de rutas y transporte público en las ciudades principales."
+    },
+    {
+        "tema": "chubut",
+        "pregunta": "cual es la historia o su historia",
+        "respuesta": "La historia de Chubut comienza con los pueblos originarios, principalmente tehuelches y mapuches, que habitaron la región durante siglos antes de la llegada europea. En 1865 llegaron los colonos galeses a bordo del barco Mimosa y fundaron la primera colonia en la zona del valle del río Chubut, estableciendo un vínculo cultural que aún perdura. Durante el siglo XIX, el Estado argentino consolidó su control sobre el territorio a través de campañas militares como la Conquista del Desierto. Chubut fue constituido como territorio nacional en 1884 y se convirtió en provincia en 1955. A lo largo del siglo XX creció gracias a la ganadería ovina, la pesca, la industria petrolera y, más recientemente, el turismo en lugares como Puerto Madryn, Península Valdés y la cordillera andina. Su identidad se destaca por la convivencia de culturas originarias, criollas y galesas."
+    },
+    {
+        "tema": "chubut",
+        "pregunta": "como puedo viajar a Chubut en avión y cuánto cuesta y dura",
+        "respuesta": "Para viajar a Chubut en avión desde Buenos Aires, puedes volar directamente a Trelew, Puerto Madryn o Comodoro Rivadavia. El vuelo a Trelew dura aproximadamente 2 horas y 5 minutos, y los precios de los pasajes suelen estar entre $90.000 y $99.000, dependiendo de la temporada. Los vuelos a Puerto Madryn tienen una duración similar, de unas 2 horas, y los pasajes rondan los $80.000. Comodoro Rivadavia también está a unas 2 horas y 15 minutos de Buenos Aires, con precios de pasajes similares a los de los otros destinos. Aerolíneas Argentinas y JetSMART son las principales aerolíneas que operan estas rutas. Los precios pueden variar según la demanda, por lo que es recomendable comprar los boletos con antelación para obtener mejores tarifas."
+    },
+    {
+        "tema": "chubut",
+        "pregunta": "como puedo viajar a Chubut en micro y cuánto cuesta y dura",
+        "respuesta": "Para viajar en micro desde Buenos Aires a Chubut, existen varias opciones dependiendo del destino específico dentro de la provincia. Buenos Aires a Trelew: El viaje en micro desde Buenos Aires a Trelew tiene una duración aproximada de 19 a 22 horas. Los precios de los pasajes varían entre $83.725 y $84.937 ARS por persona, dependiendo de la empresa y la clase del servicio. Empresas como Andesmar, Vía Bariloche y Cóndor Estrella ofrecen estos servicios. Buenos Aires a Puerto Madryn: El viaje en micro desde Buenos Aires a Puerto Madryn tiene una duración aproximada de 17 a 20 horas. Los precios de los pasajes varían entre $71.250 y $106.875 ARS por persona. Empresas como Vía Bariloche, Andesmar y Cóndor Estrella ofrecen estos servicios. Buenos Aires a Comodoro Rivadavia: El viaje en micro desde Buenos Aires a Comodoro Rivadavia tiene una duración aproximada de 24 a 27 horas. Los precios de los pasajes están hasta $101.320 ARS por persona. Empresas como Don Otto, Vía Bariloche y Cóndor Estrella ofrecen estos servicios."
+    },
+    {
+        "tema": "chubut",
+        "pregunta": "que opciones de hotel o hospedaje o departamento hay en Chubut y cuánto cuestan",
+        "respuesta": "Hay varias opciones como Hotel Territorio: Es un hotel de 4 estrellas ubicado en Puerto Madryn, con vistas panorámicas al Golfo Nuevo, ideal para avistamiento de ballenas y disfrutar de la costa patagónica ($134.000 por noche). Dazzler by Wyndham Puerto Madryn: Hotel 4 estrellas frente al mar, en pleno centro de Puerto Madryn. Ofrece habitaciones modernas, spa, restaurante con cocina regional y desayuno buffet. Ideal para turistas que buscan confort y buena ubicación ($95.000 por noche). Hotel Península Valdés: Hotel 3 estrellas ubicado frente al mar en el centro de Puerto Madryn. Ofrece habitaciones modernas con vistas al Golfo Nuevo, spa, gimnasio, restaurante y desayuno buffet. Ideal para quienes buscan confort y una ubicación estratégica ($100.000 por noche)"
+    },
+    {
+        "tema": "chubut",
+        "pregunta": "como es clima de Chubut y cuál es la mejor época para viajar",
+        "respuesta": "Chubut tiene un clima diverso según la región: en la costa, como en Puerto Madryn o Comodoro Rivadavia, es templado, seco y ventoso, con veranos suaves y agradables e inviernos frescos. En cambio, en la zona cordillerana, como Esquel, el clima es más frío, con inviernos nevados y veranos frescos. La mejor época para viajar es el verano, de diciembre a marzo, cuando las temperaturas son más templadas y los días más largos, ideales para recorrer la naturaleza, disfrutar de playas patagónicas o hacer actividades como trekking y avistaje de fauna marina."
+    },
+    {
+        "tema": "chubut",
+        "pregunta": "cuales son los mejores lugares para visitar en Chubut",
+        "respuesta": "Chubut tiene una gran variedad de paisajes y propuestas turísticas. En la costa, Puerto Madryn es uno de los destinos más populares, ideal para ver ballenas francas australes entre junio y diciembre, además de lobos marinos, pingüinos y delfines. Muy cerca se encuentra la Península Valdés, declarada Patrimonio de la Humanidad, que ofrece una de las reservas de fauna marina más importantes del país. En el interior, Gaiman es famoso por su herencia galesa y sus casas de té. Hacia el oeste, Esquel es una excelente base para visitar el Parque Nacional Los Alerces, con lagos cristalinos, bosques milenarios y senderos de montaña. Desde allí también parte el tren turístico La Trochita. Otro destino destacado es Trelew, con su museo paleontológico y cercanía a Gaiman y Punta Tombo, la mayor colonia continental de pingüinos de Magallanes. Cada zona ofrece una experiencia distinta, lo que convierte a Chubut en una provincia muy completa para el turismo."
+    },
+    {
+        "tema": "chubut",
+        "pregunta": "que actividades turísticas se pueden hacer en Chubut",
+        "respuesta": "En Puerto Madryn: Esta ciudad costera es uno de los mejores lugares del mundo para el avistaje de ballenas, entre junio y diciembre. Además, desde aquí se accede fácilmente a la Península Valdés, hogar de lobos y elefantes marinos, orcas y pingüinos. Se puede practicar buceo con lobos marinos con un costo desde $135.000, hacer snorkel con un costo de $100.000, disfrutar de playas tranquilas y visitar reservas naturales únicas. Es un excelente destino para los amantes de la fauna marina y la naturaleza. En Trelew: es una ciudad con fuerte identidad cultural y científica. Su principal atractivo es el Museo Paleontológico Egidio Feruglio (MEF), uno de los más importantes de Sudamérica en su tipo, con un costo de $18.000 la entrada general. Desde aquí también se puede visitar Gaiman, una colonia galesa donde se conservan tradiciones y casas de té, además de acceder a Punta Tombo, la mayor colonia continental de pingüinos de Magallanes. Una visita guiada allí puede costar $150.000 aproximadamente por persona. En Esquel: rodeada por montañas, Esquel combina historia, naturaleza y aventura. Es conocida por el histórico tren La Trochita, una locomotora a vapor que todavía funciona. El recorrido dura 2:30hs y su precio va desde los $35.000 hasta los $50.000 por persona para los residentes nacionales. También es la puerta de entrada al Parque Nacional Los Alerces, ideal para trekking, pesca y camping. En invierno, el centro de esquí La Hoya atrae visitantes por su excelente calidad de nieve y además por ser mas económico en relación a otros centros, podes alquilar un equipo de esquí/snowboard a partir de $40.000."
+    },
+    {
+        "tema": "chubut",
+        "pregunta": "como moverse dentro de Chubut",
+        "respuesta": "Dentro de Chubut podés moverte en micros de media y larga distancia que conectan ciudades como Trelew, Comodoro Rivadavia, Puerto Madryn y Esquel. En las principales localidades también hay taxis, remises y servicios de combis, y en zonas turísticas es común contratar excursiones o alquilar un auto para recorrer los alrededores. Las distancias son grandes y muchas rutas atraviesan zonas rurales, por lo que es recomendable planificar los traslados con anticipación."
+    },
+    {
+        "tema": "cordoba",
+        "pregunta": "cual es la historia o su historia",
+        "respuesta": "Fundada en 1573 por Jerónimo Luis de Cabrera, Córdoba es una de las ciudades más antiguas de Argentina. Durante la época colonial fue un centro jesuita clave, cuya Manzana Jesuítica es Patrimonio de la Humanidad. También tuvo un rol destacado en la reforma universitaria de 1918 y es hoy un polo cultural, educativo y productivo del país."
+    },
+    {
+        "tema": "cordoba",
+        "pregunta": "como puedo viajar a cordoba en avion y cuanto cuesta y dura",
+        "respuesta": "El Aeropuerto Internacional Ingeniero Ambrosio Taravella (COR) ofrece múltiples vuelos diarios desde Buenos Aires. El tiempo de vuelo es de 1 hora y media y el costo promedio por Aerolíneas Argentinas es de $140.000 (ida y vuelta)."
+    },
+    {
+        "tema": "cordoba",
+        "pregunta": "como puedo viajar a cordoba en micro y cuanto cuesta y dura",
+        "respuesta": "Conectada por Ruta Nacional 9. El viaje en micro desde Buenos Aires dura aproximadamente 10 horas y cuesta alrededor de $80.000 ida y vuelta según Central de Pasajes."
+    },
+    {
+        "tema": "cordoba",
+        "pregunta": "que opciones de hotel o hospedaje o departamento hay en cordoba y cuánto cuestan",
+        "respuesta": "Córdoba Capital: NH Córdoba Panorama ($90.000/noche), Windsor Hotel & Tower ($120.000/noche), Hotel Sussex ($55.000/noche). Villa Carlos Paz: Amerian Carlos Paz Suites ($85.000/noche), Cabañas del Sol ($65.000/noche), Hotel Capvio ($50.000/noche). La Cumbrecita: Hotel Bremen ($95.000/noche), Posada del Río ($60.000/noche)."
+    },
+    {
+        "tema": "cordoba",
+        "pregunta": "como es clima de cordoba y cuál es la mejor época para viajar",
+        "respuesta": "Clima templado serrano. Veranos cálidos (30-36°C) con lluvias ocasionales, inviernos frescos (5-18°C). La mejor época para viajar es entre marzo y mayo o de septiembre a noviembre, cuando el clima es templado y seco."
+    },
+    {
+        "tema": "cordoba",
+        "pregunta": "cuales son los mejores lugares para visitar en cordoba",
+        "respuesta": "Córdoba Capital con su Manzana Jesuítica y Catedral, Villa Carlos Paz en el Valle de Punilla, La Cumbrecita y Villa General Belgrano en las sierras, Alta Gracia con la Estancia Jesuítica, y Mina Clavero con su río de aguas cristalinas."
+    },
+    {
+        "tema": "cordoba",
+        "pregunta": "que actividades turisticas se pueden hacer en cordoba",
+        "respuesta": "Tour histórico por Córdoba capital ($30.000), visitas a estancias jesuíticas ($50.000), paseo en aerosilla en Carlos Paz ($25.000), senderismo en Los Gigantes ($40.000), rafting en Río Los Reartes ($70.000), visita al Museo del Che ($20.000), Oktoberfest en Villa General Belgrano (desde $80.000)."
+    },
+    {
+        "tema": "cordoba",
+        "pregunta": "como moverse dentro de cordoba",
+        "respuesta": "Amplia red de transporte público en la capital. Para recorrer valles turísticos se recomienda alquilar vehículo o usar buses interurbanos frecuentes."
+    },
+    {
+        "tema": "corrientes",
+        "pregunta": "cual es la historia o su historia",
+        "respuesta": "Fundada el 3 de abril de 1588 como San Juan de Vera de las Siete Corrientes, fue una de las provincias fundadoras de la Confederación Argentina."
+    },
+    {
+        "tema": "corrientes",
+        "pregunta": "como puedo viajar a Corrientes en avión y cuanto cuesta y dura",
+        "respuesta": "Vuelos desde Buenos Aires al Aeropuerto de Corrientes (CNQ) duran aproximadamente 1h 45m, con precios desde $80.000."
+    },
+    {
+        "tema": "corrientes",
+        "pregunta": "como puedo viajar a Corrientes en micro y cuanto cuesta y dura",
+        "respuesta": "El viaje en micro desde Buenos Aires a Corrientes dura entre 13 y 15 horas, con precios que varían según la empresa y el servicio esta desde $50.000"
+    },
+    {
+        "tema": "corrientes",
+        "pregunta": "que opciones de hotel o hospedaje o departamento hay en Corrientes y cuánto cuestan",
+        "respuesta": "En Corrientes hay varias opciones como Turismo Hotel Casino (145.379/noche), La Alondra, Casa de huéspedes (168.582/noche), DonSuites (123.146/noche), Bl Calle Catamarca (105.415/noche). Goya: Condado Hotel Casino Goya (93.989/noche), Costanera Goya Apart & Hotel (79.005/noche), Los teros en Goya (83.398/noche). Paso de los libres: Hotel Monte Carlo (46.876/noche), Apartamentos Don Bosco (50.595/noche), Departamentos Por Dia El Trebol N4 (37.745/noche)"
+    },
+    {
+        "tema": "corrientes",
+        "pregunta": "como es clima de Corrientes y cuál es la mejor época para viajar",
+        "respuesta": "Clima subtropical húmedo, con veranos calurosos e inviernos suaves, la mejor época para visitar es desde principios de noviembre hasta principios de abril."
+    },
+    {
+        "tema": "corrientes",
+        "pregunta": "cuales son los mejores lugares para visitar en Corrientes",
+        "respuesta": "Esteros del Iberá, Costanera de Corrientes, playas fluviales, catedrales e iglesias centenarias."
+    },
+    {
+        "tema": "corrientes",
+        "pregunta": "que actividades turísticas se pueden hacer en Corrientes",
+        "respuesta": "Turismo en los Esteros del Iberá, pesca deportiva, festivales de chamamé y visitas a playas fluviales."
+    },
+    {
+        "tema": "corrientes",
+        "pregunta": "como moverse dentro de corrientes",
+        "respuesta": "Sistema de transporte público con colectivos urbanos e interurbanos"
+    },
+    {
+        "tema": "entre rios",
+        "pregunta": "cual es la historia o su historia",
+        "respuesta": "Habitada originalmente por guaraníes, charrúas y chanás, la provincia fue escenario de importantes eventos durante las guerras de independencia y civiles."
+    },
+    {
+        "tema": "entre rios",
+        "pregunta": "Cómo puedo viajar a Entre Ríos en avión y cuánto cuesta y dura",
+        "respuesta": "Vuelos desde Buenos Aires al Aeropuerto de Paraná duran aproximadamente 1h 15m, con precios desde $79.000"
+    },
+    {
+        "tema": "entre rios",
+        "pregunta": "Cómo puedo viajar a Entre Ríos en micro y cuánto cuesta y dura",
+        "respuesta": "El viaje en micro desde Buenos Aires a Entre Ríos dura entre 6 y 8 horas, con precios desde $18.900"
+    },
+    {
+        "tema": "entre rios",
+        "pregunta": "Qué opciones de hotel o hospedaje o departamento hay en Entre Ríos y cuánto cuestan",
+        "respuesta": "En Paraná hay varias opciones como InterTower Hotel (104.822/noche), Gran Hotel Parana (79.345/noche), Departamento Catedral (51.007/noche). Gualeguaychú: O2 Hotel Gualeguaychú (48.315/noche), El Buen Descanso (53.660/noche), Aguaý (150.000/noche), Posada Via Verde (65.969/noche). Colón: Terrazas de Colón (90.680/noche), Complejo Tajamar (123.967/noche), Hacienda Don Justo Hotel Boutique Spa (76.961/noche), La Casona de Susana (40.500/noche)"
+    },
+    {
+        "tema": "entre rios",
+        "pregunta": "como es clima de Entre Ríos y cuál es la mejor época para viajar",
+        "respuesta": "Clima templado húmedo, con veranos cálidos e inviernos suaves, la mejor época para visitar es durante la primavera y el otoño."
+    },
+    {
+        "tema": "entre rios",
+        "pregunta": "Cuáles son los mejores lugares para visitar en Entre Ríos",
+        "respuesta": "Termas de Federación, Parque Nacional El Palmar, Colón, Gualeguaychú y Paraná."
+    },
+    {
+        "tema": "entre rios",
+        "pregunta": "Qué actividades turísticas se pueden hacer en Entre Ríos",
+        "respuesta": "Turismo termal, pesca deportiva, carnavales y visitas a parques nacionales."
+    },
+    {
+        "tema": "entre rios",
+        "pregunta": "Cómo moverse dentro de Entre Ríos",
+        "respuesta": "Cuenta con colectivos y trenes públicos para recorrer algunas zonas de la provincia."
+    },
+    {
+        "tema": "formosa",
+        "pregunta": "cual es la historia o su historia",
+        "respuesta": "Habitada por pueblos indígenas como los pilagás y wichíes, fue incorporada al territorio nacional en el siglo XIX y se convirtió en provincia en 1955."
+    },
+    {
+        "tema": "formosa",
+        "pregunta": "Como puedo viajar a Formosa en avión y cuánto cuesta y dura",
+        "respuesta": "Vuelos desde Buenos Aires al Aeropuerto de Formosa duran aproximadamente 1h 45m, con precios a partir de $120.000"
+    },
+    {
+        "tema": "formosa",
+        "pregunta": "Como puedo viajar a Formosa en micro y cuánto cuesta y dura",
+        "respuesta": "El viaje en micro desde Buenos Aires a Formosa dura entre 14 y 16 horas, con precios desde $60.000"
+    },
+    {
+        "tema": "formosa",
+        "pregunta": "Qué opciones de hotel o hospedaje o departamento hay en Formosa y cuánto cuestan",
+        "respuesta": "En Formosa temenos una amplia cantidad de opciones como AGUAMARINA SPA Y APART (79.345/noche), La Plaza (31.624/noche), Departamento 4 - 1er piso Centro Pileta (23.101/noche), La Pilar (40.942/noche), Hotel Plaza Formosa (32.679/noche), El Catorce Departamento Temporario (40.806/noche). Clorinda: Apart LyM 1 (56.675/noche), Martita House (65.743/noche), DELPON Apart (62.569/noche)"
+    },
+    {
+        "tema": "formosa",
+        "pregunta": "como es clima de Formosa y cuál es la mejor época para viajar",
+        "respuesta": "Clima tropical con estación seca, con temperaturas elevadas durante gran parte del año y lluvias concentradas en verano, la mejor época para visitar es durante el otoño y la primavera."
+    },
+    {
+        "tema": "formosa",
+        "pregunta": "Cuáles son los mejores lugares para visitar en Formosa",
+        "respuesta": "Reserva de Biósfera Laguna Oca, Bañado La Estrella y el Parque Nacional Río Pilcomayo."
+    },
+    {
+        "tema": "formosa",
+        "pregunta": "que actividades turísticas se pueden hacer en Formosa",
+        "respuesta": "Ecoturismo en áreas naturales, pesca deportiva y turismo cultural en comunidades indígenas."
+    },
+    {
+        "tema": "formosa",
+        "pregunta": "Como moverse dentro de Formosa",
+        "respuesta": "Cuenta con transporte público en las ciudades principales o se puede alquilar un vehículo"
+    },
+    {
+        "tema": "general",
+        "pregunta": "hola",
+        "respuesta": "¡Hola! ¿En qué puedo ayudarte?"
+    },
+    {
+        "tema": "general",
+        "pregunta": "como estas",
+        "respuesta": "Estoy bien, gracias por preguntar."
+    },
+    {
+        "tema": "general",
+        "pregunta": "quieneres",
+        "respuesta": "Soy un chatbot turístico diseñado para ayudarte a planear viajes dentro de Argentina."
+    },
+    {
+        "tema": "general",
+        "pregunta": "que podes hacer o que haces",
+        "respuesta": "Puedo conversar sobre viajes por Argentina, darte información útil y hacerte recomendaciones."
+    },
+    {
+        "tema": "general",
+        "pregunta": "adios o chau",
+        "respuesta": "¡Hasta luego! Que tengas un buen día."
+    },
+    {
+        "tema": "general",
+        "pregunta": "ayuda",
+        "respuesta": "Puedo responder a saludos, consultas básicas y darte información turística de distintas provincias."
+    },
+    {
+        "tema": "general",
+        "pregunta": "gracias",
+        "respuesta": "¡De nada! Si tenés más preguntas, estoy para ayudarte."
+    },
+    {
+        "tema": "general",
+        "pregunta": "donde estas",
+        "respuesta": "Estoy en la nube, siempre listo para asistirte con tu viaje."
+    },
+    {
+        "tema": "jujuy",
+        "pregunta": "cual es la historia o su historia",
+        "respuesta": "Jujuy es una provincia con profundas raíces indígenas, principalmente de las culturas Omaguaca, Atacama y Quechua. Fue fundada oficialmente como ciudad en 1593 por Francisco de Argañarás y Murguía, aunque la región ya tenía asentamientos indígenas desde mucho antes. Fue escenario de numerosas batallas durante la independencia, destacándose el Éxodo Jujeño liderado por Manuel Belgrano en 1812. Su identidad está marcada por la fuerte influencia andina y el mestizaje cultural."
+    },
+    {
+        "tema": "jujuy",
+        "pregunta": "Como puedo viajar a jujuy en avion y cuanto cuesta y dura",
+        "respuesta": "El Aeropuerto Internacional Gobernador Horacio Guzmán (JUJ) conecta San Salvador de Jujuy con Buenos Aires. El tiempo estimado de los vuelos es de 2 horas de vuelo y con un costo promedio de $150.000 por Aerolineas Argentinas.  Incluye ida y vuelta"
+    },
+    {
+        "tema": "jujuy",
+        "pregunta": "Como puedo viajar a jujuy en micro y cuanto cuesta y dura",
+        "respuesta": "Excelente conexión por Ruta Nacional 9 que atraviesa la provincia. Servicios de ómnibus de larga distancia desde Buenos Aires y ciudades principales. El tiempo estimado de los micros es de 24 horas de viajes y con un costo promedio de $100.000 por central de pasajes. Incluye ida y vuelta"
+    },
+    {
+        "tema": "jujuy",
+        "pregunta": "Que opciones de hotel o hospedaje o departamento hay en Jujuy y cuánto cuestan",
+        "respuesta": "Purmamarca: La Comarca ($220.000/día), Posada Tierra Adentro ($70.000/día), Pumahuasi Hotel Boutique ($150.000/día). Tilcara: La Posada de la Calandria ($60.000/día), Cabañas Bodega Kindgard ($180.000/día), Hotel Marqués De Tojo ($210.000/día). Humahuaca: Casa de la Flia. Sánchez ($50.000/día), Hostería del Tantanakuy ($70.000/día)."
+    },
+    {
+        "tema": "jujuy",
+        "pregunta": "como es clima de Jujuy y cuál es la mejor época para viajar",
+        "respuesta": "Clima subtropical con estación seca. Veranos cálidos (25-32°C) y lluviosos, inviernos templados (15-20°C) y secos. Clima árido de altura con gran amplitud térmica (días 20-25°C, noches pueden bajar a 0°C incluso en verano). La mejor época para visitar es de abril a noviembre para evitar la temporada de lluvias."
+    },
+    {
+        "tema": "jujuy",
+        "pregunta": "Cuáles son los mejores lugares para visitar en Jujuy",
+        "respuesta": "Jujuy es famosa por Purmamarca, con su cerro de los Siete Colores; Tilcara, con su Pucará y el Museo Arqueológico; La Quebrada de Humahuaca, un valle lleno de historia y paisajes únicos; y Yaví, un pequeño pueblo con arquitectura colonial y un pasado cultural rico."
+    },
+    {
+        "tema": "jujuy",
+        "pregunta": "Qué actividades turísticas se pueden hacer en Jujuy",
+        "respuesta": "Cerro de los Siete Colores (Purmamarca), feria artesanal en plaza central, excursión a Salinas Grandes (costo promedio $50.000), Pucará de Tilcara, Jardín Botánico de Altura (gratuito), trekking a Garganta del Diablo (costo promedio $30.000), Monumento a los Héroes de la Independencia, excursión al Hornocal (Cerro de los 14 Colores) con costo promedio $80.000, mercado municipal de artesanías sin costo agregado."
+    },
+    {
+        "tema": "jujuy",
+        "pregunta": "Como moverse dentro de Jujuy",
+        "respuesta": "Hay servicios regulares de colectivos entre las principales localidades turísticas. Para la Quebrada y Puna se recomienda alquilar vehículo o contratar excursiones."
+    },
+    {
+        "tema": "la pampa",
+        "pregunta": "cual es la historia o su historia",
+        "respuesta": "La Pampa fue habitada originalmente por pueblos originarios como los ranqueles y tehuelches. Durante la conquista y expansión territorial en el siglo XIX, fue escenario de enfrentamientos entre indígenas y el Estado argentino. Se constituyó como provincia en 1951. Su economía se desarrolló con la ganadería extensiva y, en menor medida, con agricultura."
+    },
+    {
+        "tema": "la pampa",
+        "pregunta": "Cómo puedo viajar a La Pampa en avión y cuánto cuesta y dura",
+        "respuesta": "El Aeropuerto de Santa Rosa (RSA) conecta con Buenos Aires mediante Aerolíneas Argentinas. El vuelo dura aproximadamente 1 hora y 20 minutos y cuesta entre $35.000 y $50.000 (ida y vuelta), según disponibilidad y fechas."
+    },
+    {
+        "tema": "la pampa",
+        "pregunta": "Cómo puedo viajar a La Pampa en micro y cuánto cuesta y dura",
+        "respuesta": "Se puede viajar desde Buenos Aires por Ruta Nacional 5. Empresas como Chevallier o Andesmar ofrecen servicios regulares. El viaje dura entre 9 y 10 horas y cuesta entre $22.000 y $30.000 (ida y vuelta)."
+    },
+    {
+        "tema": "la pampa",
+        "pregunta": "Qué opciones de hotel hay en La Pampa y cuánto cuestan",
+        "respuesta": "Santa Rosa: Hotel La Campiña ($20.000/noche), Mercure Santa Rosa La Pampa ($40.000/noche), Hotel Calfucurá ($18.000/noche). General Pico: Hotel Pico ($25.000/noche), Hotel Lihuel Calel ($17.000/noche). En localidades rurales hay estancias turísticas desde $30.000 por noche con pensión completa."
+    },
+    {
+        "tema": "la pampa",
+        "pregunta": "como es clima de La Pampa y cuál es la mejor época para viajar",
+        "respuesta": "Clima templado seco. Veranos cálidos (30-35°C) e inviernos fríos (2-12°C). Las lluvias son escasas. Mejor época para visitar: primavera (septiembre-noviembre) y otoño (marzo-mayo) por el clima agradable."
+    },
+    {
+        "tema": "la pampa",
+        "pregunta": "Cuáles son los mejores lugares para visitar en La Pampa",
+        "respuesta": "Parque Luro (reserva natural con ciervos colorados), Laguna Don Tomás (espacio recreativo en Santa Rosa), Colonia Menonita en Guatraché, Museo Provincial de Historia Natural, y pueblos rurales con arquitectura tradicional y vida de campo."
+    },
+    {
+        "tema": "la pampa",
+        "pregunta": "Qué actividades turísticas se pueden hacer en La Pampa",
+        "respuesta": "Avistaje de fauna en Parque Luro ($15.000), visitas guiadas a estancias rurales ($25.000), pesca en lagunas ($10.000), turismo cultural en museos ($5.000), caminatas en senderos naturales ($0 a $5.000), recorridos históricos en Santa Rosa ($8.000)."
+    },
+    {
+        "tema": "la pampa",
+        "pregunta": "Cómo moverse dentro de La Pampa",
+        "respuesta": "En Santa Rosa y General Pico hay colectivos urbanos. Para visitar reservas, estancias o pueblos rurales se recomienda alquilar auto o contratar excursiones privadas."
+    },
+    {
+        "tema": "la rioja",
+        "pregunta": "cual es la historia o su historia de la rioja",
+        "respuesta": "Fundada en 1591 por Juan Ramírez de Velasco. Su nombre proviene de la región homónima de España. La historia está marcada por la resistencia de los diaguitas y calchaquíes contra la colonización española y las luchas entre unitarios y federales. Destaca la figura del caudillo Facundo Quiroga. Tradiciones culturales vinculadas a la religiosidad popular."
+    },
+    {
+        "tema": "la rioja",
+        "pregunta": "Como puedo viajar a la rioja en avion y cuánto cuesta y dura",
+        "respuesta": "El Aeropuerto Capitán Vicente Almandos Almonacid (IRJ) conecta La Rioja con Buenos Aires. El tiempo estimado de los vuelos es de 2 horas de vuelo y con un costo promedio de $145.000 por Aerolineas Argentinas. Incluye ida y vuelta. Incluye ida y vuelta"
+    },
+    {
+        "tema": "la rioja",
+        "pregunta": "Como puedo viajar a la rioja en micro y cuanto cuesta y dura",
+        "respuesta": "Acceso por Rutas Nacionales 38, 74 y 75. Servicios regulares de ómnibus desde Buenos Aires y otras capitales. El tiempo estimado de los micros es de 16 horas de viajes y con un costo promedio de $90.000 por central de pasajes. Incluye ida y vuelta"
+    },
+    {
+        "tema": "la rioja",
+        "pregunta": "Qué opciones de hotel o hospedaje o departamento hay en La Rioja y cuánto cuestan",
+        "respuesta": "La Rioja Capital: Hotel Casino Nova y Naindo Park Hotel ($115.000/noche), GM Rooms Rental Suites ($95.000/noche), Centro Apart La Rioja ($40.000/día), Mantra Apart ($60.000/noche), Los Cactus ($30.000/día), Cabañas Puertas del Sol ($70.000/noche)."
+    },
+    {
+        "tema": "la rioja",
+        "pregunta": "como es clima de La Rioja y cuál es la mejor época para viajar",
+        "respuesta": "Clima desértico cálido, veranos muy calurosos (35-45°C), inviernos templados (15-25°C). Mejor época de abril a octubre para evitar calor extremo."
+    },
+    {
+        "tema": "la rioja",
+        "pregunta": "Cuáles son los mejores lugares para visitar en La Rioja",
+        "respuesta": "La Rioja se destaca por La Rioja capital, con su arquitectura colonial y gastronomía; Chilecito, conocida por el Parque Nacional Talampaya y la histórica “Ferroviaria”; Los Colorados, un paisaje de formaciones rocosas de colores vibrantes; y Villa Unión, puerta de entrada al Parque Nacional Talampaya, un destino ideal para los amantes del turismo de naturaleza y aventura."
+    },
+    {
+        "tema": "la rioja",
+        "pregunta": "Qué actividades turísticas se pueden hacer en La Rioja",
+        "respuesta": "Museo Folklórico y Museo Arqueológico Inca Huasi (costo bajo o a voluntad), Catedral de San Nicolás de Bari ($50.000), Parque de la Ciudad (sin costo), Cable Carril en Chilecito (a voluntad), Mina La Mexicana ($45.000), tour por bodegas y olivares ($80.000), recorrido guiado por Cañón de Talampaya ($90.000), Parque Provincial Ischigualasto ($40.000), excursión a Laguna Brava ($35.000)."
+    },
+    {
+        "tema": "la rioja",
+        "pregunta": "cómo moverse dentro de La Rioja",
+        "respuesta": "La ciudad de La Rioja cuenta con una red de colectivos urbanos que conectan los principales barrios con el centro (tarifa promedio: $750 por viaje). También hay disponibilidad de taxis y remises. Para visitar destinos turísticos como el Parque Nacional Talampaya, Chilecito o la Costa Riojana, se recomienda alquilar un vehículo o contratar excursiones, ya que el transporte público hacia estas zonas es limitado o inexistente."
+    },
+    {
+        "tema": "mendoza",
+        "pregunta": "cual es la historia o su historia",
+        "respuesta": "Mendoza fue fundada en 1561 por Pedro del Castillo. En tiempos prehispánicos estuvo habitada por los huarpes. Durante la independencia, fue clave por ser base del Ejército de los Andes liderado por José de San Martín. Su desarrollo moderno se vincula al sistema de riego y la industria vitivinícola, que es emblema de la región."
+    },
+    {
+        "tema": "mendoza",
+        "pregunta": "Como puedo viajar a Mendoza en avión y cuánto cuesta y dura",
+        "respuesta": "El Aeropuerto Internacional El Plumerillo (MDZ) conecta Mendoza con Buenos Aires. El vuelo dura aproximadamente 2 horas y cuesta en promedio $150.000 por Aerolíneas Argentinas (ida y vuelta)."
+    },
+    {
+        "tema": "mendoza",
+        "pregunta": "Como puedo viajar a Mendoza en micro y cuánto cuesta y dura",
+        "respuesta": "Buena conexión por Ruta Nacional 7. Servicios regulares desde Buenos Aires. El viaje en micro dura aproximadamente 14 horas y cuesta $95.000 (ida y vuelta) según Central de Pasajes."
+    },
+    {
+        "tema": "mendoza",
+        "pregunta": "Que opciones de hotel o hospedaje o departamento hay en Mendoza y cuánto cuestan",
+        "respuesta": "Ciudad de Mendoza: Park Hyatt Mendoza ($200.000/noche), Hotel Internacional ($70.000/noche), Hotel Crillón ($55.000/noche). Luján de Cuyo: Entre Cielos Luxury Wine Hotel ($250.000/noche), Casa Glebinias ($150.000/noche), Cabañas Andinas ($85.000/noche). Uspallata: Hotel Pukarainca ($90.000/noche), Hostel Cerro del Plata ($35.000/noche)."
+    },
+    {
+        "tema": "mendoza",
+        "pregunta": "como es clima de Mendoza y cuál es la mejor época para viajar",
+        "respuesta": "Clima árido y seco. Veranos calurosos (30-38°C) con poca lluvia; inviernos fríos y secos (2-15°C). Mejor época para visitar: marzo a mayo (vendimia y clima templado) o septiembre a noviembre (primavera)."
+    },
+    {
+        "tema": "mendoza",
+        "pregunta": "Cuales son los mejores lugares para visitar en Mendoza",
+        "respuesta": "La ciudad de Mendoza con sus plazas y bodegas urbanas, el Parque General San Martín, el Aconcagua (el pico más alto de América), Uspallata, el Valle de Uco y el Camino del Vino en Luján de Cuyo y Maipú."
+    },
+    {
+        "tema": "mendoza",
+        "pregunta": "Que actividades turísticas se pueden hacer en Mendoza",
+        "respuesta": "Degustación en bodegas ($80.000 aprox.), tour enológico en bicicleta ($50.000), trekking en Parque Aconcagua ($70.000), termas en Cacheuta ($45.000), rafting en Potrerillos ($90.000), city tour ($30.000), excursión a Alta Montaña ($100.000)."
+    },
+    {
+        "tema": "mendoza",
+        "pregunta": "Como moverse dentro de Mendoza",
+        "respuesta": "Transporte público con tarjeta Red Bus. Rutas turísticas con buses turísticos. Para zonas vitivinícolas y montañas, se recomienda alquilar auto o contratar excursiones."
+    },
+    {
+        "tema": "misiones",
+        "pregunta": "cual es la historia o su historia",
+        "respuesta": "Misiones fue habitada originalmente por los guaraníes y fue escenario del establecimiento de reducciones jesuíticas en los siglos XVII y XVIII, destacándose las ruinas de San Ignacio Miní, fue declarada provincia en 1953."
+    },
+    {
+        "tema": "misiones",
+        "pregunta": "Cómo puedo viajar a Misiones en avión y cuánto cuesta y dura",
+        "respuesta": "Se puede viajar en avión al Aeropuerto Internacional de Puerto Iguazú (IGR) o al de Posadas (PSS), desde Buenos Aires con vuelos de 1h 45 min por un costo promedio de $145.000 ida y vuelta por Aerolíneas Argentinas."
+    },
+    {
+        "tema": "misiones",
+        "pregunta": "Cómo puedo viajar a Misiones en micro y cuánto cuesta y dura",
+        "respuesta": "Los micros desde Buenos Aires a Posadas o Puerto Iguazú tardan entre 12 a 18 horas, y tienen un costo promedio de $100.000 ida y vuelta por empresas como Flechabus o Crucero del Norte."
+    },
+    {
+        "tema": "misiones",
+        "pregunta": "Qué opciones de hotel o hospedaje o departamento hay en Misiones y cuánto cuestan",
+        "respuesta": "En Puerto Iguazú: Hotel Saint George ($90.000/noche), La Aldea Lodge ($65.000/noche), Gran Meliá Iguazú ($270.000/noche), en Posadas: Hotel Julio César ($60.000/noche), Maitei Posadas ($85.000/noche)."
+    },
+    {
+        "tema": "misiones",
+        "pregunta": "como es clima de Misiones y cuál es la mejor época para viajar",
+        "respuesta": "Clima subtropical húmedo con lluvias abundantes todo el año, veranos calurosos (30–35 °C), inviernos suaves (15–22 °C), mejor época: marzo a noviembre para evitar las lluvias intensas."
+    },
+    {
+        "tema": "misiones",
+        "pregunta": "Cuáles son los mejores lugares para visitar en Misiones",
+        "respuesta": "Cataratas del Iguazú, Parque Nacional Iguazú, ruinas jesuíticas de San Ignacio, Saltos del Moconá, Parque Provincial Urugua-í y la ciudad de Posadas con su costanera y museos."
+    },
+    {
+        "tema": "misiones",
+        "pregunta": "Qué actividades turísticas se pueden hacer en Misiones",
+        "respuesta": "Caminatas por la selva, avistaje de aves, navegación por ríos, visitas a comunidades guaraníes, recorridos históricos por las ruinas jesuíticas, visitas a yerbales, termas y turismo rural."
+    },
+    {
+        "tema": "misiones",
+        "pregunta": "Cómo moverse dentro de Misiones",
+        "respuesta": "Servicios de colectivos interurbanos conectan las ciudades principales, para recorrer parques y zonas rurales se recomienda alquilar vehículo o contratar excursiones."
+    },
+    {
+        "tema": "neuquen",
+        "pregunta": "cual es la historia o su historia",
+        "respuesta": "Neuquén tiene sus raíces en pueblos originarios como los mapuches, que habitaron la región antes de la llegada del Estado argentino. A fines del siglo XIX, durante la Campaña del Desierto, el gobierno nacional ocupó el territorio. En 1884 se creó como territorio nacional y en 1955 se convirtió en provincia. Su desarrollo se basó en la explotación de petróleo y gas, con un fuerte impulso en la actualidad gracias a Vaca Muerta, una de las mayores reservas no convencionales del mundo. También es importante por su energía hidroeléctrica y su turismo, con destinos como San Martín de los Andes y Villa La Angostura."
+    },
+    {
+        "tema": "neuquen",
+        "pregunta": "Como puedo viajar a Neuquén en avión y cuánto cuesta y dura",
+        "respuesta": "El Aeropuerto Internacional Presidente Perón (NQN) conecta la ciudad de Neuquén con Buenos Aires. El tiempo estimado de vuelo es de aproximadamente 2 horas, con un costo desde $90.000 por Aerolíneas Argentinas, incluyendo ida y vuelta"
+    },
+    {
+        "tema": "neuquen",
+        "pregunta": "Como puedo viajar a Neuquén en micro y cuánto cuesta y dura",
+        "respuesta": "La conexión se realiza por la Ruta Nacional 22 y otras rutas que atraviesan la provincia. Hay servicios de ómnibus de larga distancia desde Buenos Aires y otras ciudades principales. El tiempo estimado de viaje en micro es de aproximadamente 17 a 20 horas, con un costo promedio de $50.000 por Central de Pasajes, incluyendo ida y vuelta"
+    },
+    {
+        "tema": "neuquen",
+        "pregunta": "Qué opciones de hotel o hospedaje o departamento hay en Neuquén y cuánto cuestan",
+        "respuesta": "Villa la Angostura: ubicada a orillas del lago Nahuel Huapi y rodeada de montañas, es uno de los destinos más exclusivos de la Patagonia argentina. Entre sus hoteles más populares se encuentran: El Faro Boutique Hotel & Spa by DON: con vistas panorámicas al lago, ofrece servicios de spa, piscina climatizada y un entorno ideal para el descanso ($142.000 por noche). Ruma Andina by DOT Cabana: cabañas de montaña totalmente equipadas, con servicios de hotel, perfectas para familias y parejas ($66.000 por noche). Las Balsas Relais & Châteaux: lodge exclusivo con solo 15 habitaciones, servicio personalizado, spa, bodega y restaurante gourmet, es una opción más exclusiva y costosa ($650.000 por noche). San Martín de los Andes:  es una ciudad rodeada por el Parque Nacional Lanín, con acceso al lago Lácar y al Cerro Chapelco. Es uno de los centros turísticos más importantes de la Patagonia. Sus hoteles destacados son: Hotel Patagonia Plaza: ubicado en el centro, cuenta con habitaciones modernas, piscina climatizada y restaurante (115.000 por noche). Hotel Intermonti: presenta arquitectura típica de montaña y una ubicación privilegiada, cerca de comercios y atractivos turísticos ($100.000 por noche). El Refugio Ski & Summer Lodge: ideal para quienes buscan aventuras al aire libre, tanto en invierno como en verano, con fácil acceso al centro de esquí Chapelco ($80.000 por noche)."
+    },
+    {
+        "tema": "neuquen",
+        "pregunta": "como es clima de Neuquén y cuál es la mejor época para viajar",
+        "respuesta": "El clima de la provincia de Neuquén varía según la región, pero en general se caracteriza por ser seco y continental. En el centro y este de la provincia, los inviernos son fríos y los veranos calurosos, con pocas precipitaciones a lo largo del año. En cambio, en la zona cordillerana, como San Martín de los Andes o Villa La Angostura, el clima es más templado y húmedo, con abundantes lluvias y nevadas en invierno. La mejor época para viajar depende de las actividades que se quieran realizar. La primavera (de septiembre a noviembre) ofrece temperaturas agradables y paisajes verdes, ideal para caminatas, pesca y turismo de naturaleza. El verano (de diciembre a marzo) es perfecto para disfrutar de los lagos, playas y deportes al aire libre, especialmente en las zonas montañosas. En invierno (de junio a agosto), las localidades cordilleranas se convierten en destinos ideales para los amantes del esquí y la nieve, con centros como Chapelco o Cerro Bayo entre los más visitados"
+    },
+    {
+        "tema": "neuquen",
+        "pregunta": "Cuáles son los mejores lugares para visitar en Neuquén",
+        "respuesta": "Algunos de los mejores lugares para visitar en la provincia de Neuquén son San Martín de los Andes, Villa La Angostura, Volcán Lanín, Caviahue y Copahue, la Ruta de los Siete Lagos, la ciudad de Neuquén y San Patricio del Chañar. Estos destinos son ideales por sus paisajes de montañas y lagos, actividades al aire libre como senderismo, pesca, esquí o termas, y por su valor cultural y gastronómico. Además, combinan naturaleza, tranquilidad y opciones para disfrutar tanto en verano como en invierno."
+    },
+    {
+        "tema": "neuquen",
+        "pregunta": "Qué actividades turísticas se pueden hacer en Neuquén",
+        "respuesta": "En la provincia de Neuquén se pueden realizar diversas actividades al aire libre y disfrutar de paisajes únicos, tanto en verano como en invierno. Dos de los destinos más destacados son San Martín de los Andes y Villa La Angostura, ambos ubicados en plena cordillera y rodeados de lagos, montañas y bosques. En San Martín de los Andes, el ingreso al Parque Nacional Lanín cuesta $20.000 por persona (tarifa general), con descuentos para estudiantes y residentes. Allí se pueden hacer caminatas por senderos de montaña, disfrutar del Lago Lácar, realizar pesca deportiva (especialmente de truchas), o recorrer la famosa Ruta de los 7 Lagos, ideal para hacer en auto, moto o bicicleta. En invierno, el Cerro Chapelco es una opción muy popular para esquiar, con pases que cuestan entre $50.000 y $60.000 por persona, según la temporada. Por su parte, Villa La Angostura es un destino perfecto para relajarse y conectar con la naturaleza. Ofrece actividades como trekking, mountain bike y paseos lacustres. En invierno, se puede esquiar en el Cerro Bayo, una opción más tranquila que otros centros, con un costo de acceso de $20.000 por persona. Además, es conocida por su gastronomía de montaña, sus senderos entre bosques y por ser la entrada al famoso Bosque de Arrayanes. Un tour panorámico por toda la villa cuesta aproximadamente $40.000 por persona."
+    },
+    {
+        "tema": "neuquen",
+        "pregunta": "Cómo moverse dentro de Neuquén",
+        "respuesta": "Para moverte por la provincia de Neuquén, puedes usar colectivos urbanos en la ciudad capital y otras localidades cercanas, taxis, remises, y servicios como Uber. Además, algunas ciudades tienen ciclovías para quienes prefieren moverse en bicicleta. Si necesitas viajar entre diferentes ciudades, las rutas interurbanas son una opción, aunque debes estar atento al estado de las carreteras, especialmente en invierno."
+    },
+    {
+        "tema": "rio negro",
+        "pregunta": "cual es la historia o su historia",
+        "respuesta": "La historia de Río Negro comienza con los pueblos originarios como los mapuches, tehuelches y pehuenches, quienes habitaban la región mucho antes de la llegada de los españoles. Durante la colonización, la zona fue de difícil acceso y permaneció relativamente aislada. A lo largo del siglo XIX, el territorio fue disputado por Argentina y Chile, y en 1955 se estableció como una provincia separada de Buenos Aires. A partir del siglo XX, Río Negro experimentó un notable desarrollo económico gracias a la irrigación de tierras, lo que permitió el crecimiento de la agricultura, especialmente la fruticultura. Además, la inmigración europea contribuyó a su expansión cultural y económica. Hoy en día, Río Negro sigue siendo una provincia clave para la economía argentina, destacándose en sectores como el turismo, con lugares como Bariloche, y la producción de energía, especialmente petróleo y gas."
+    },
+    {
+        "tema": "rio negro",
+        "pregunta": "Como puedo viajar a Río Negro en avión y cuánto cuesta y dura",
+        "respuesta": "Puedes viajar a Río Negro en avión a través del Aeropuerto Internacional de San Carlos de Bariloche (BRC), que conecta la ciudad con Buenos Aires y otras ciudades principales. El tiempo estimado de vuelo es de aproximadamente 2:15 horas, con un costo desde $100.000 por Aerolíneas Argentinas, incluyendo ida y vuelta"
+    },
+    {
+        "tema": "rio negro",
+        "pregunta": "Como puedo viajar a Río Negro en micro y cuánto cuesta y dura",
+        "respuesta": "Podés viajar a Río Negro en micro desde Buenos Aires con diferentes opciones según el destino. Por ejemplo, el viaje a San Carlos de Bariloche dura entre 20 y 24 horas, con pasajes desde aproximadamente $8.500 hasta $105.000, dependiendo de la empresa y el servicio elegido. En cambio, el trayecto a Viedma tiene una duración de alrededor de 12 a 14 horas, y los precios varían entre $50.000 y $90.000. Las principales empresas que operan estas rutas incluyen Vía Bariloche, Vía Tac, Chevallier, Andesmar y El Cóndor. Es recomendable comprar los pasajes con anticipación para asegurar disponibilidad y mejores tarifas"
+    },
+    {
+        "tema": "rio negro",
+        "pregunta": "Qué opciones de hotel o hospedaje o departamento hay en Río Negro y cuánto cuestan",
+        "respuesta": "San Carlos de Bariloche: Ubicado en pleno centro de Bariloche, el “Hotel Cristal” ofrece habitaciones modernas con excelente aislamiento acústico, piscina climatizada cubierta, sauna, gimnasio y desayuno buffet. Es ideal para quienes desean estar cerca de tiendas, restaurantes y el lago Nahuel Huapi ($142.000 por noche). Por otro lado, el hotel “Design Suites Bariloche” combina diseño contemporáneo con naturaleza patagónica. Está frente al lago Nahuel Huapi y ofrece habitaciones con vista, spa, piscina climatizada, restaurante gourmet y servicio de traslado al centro ($112.000 por noche). Por último, el “Hotel y Casino del Río”, ubicado en la ciudad de General Roca, este hotel 4 estrellas es ideal para viajes de negocios o turismo. Cuenta con habitaciones modernas, restaurante, gimnasio, spa y casino. Ofrece un excelente nivel de confort en el corazón del Alto Valle rionegrino ($88.000 por noche)."
+    },
+    {
+        "tema": "rio negro",
+        "pregunta": "como es clima de Río Negro y cuál es la mejor época para viajar",
+        "respuesta": "El clima de Río Negro varía según la zona, en la cordillera (como Bariloche y El Bolsón) es frío y húmedo, con nevadas en invierno y veranos frescos; en la costa atlántica (como Las Grutas y Viedma) es más templado y seco, con veranos cálidos e inviernos suaves; y en el centro y norte (como General Roca o Cipolletti) predomina un clima árido, con veranos muy calurosos e inviernos fríos y secos. La mejor época para viajar depende de lo que quieras hacer: en verano (diciembre a marzo) es ideal para disfrutar de playas, lagos y actividades al aire libre, mientras que en invierno (junio a septiembre) es la temporada perfecta para esquiar y disfrutar de la nieve en la cordillera."
+    },
+    {
+        "tema": "rio negro",
+        "pregunta": "Cuáles son los mejores lugares para visitar en Río Negro",
+        "respuesta": "Río Negro tiene muchos lugares destacados para visitar. Entre los más reconocidos están San Carlos de Bariloche, ideal por sus paisajes, el Cerro Catedral y el Lago Nahuel Huapi; El Bolsón, conocido por su naturaleza, ferias artesanales y senderos; Las Grutas, famosa por sus playas de aguas cálidas; y la capital, Viedma, junto al río Negro y con historia y cultura regional. También son interesantes General Roca y Cipolletti en el Alto Valle, por su producción frutícola y propuestas culturales."
+    },
+    {
+        "tema": "rio negro",
+        "pregunta": "Qué actividades turísticas se pueden hacer en Río Negro",
+        "respuesta": "Río Negro ofrece una gran variedad de actividades para disfrutar durante todo el año, tanto en invierno como en verano. En zonas como la cordillera, es posible esquiar y practicar snowboard en centros invernales como el Cerro Catedral, mientras que el resto del año se pueden realizar actividades al aire libre como trekking, mountain bike o paseos lacustres. Las excursiones en lagos, visitas a islas y bosques, y los recorridos gastronómicos con chocolates y cervezas artesanales son ideales para compartir en familia, pareja o con amigos. Los precios aproximados para actividades de montaña incluyen $30.000 por persona para ascenso y descenso en teleférico, y entre $90.000 y $100.000 para deportes como esquí o snowboard"
+    },
+    {
+        "tema": "rio negro",
+        "pregunta": "Cómo moverse dentro de Río Negro",
+        "respuesta": "Dentro de Río Negro podés moverte en colectivo entre ciudades y pueblos mediante servicios interurbanos, mientras que en las principales localidades como Bariloche, Viedma o General Roca también hay transporte urbano. Además, hay taxis, remises y servicios como Uber en algunas zonas, y rutas pavimentadas que permiten trasladarse en auto propio o alquilado. En lugares turísticos, también es común el uso de bicicletas o excursiones contratadas."
+    },
+    {
+        "tema": "salta",
+        "pregunta": "cual es la historia o su historia",
+        "respuesta": "Conocida como “Salta la Linda”, fue fundada en 1582 por Hernando de Lerma. La provincia jugó un papel crucial en la independencia argentina, destacándose Martín Miguel de Güemes, quien defendió la frontera norte contra los realistas. Su arquitectura colonial está bien preservada, especialmente en su capital. La cultura salteña refleja una fuerte influencia española mezclada con tradiciones indígenas."
+    },
+    {
+        "tema": "salta",
+        "pregunta": "Como puedo viajar a salta en avion y cuanto cuesta y dura",
+        "respuesta": "El Aeropuerto Internacional Martín Miguel de Güemes (SLA) ofrece conexiones directas con Buenos Aires y otras ciudades importantes. El tiempo estimado de los vuelos es de 2 horas de vuelo y con un costo promedio de $145.000 por Aerolineas Argentinas. Incluye ida y vuelta"
+    },
+    {
+        "tema": "salta",
+        "pregunta": "Como puedo viajar a salta en micro y cuanto cuesta y dura",
+        "respuesta": "Excelente red vial a través de la Ruta Nacional 9 y 34. Servicios de ómnibus de larga distancia desde Buenos Aires. El tiempo estimado de los micros es de 20 horas de viajes y con un costo promedio de $100.000 por central de pasajes. Incluye ida y vuelta"
+    },
+    {
+        "tema": "salta",
+        "pregunta": "Qué opciones de hotel o hospedaje o departamento hay en Salta y cuánto cuestan",
+        "respuesta": "Salta Capital: Apart Hotel Marilian ($50.000/noche), Sheraton Salta Hotel ($180.000/día), Departamento Caseros ($60.000/noche). Cafayate: Posadas Larsen ($70.000/noche), Hotel Kepenke ($75.000/día). Cachi: La Merced del Alto ($200.000/noche), Hopedaje la Casona de Cachai ($40.000/día)."
+    },
+    {
+        "tema": "salta",
+        "pregunta": "como es clima de Salta y cuál es la mejor época para viajar",
+        "respuesta": "Clima subtropical con estación seca. Veranos cálidos (25-30°C) con lluvias frecuentes, inviernos templados y secos (15-20°C). Mejor época para visitar de abril a noviembre."
+    },
+    {
+        "tema": "salta",
+        "pregunta": "Cuáles son los mejores lugares para visitar en Salta",
+        "respuesta": "Salta ofrece lugares como Salta capital, con su arquitectura colonial y el Museo de Arqueología; Cafayate, famoso por sus bodegas y paisajes de viñedos; La Puna, ideal para ver lagunas altiplánicas y montañas; y Cachi, un pintoresco pueblo en los valles calchaquíes, rodeado de montañas y ruinas prehispánicas."
+    },
+    {
+        "tema": "salta",
+        "pregunta": "Qué actividades turísticas se pueden hacer en Salta",
+        "respuesta": "Recorrido por centro histórico y Catedral, ascenso en teleférico al Cerro San Bernardo (costo promedio $150.000), Museo de Arqueología de Alta Montaña (MAAM) con entrada a voluntad, tour por bodegas y degustación en Cafayate (costo promedio $80.000), excursión a Quebrada de las Conchas (costo promedio $200.000), Museo de la Vid y el Vino (entrada a voluntad), recorrido por Cachi y Parque Nacional Los Cardones (costo promedio $60.000), paseo por Ruta 40 hacia Cachi (costo promedio $40.000)."
+    },
+    {
+        "tema": "salta",
+        "pregunta": "Cómo moverse dentro de Salta",
+        "respuesta": "Sistema de transporte público urbano eficiente en la capital. Para valles y zonas rurales se recomienda alquilar vehículo o contratar excursiones."
+    },
+    {
+        "tema": "san juan",
+        "pregunta": "cual es la historia o su historia de san juan",
+        "respuesta": "Fundada en 1562 por Juan Jufré, la provincia fue cuna de Domingo Faustino Sarmiento, figura clave en la educación argentina. San Juan fue devastada por un terremoto en 1944, lo que dio lugar a una reconstrucción moderna. Tiene fuerte herencia huarpe y una economía ligada a la vitivinicultura y la minería."
+    },
+    {
+        "tema": "san juan",
+        "pregunta": "Como puedo viajar a San Juan en avión y cuánto cuesta y dura",
+        "respuesta": "El Aeropuerto Domingo Faustino Sarmiento (UAQ) conecta San Juan con Buenos Aires. El vuelo dura aproximadamente 2 horas y cuesta en promedio $145.000 por Aerolíneas Argentinas (ida y vuelta)."
+    },
+    {
+        "tema": "san juan",
+        "pregunta": "Como puedo viajar a San Juan en micro y cuánto cuesta y dura",
+        "respuesta": "Acceso principal por Ruta Nacional 40. Hay micros diarios desde Buenos Aires. El viaje dura aproximadamente 15 horas y cuesta unos $90.000 (ida y vuelta) por Central de Pasajes."
+    },
+    {
+        "tema": "san juan",
+        "pregunta": "Que opciones de hotel o hospedaje o departamento hay en San Juan y cuánto cuestan",
+        "respuesta": "San Juan capital: Hotel Alkazar ($70.000/noche), Hotel Viñas del Sol ($95.000/noche), Apart Hotel Terraza ($60.000/noche). Valle Fértil: Hotel Rural Luna del Valle ($45.000/noche), Cabañas Valle Verde ($40.000/noche). Barreal: Eco Hotel Posada Paso de los Patos ($90.000/noche), El Aleph Cabañas ($55.000/noche)."
+    },
+    {
+        "tema": "san juan",
+        "pregunta": "como es clima de San Juan y cuál es la mejor época para viajar",
+        "respuesta": "Clima desértico, muy seco. Veranos extremadamente calurosos (35-45°C), inviernos templados (10-20°C). Mejor época: de abril a octubre para evitar el calor intenso."
+    },
+    {
+        "tema": "san juan",
+        "pregunta": "Cuales son los mejores lugares para visitar en San Juan",
+        "respuesta": "Ischigualasto (Valle de la Luna), declarado Patrimonio de la Humanidad; Parque Nacional El Leoncito en Calingasta; la Casa Natal de Sarmiento; el Dique de Ullum; y Barreal, ideal para astroturismo y naturaleza."
+    },
+    {
+        "tema": "san juan",
+        "pregunta": "Que actividades turísticas se pueden hacer en San Juan",
+        "respuesta": "Excursión al Valle de la Luna ($90.000), observación astronómica en el Leoncito (a voluntad), rafting en el río San Juan ($70.000), visita a bodegas ($60.000), trekking en cerros de Barreal ($50.000), recorrido histórico por la ciudad ($30.000)."
+    },
+    {
+        "tema": "san juan",
+        "pregunta": "Como moverse dentro de San Juan",
+        "respuesta": "Transporte público limitado fuera del centro. Para zonas turísticas alejadas como Valle Fértil o Calingasta se recomienda alquilar vehículo o contratar excursiones."
+    },
+    {
+        "tema": "san luis",
+        "pregunta": "cual es la historia o su historia de san luis",
+        "respuesta": "San Luis fue fundada en 1594 por Luis Jufré de Loaysa y Meneses. Su historia está marcada por la resistencia indígena de los huarpes y la posterior colonización. Durante las guerras de independencia, la provincia tuvo un rol logístico importante. En el siglo XX se consolidó como destino turístico y modelo de gestión moderna."
+    },
+    {
+        "tema": "san luis",
+        "pregunta": "Como puedo viajar a San Luis en avión y cuánto cuesta y dura",
+        "respuesta": "El Aeropuerto Brigadier Mayor César Raúl Ojeda (LUQ) conecta San Luis capital con Buenos Aires. El vuelo dura aproximadamente 1 hora y 45 minutos y cuesta en promedio $145.000 por Aerolíneas Argentinas (ida y vuelta)."
+    },
+    {
+        "tema": "san luis",
+        "pregunta": "Como puedo viajar a San Luis en micro y cuánto cuesta y dura",
+        "respuesta": "Conectada por Rutas Nacionales 7 y 20. Hay servicios frecuentes desde Buenos Aires. El viaje en micro dura unas 12 horas y cuesta alrededor de $85.000 ida y vuelta por Central de Pasajes."
+    },
+    {
+        "tema": "san luis",
+        "pregunta": "Que opciones de hotel o hospedaje o departamento hay en San Luis y cuánto cuestan",
+        "respuesta": "Ciudad de San Luis: Premium Tower Suites ($80.000/noche), Hotel Dos Venados ($60.000/noche), Hotel Aiello ($55.000/noche). Merlo: Epic Hotel Villa de Merlo ($180.000/noche), Altos del Sol Spa & Resort ($120.000/noche), Cabañas Rincón del Valle ($70.000/noche). Potrero de los Funes: Hotel Potrero de los Funes ($190.000/noche), Complejo Ayres del Lago ($90.000/noche)."
+    },
+    {
+        "tema": "san luis",
+        "pregunta": "como es clima de San Luis y cuál es la mejor época para viajar",
+        "respuesta": "Clima semiárido con veranos cálidos (30-38°C) y tormentas ocasionales, inviernos templados (10-20°C). La mejor época para viajar es de marzo a noviembre, cuando el clima es más suave y seco."
+    },
+    {
+        "tema": "san luis",
+        "pregunta": "Cuales son los mejores lugares para visitar en San Luis",
+        "respuesta": "Villa de Merlo, conocida por su microclima; Potrero de los Funes con su lago y circuito de turismo aventura; Parque Nacional Sierra de las Quijadas con paisajes áridos y fósiles; y Salinas del Bebedero, ideales para fotografía."
+    },
+    {
+        "tema": "san luis",
+        "pregunta": "Que actividades turísticas se pueden hacer en San Luis",
+        "respuesta": "Senderismo en la Reserva Natural Mogote Bayo ($50.000), parapente en Merlo ($90.000), city tour por San Luis capital ($30.000), visita al Parque Astronómico de La Punta (gratis), cabalgatas y turismo rural en Carpintería ($40.000), paseo en catamarán en Potrero ($35.000), visita a Sierra de las Quijadas ($70.000)."
+    },
+    {
+        "tema": "san luis",
+        "pregunta": "Como moverse dentro de San Luis",
+        "respuesta": "Transporte público funcional en la capital y principales villas. Para destinos turísticos como Merlo o Quijadas, se recomienda alquilar auto o contratar excursiones."
+    },
+    {
+        "tema": "santa cruz",
+        "pregunta": "cual es la historia o su historia de santa cruz",
+        "respuesta": "La historia de Santa Cruz comienza con los pueblos originarios como los tehuelches, quienes habitaron la región durante miles de años antes de la llegada de los europeos. En el siglo XVI, exploradores españoles como Hernando de Magallanes recorrieron la costa atlántica, aunque el territorio permaneció casi despoblado durante mucho tiempo. En el siglo XIX, con la expansión del Estado argentino hacia la Patagonia, comenzaron los asentamientos y la colonización, impulsados por la llamada \"Conquista del Desierto\". Santa Cruz se constituyó oficialmente como territorio nacional en 1884 y, más tarde, fue reconocida como provincia en 1957. Su economía creció gracias a la ganadería ovina, la minería, el petróleo y, en tiempos recientes, el turismo, especialmente en lugares como El Calafate y el glaciar Perito Moreno. Hoy es una de las provincias más importantes del sur argentino, con una rica historia ligada al desarrollo patagónico."
+    },
+    {
+        "tema": "santa cruz",
+        "pregunta": "Como puedo viajar en avion a santa cruz y cuánto cuesta y dura",
+        "respuesta": "Puedes viajar a Santa Cruz en avión a través del Aeropuerto Internacional Viru Viru que conecta la ciudad con Buenos Aires y otras ciudades principales. El tiempo estimado de vuelo es de aproximadamente 3:00 horas, con un costo desde $80.000 por Aerolíneas Argentinas, incluyendo ida y vuelta"
+    },
+    {
+        "tema": "santa cruz",
+        "pregunta": "Como puedo viajar en micro a santa cruz y cuánto cuesta y dura",
+        "respuesta": "Podés viajar en micro desde Buenos Aires a ciudades como Río Gallegos (capital de Santa Cruz). El viaje dura aproximadamente 36 a 40 horas, dependiendo de la empresa y el destino dentro de la provincia. El pasaje cuesta entre $100.000 y $150.000. Las salidas son desde Retiro y operan empresas como Taqsa, Marga, y Condor Estrella."
+    },
+    {
+        "tema": "santa cruz",
+        "pregunta": "Qué opciones de hotel o hospedaje o departamento hay en Santa Cruz y cuánto cuestan",
+        "respuesta": "El hotel Patagonia, ubicado en el centro de Río Gallegos, este hotel ofrece habitaciones amplias y confortables. Cuenta con restaurante, bar y salas de reuniones, siendo ideal tanto para viajeros de negocios como de placer. Los huéspedes destacan su atención y limpieza ($75.000 por noche). El hotel Amérian Río Gallegos Apart & Suites, situado estratégicamente en la avenida principal de la ciudad, este hotel combina la comodidad de un apart con los servicios de un hotel. Ofrece 74 habitaciones modernas, estacionamiento propio, Wi-Fi en todo el edificio y desayuno continental. Como ultima opción, el hotel Esplendor by Wyndham El Calafate se encuentra en El Calafate y ofrece vistas panorámicas al Lago Argentino. Cuenta con spa, piscina cubierta y restaurante gourmet. Es una opción destacada para quienes buscan confort y buena ubicación en la ciudad"
+    },
+    {
+        "tema": "santa cruz",
+        "pregunta": "como es clima de Santa Cruz y cuál es la mejor época para viajar",
+        "respuesta": "El clima de Santa Cruz, Argentina, es frío y ventoso, especialmente en la zona sur y en las áreas cercanas a los glaciares. Las temperaturas en invierno suelen ser bajas, con mínimas que pueden llegar a los -10°C, mientras que en verano las máximas rondan los 15°C a 20°C. La mejor época para visitar es durante el verano, de diciembre a marzo, cuando las temperaturas son más suaves y se pueden disfrutar actividades al aire libre, como el trekking o la visita a los glaciares. Sin embargo, la primavera y el otoño también son buenas opciones, ya que el clima es agradable y el paisaje ofrece tonos espectaculares. El invierno, aunque frío, es ideal para quienes disfrutan de la nieve y las actividades invernales."
+    },
+    {
+        "tema": "santa cruz",
+        "pregunta": "Cuáles son los mejores lugares para visitar en Santa Cruz",
+        "respuesta": "Santa Cruz, Argentina, es un destino fascinante, conocido por su impresionante naturaleza. Uno de los lugares más destacados es El Calafate, la puerta de entrada al Parque Nacional Los Glaciares, hogar del famoso Glaciar Perito Moreno, que sigue avanzando, ofreciendo un espectáculo natural único. A solo unas horas de allí, El Chaltén es ideal para los amantes del trekking, con el imponente Monte Fitz Roy y el Cerro Torre como sus principales atractivos, siendo un paraíso para los senderistas. Río Gallegos, la capital de la provincia, es un buen punto de partida para explorar la región, y cuenta con una reserva natural costera donde se puede observar una gran cantidad de aves. Más al sur, Punta Tombo es famosa por su enorme colonia de pingüinos de Magallanes, que llega a la costa durante los meses de primavera y verano. El Parque Nacional Monte León, en la costa atlántica, es un lugar más tranquilo, perfecto para disfrutar de paisajes solitarios y observar fauna marina. La Cueva de las Manos, por su parte, es un sitio arqueológico impresionante, con pinturas rupestres de hace miles de años. Y los lagos Posadas y Pueyrredón ofrecen tranquilidad y hermosos paisajes para aquellos que buscan estar en contacto con la naturaleza."
+    },
+    {
+        "tema": "santa cruz",
+        "pregunta": "Qué actividades turísticas se pueden hacer en Santa Cruz",
+        "respuesta": "El Chaltén, autodenominado capital nacional del trekking, es un paraíso para los amantes de la montaña. Sus senderos llevan a lugares icónicos como la Laguna de los Tres y el Cerro Fitz Roy. Además, es ideal para la escalada, la pesca deportiva y el turismo de aventura. Su entorno natural, casi virgen, lo convierte en uno de los mejores destinos para desconectarse y explorar paisajes únicos. Por otro lado, conocida como la puerta de entrada al Glaciar Perito Moreno, El Calafate es uno de los destinos patagónicos más emblemáticos. Además de las pasarelas que permiten ver de cerca el glaciar, se pueden hacer navegaciones por el Lago Argentino para conocer otros glaciares, como el Upsala y el Spegazzini. Una excursión por los glaciares ronda entre los $140.000 por persona, dependiendo la agencia de turismo. También se ofrecen experiencias en estancias patagónicas, cabalgatas y visitas al museo Glaciarium, un museo de glaciares que incluye un bar de hielo. La entrada general cuesta $20.000 según el sitio oficial."
+    },
+    {
+        "tema": "santa cruz",
+        "pregunta": "Como moverse dentro de santa cruz",
+        "respuesta": "Dentro de Santa Cruz podés moverte en micros de media y larga distancia que conectan las principales localidades como Río Gallegos, El Calafate, Puerto Deseado y Caleta Olivia. También hay servicios de combis, taxis y remises en las ciudades más grandes. En zonas turísticas como El Calafate o El Chaltén, es común usar excursiones organizadas, traslados privados o alquilar un auto para recorrer parques y rutas escénicas. Las distancias son largas y muchas rutas son solitarias, por lo que es importante planificar bien los traslados."
+    },
+    {
+        "tema": "santa fe",
+        "pregunta": "cual es la historia o su historia de santa fe",
+        "respuesta": "Fundada en 1573, la ciudad de Santa Fe fue una de las primeras del país y desempeñó un papel clave en la historia argentina, incluyendo la firma de la Constitución Nacional en 1853."
+    },
+    {
+        "tema": "santa fe",
+        "pregunta": "Como puedo viajar a santa fe en avion y cuanto cuesta y dura",
+        "respuesta": "Vuelos desde Buenos Aires al Aeropuerto de Santa Fe duran aproximadamente 1h 15m, con precios desde $60.000 incluyendo ida y vuelta"
+    },
+    {
+        "tema": "santa fe",
+        "pregunta": "Como puedo viajar a Santa Fe en micro y cuanto cuesta y dura",
+        "respuesta": "El viaje en micro desde Buenos Aires a Santa Fe dura entre 6 y 8 horas, con precios que varían desde los $30.000"
+    },
+    {
+        "tema": "santa fe",
+        "pregunta": "que opciones de hotel o hospedaje o departamento hay en santa fe y cuanto cuestan",
+        "respuesta": "Santa Fe ofrece varias opciones como Castelar Hotel Santa Fe (69.474/noche), Hotel Riogrande (71.682/noche), House Park Hotel Boutique (107.682/noche), Hostal Santa Fe De La Veracruz (88.639/noche), Hotel de Campo Colón Resort and Spa (80.932/noche). Rosario: Holiday Inn Express Rosario by IHG (74.811/noche), Aloha II (44.433/noche), Exclusivo Apart Rio con piscina (47.734/noche), Hotel Solans Riviera (88.061/noche), Carat Apart Boutique (99.748/noche)"
+    },
+    {
+        "tema": "santa fe",
+        "pregunta": "como es clima de Santa Fe y cual es la mejor epoca para viajar",
+        "respuesta": "Clima templado húmedo, con veranos calurosos e inviernos suaves, la mejor época para visitar es durante la primavera y el otoño."
+    },
+    {
+        "tema": "santa fe",
+        "pregunta": "Cuáles son los mejores lugares para visitar en Santa Fe",
+        "respuesta": "Ciudad de Santa Fe, Rosario, Parque Nacional Islas de Santa Fe"
+    },
+    {
+        "tema": "santa fe",
+        "pregunta": "Que actividades turisticas se pueden hacer en santa fe",
+        "respuesta": "Visita al Puente Colgante (a voluntad), recorrido por la Costanera Oeste y su Faro ($30.000 con guía), Catedral Metropolitana y casco histórico (a voluntad), Museo Etnográfico y Colonial Juan de Garay ($25.000), Parque Arqueológico Santa Fe La Vieja en Cayastá ($60.000), excursión en lancha por la laguna Setúbal ($40.000), playas y deportes acuáticos en Coronda ($50.000), visita al Mercado Progreso con degustación ($35.000), y espectáculos culturales en el Teatro Municipal 1º de Mayo ($45.000)."
+    },
+    {
+        "tema": "santa fe",
+        "pregunta": "cómo moverse dentro de Santa Fe",
+        "respuesta": "La ciudad de Santa Fe dispone de una amplia red de colectivos urbanos con sistema de tarjeta SUBE (tarifa promedio: $690). También hay disponibilidad de taxis y remises. Para moverse entre localidades de la provincia, como Rosario, Rafaela o Reconquista, existen servicios de micros de media y larga distancia. Rosario, en particular, tiene un sistema integrado de transporte urbano y opciones de alquiler de bicicletas públicas a través del programa Mi bici tu bici."
+    },
+    {
+        "tema": "santiago del estero",
+        "pregunta": "cual es la historia o su historia de santiago del estero",
+        "respuesta": "Es la provincia más antigua de Argentina, fundada en 1553 por Francisco de Aguirre. Conocida como “Madre de Ciudades”. Fue hogar de comunidades indígenas tonocotés y juríes. Conserva el uso del quichua santiagueño, única variante del quechua en Argentina. Cuna de importantes manifestaciones culturales, especialmente música folclórica."
+    },
+    {
+        "tema": "santiago del estero",
+        "pregunta": "Como puedo viajar a santiago del estero en avion y cuanto cuesta y dura",
+        "respuesta": "El Aeropuerto Vicecomodoro Ángel de la Paz Aragonés (SDE) conecta la capital con Buenos Aires. El tiempo estimado de los vuelos es de 1 hora y media de vuelo y con un costo promedio de $135.000 por Aerolineas Argentinas.  Incluye ida y vuelta"
+    },
+    {
+        "tema": "santiago del estero",
+        "pregunta": "Como puedo viajar a santiago del estero en micro y cuanto cuesta y dura",
+        "respuesta": "Se conecta con Buenos Aires por Rutas Nacionales 9 y 34. Servicios regulares de ómnibus desde Buenos Aires y ciudades principales. El tiempo estimado de los micros es de 12 horas de viajes y con un costo promedio de $80.000 por central de pasajes. Incluye ida y vuelta"
+    },
+    {
+        "tema": "santiago del estero",
+        "pregunta": "Qué opciones de hotel o hospedaje o departamento hay en Santiago del Estero y cuánto cuestan",
+        "respuesta": "Santiago del Estero capital: Hotel Casino Carlos V ($365.000/noche), Hotel Coventry ($75.000/día), Hotel Termal Rio Hondo ($95.000/día), San Marino Apartamentos ($40.000/día)."
+    },
+    {
+        "tema": "santiago del estero",
+        "pregunta": "como es clima de Santiago del Estero y cuál es la mejor época para viajar",
+        "respuesta": "Clima subtropical con estación seca, veranos muy calurosos y húmedos (35-45°C) con tormentas eléctricas frecuentes. Mejor época de mayo a septiembre."
+    },
+    {
+        "tema": "santiago del estero",
+        "pregunta": "Cuáles son los mejores lugares para visitar en Santiago del Estero",
+        "respuesta": "Santiago del Estero destaca por Termas de Río Hondo, famosa por sus aguas termales y spas; La Banda, conocida por su tradición cultural y musical; Ruinas de los Quilmes, un importante sitio arqueológico indígena; y El Río Dulce, ideal para disfrutar de actividades al aire libre y deportes acuáticos."
+    },
+    {
+        "tema": "santiago del estero",
+        "pregunta": "Qué actividades turísticas se pueden hacer en Santiago del Estero",
+        "respuesta": "Convento de Santo Domingo y Parque Aguirre (a voluntad), Centro Cultural del Bicentenario ($45.000), peñas folclóricas tradicionales ($50.000), Termas de Río Hondo ($70.000), pesca deportiva en Embalse Río Hondo ($30.000), competencias en Autódromo Termas de Río Hondo ($150.000), caminatas en Sierras de Guasayán ($70.000), réplica Casa de Tucumán (a voluntad), pinturas rupestres en Maco ($65.000)."
+    },
+    {
+        "tema": "santiago del estero",
+        "pregunta": "Cómo moverse dentro de Santiago del Estero",
+        "respuesta": "Transporte público limitado. Se recomienda alquilar vehículo o contratar excursiones para zonas rurales."
+    },
+    {
+        "tema": "tierra del fuego",
+        "pregunta": "cual es la historia o su historia de tierra del fuego",
+        "respuesta": "La historia de Tierra del Fuego comienza con los pueblos originarios yámanas, selk’nam, haush y kawésqar, que habitaron la región durante milenios adaptándose a un entorno hostil y frío. En 1520, Fernando de Magallanes fue el primer europeo en avistar estas tierras, nombrándolas \"Tierra del Humo\", luego cambiada a \"Tierra del Fuego\" por Carlos I de España. Durante siglos, la región permaneció aislada hasta fines del siglo XIX, cuando el Estado argentino fortaleció su presencia mediante la instalación de un presidio en Ushuaia y la expansión de la soberanía. Esto tuvo un fuerte impacto en los pueblos originarios, que fueron desplazados o exterminados. En 1884 se creó el Territorio Nacional de Tierra del Fuego y recién en 1990 fue declarado provincia, incluyendo también a las islas del Atlántico Sur y la Antártida Argentina. Hoy, Tierra del Fuego es la provincia más austral del país, con una historia marcada por el contraste entre la cultura indígena, la colonización y su crecimiento como polo turístico y estratégico."
+    },
+    {
+        "tema": "tierra del fuego",
+        "pregunta": "Como puedo viajar a Tierra del Fuego en avión y cuánto cuesta y dura",
+        "respuesta": "Se puede viajar desde Buenos Aires a Ushuaia en avión directo, con una duración aproximada de 3 horas y 30 minutos. Aerolíneas Argentinas y otras aerolíneas operan esta ruta. El precio del pasaje varía según la temporada, pero ronda entre $80.000 y $150.000 ARS"
+    },
+    {
+        "tema": "tierra del fuego",
+        "pregunta": "Como puedo viajar a Tierra del Fuego en micro y cuánto cuesta y dura",
+        "respuesta": "Viajar en micro desde Buenos Aires a Ushuaia puede tomar entre 50 y 55 horas, dependiendo del servicio. El viaje incluye cruzar a Chile y luego reingresar a Argentina, por lo que es más complejo. El precio va desde aproximadamente $270.000 ARS en adelante"
+    },
+    {
+        "tema": "tierra del fuego",
+        "pregunta": "Qué opciones de hotel o hospedaje o departamento hay en Tierra del Fuego y cuánto cuestan",
+        "respuesta": "En Ushuaia: Hotel Tierra del Fuego, ubicado en el centro de Ushuaia, ofrece habitaciones con vistas al canal Beagle y a las montañas. Cuenta con gimnasio, Wi-Fi gratuito y desayuno incluido. El precio por noche ronda los $196.600 ARS, aunque puede variar según la temporada y la disponibilidad. Luego, el hotel Cilene del Fuego Suites & Spa, es de 4 estrellas, se encuentra a pocos metros del centro de Ushuaia y ofrece suites con cocina equipada, spa, piscina cubierta y Wi-Fi gratuito. El precio por noche es de aproximadamente $217.500 ARS, sujeto a cambios según la fecha de reserva. Finalmente, se encuentra el hotel Los Acebos Ushuaia Hotel situado en una colina con vistas panorámicas al canal Beagle, este hotel ofrece habitaciones amplias, restaurante gourmet y Wi-Fi gratuito. El precio por noche puede variar, por lo que se recomienda consultar directamente con el hotel para obtener tarifas actualizadas."
+    },
+    {
+        "tema": "tierra del fuego",
+        "pregunta": "como es clima de Tierra del Fuego y cuál es la mejor época para viajar",
+        "respuesta": "El clima es frío la mayor parte del año, con veranos frescos y agradables e inviernos largos y con nieve. La mejor época para viajar es entre diciembre y marzo, cuando las temperaturas oscilan entre 10°C y 20°C y hay más luz natural para disfrutar los paisajes."
+    },
+    {
+        "tema": "tierra del fuego",
+        "pregunta": "Cuáles son los mejores lugares para visitar en Tierra del Fuego",
+        "respuesta": "Entre los principales lugares para conocer están Ushuaia, el Parque Nacional Tierra del Fuego, el Canal Beagle y la zona de los lagos como el Fagnano y el Escondido. También es muy interesante el Museo del Fin del Mundo y la histórica cárcel de Ushuaia."
+    },
+    {
+        "tema": "tierra del fuego",
+        "pregunta": "Qué actividades turísticas se pueden hacer en Tierra del Fuego",
+        "respuesta": "Se puede hacer senderismo, paseos en tren y navegación por el Canal Beagle, visitar museos, recorrer el parque nacional, hacer excursiones en 4x4 por la nieve, pescar, esquiar en invierno y hasta tomar cruceros hacia la Antártida desde Ushuaia. Por ejemplo, para el Museo Marítimo y del Presidio la entrada general cuesta $36.000; jubilados, estudiantes y docentes argentinos $25.000; menores de 12 años entran gratis. La entrada es válida por dos días consecutivos. Otra opción son las clases de esquí que en Ushuaia cuestan $40.000 la hora, por persona."
+    },
+    {
+        "tema": "tierra del fuego",
+        "pregunta": "Cómo moverse dentro de Tierra del Fuego",
+        "respuesta": "Dentro de Tierra del Fuego, podés moverte principalmente en micros interurbanos que conectan Ushuaia con Río Grande y otras localidades. En las ciudades principales, como Ushuaia, hay taxis, remises y servicios de colectivos urbanos. Además, en zonas turísticas, es común alquilar autos o contratar excursiones organizadas para visitar lugares como el Parque Nacional Tierra del Fuego o el Canal Beagle. Las distancias son relativamente cortas entre ciudades, pero en áreas más alejadas, el transporte público es limitado, por lo que es importante planificar los traslados con anticipación."
+    },
+    {
+        "tema": "tucuman",
+        "pregunta": "cual es la historia o su historia de tucuman",
+        "respuesta": "San Miguel de Tucumán fue fundada en 1565 por Diego de Villarroel y trasladada a su ubicación actual en 1685. Conocida como el “Jardín de la República”. Lugar destacado en la historia argentina por ser la cuna de la independencia nacional, firmada el 9 de julio de 1816. Centro económico importante por la industria azucarera."
+    },
+    {
+        "tema": "tucuman",
+        "pregunta": "Como puedo viajar a tucuman en avion y cuanto cuesta y dura",
+        "respuesta": "El Aeropuerto Internacional Teniente Benjamín Matienzo (TUC) ofrece conexiones diarias con Buenos Aires. El tiempo estimado de los vuelos es de 2 horas de vuelo y con un costo promedio de $145.000 por Aerolineas Argentinas.  Incluye ida y vuelta"
+    },
+    {
+        "tema": "tucuman",
+        "pregunta": "Como puedo viajar a tucuman en micro y cuanto cuesta y dura",
+        "respuesta": "Bien conectada por Ruta Nacional 9 y 38. Servicios frecuentes de ómnibus desde Buenos Aires y principales ciudades.  El tiempo estimado de los micros es de 14 horas de viajes y con un costo promedio de $90.000 por central de pasajes. Incluye ida y vuelta"
+    },
+    {
+        "tema": "tucuman",
+        "pregunta": "Qué opciones de hotel o hospedaje o departamento hay en Tucuman y cuánto cuestan",
+        "respuesta": "San Miguel de Tucumán: Sheraton Tucumán Hotel ($135.000/día), Hotel Español ($55.000/noche), Garden Park Hotel ($90.000/noche). Tafí del Valle: Hostería Lunahuana ($102.000/noche), Cabañas El Portal de Tafí ($20.000/noche), Hotel Quilla Inn ($50.000/día). Yerba Buena: Howard Johnson Tucumán Center ($133.000/día)."
+    },
+    {
+        "tema": "tucuman",
+        "pregunta": "como es clima de tucuman y cual es la mejor época para viajar",
+        "respuesta": "Clima subtropical con estación seca, veranos calurosos y lluviosos (25-35°C), inviernos templados y secos (12-20°C). Mejor época de abril a octubre."
+    },
+    {
+        "tema": "tucuman",
+        "pregunta": "Cuáles son los mejores lugares para visitar en tucuman",
+        "respuesta": "Tucumán ofrece lugares como San Miguel de Tucumán, su capital, con una rica historia colonial; Tafí del Valle, un destino de montaña ideal para el ecoturismo; Los Menhires, un yacimiento arqueológico de piedras precolombinas; y El Cadillal, un embalse perfecto para actividades acuáticas y recreación."
+    },
+    {
+        "tema": "tucuman",
+        "pregunta": "Que actividades se pueden hacer en tucuman",
+        "respuesta": "Casa Histórica de la Independencia y Plaza Independencia (entrada a voluntad), Parque 9 de Julio y Museo Casa Padilla ($45.000), tour por ingenios azucareros ($80.000), menhires precolombinos en Tafí del Valle ($70.000), degustación de quesos y gastronomía local ($100.000), trekking en Dique La Angostura ($150.000), senderismo en Cerro del Médano ($90.000), participación en festividades tradicionales ($40.000), visita a capillas históricas y mercado artesanal ($30.000)."
+    },
+    {
+        "tema": "tucuman",
+        "pregunta": "Como moverse dentro de Tucuman",
+        "respuesta": "Transporte público urbano eficiente en San Miguel de Tucumán. Para áreas rurales y montañosas se recomienda alquilar vehículo o contratar excursiones."
+    },
+    {
+        "tema": "general",
+        "pregunta": "ola",
+        "respuesta": "¡Hola! ¿En qué te puedo ayudar?"
+    },
+    {
+        "tema": "general",
+        "pregunta": "alo",
+        "respuesta": "¡Hola! ¿En qué te puedo ayudar?"
+    },
+    {
+        "tema": "general",
+        "pregunta": "cmo stas",
+        "respuesta": "¡Bien!"
+    }
 ]

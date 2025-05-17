@@ -1,7 +1,19 @@
 import json
 import re
+import unicodedata
+import string
+import random
 
-# Diccionario con historia general de provincias
+colors = [
+    '\033[31m',  # Rojo
+    '\033[35m',  # Violeta
+]
+reset = '\033[0m'
+
+# Categorías que usa el bot para identificar preguntas temáticas
+categorias = ["historia", "viajar", "hotel", "hospedaje", "clima", "lugares", "actividades", "moverse"]
+
+# Diccionario de historia general de provincias
 infogeneral = {
     "buenos aires": "Fue fundada en 1536 por Pedro de Mendoza y refundada en 1580 por Juan de Garay. Desde el período colonial fue un puerto clave por su ubicación estratégica sobre el Río de la Plata. Fue escenario de las Invasiones Inglesas (1806–1807) y de los principales procesos revolucionarios, incluida la Revolución de Mayo en 1810. La provincia de Buenos Aires, que rodea a la ciudad, también tuvo gran protagonismo en la historia nacional, con figuras como Juan Manuel de Rosas y una economía basada en la ganadería, agricultura e industria.",
     "catamarca": "San Fernando del Valle de Catamarca fue fundada en 1683 por Fernando de Mendoza y Mate de Luna. La provincia tiene profundas raíces indígenas diaguitas y calchaquíes. Su nombre proviene del quechua 'Katamarka' que significa 'Fortaleza en la ladera'. Fue escenario de las Guerras Calchaquíes. Destaca su artesanía en telar, cuero y cerámica.",
@@ -28,13 +40,7 @@ infogeneral = {
     "tucuman": "San Miguel de Tucumán fue fundada en 1565 por Diego de Villarroel y trasladada a su ubicación actual en 1685. Conocida como el 'Jardín de la República'. Lugar destacado en la historia argentina por ser la cuna de la independencia nacional, firmada el 9 de julio de 1816. Centro económico importante por la industria azucarera."
 }
 
-# Categorías para las que se puede añadir información o preguntar
-categorias = [
-    "historia", "viajar", "hotel", "hospedaje", "clima", 
-    "lugares", "actividades", "moverse", "transporte"
-]
-
-# Funciones de carga y guardado
+# Cargar JSON de preguntas y respuestas personalizadas
 def cargar(archivo):
     try:
         with open(archivo, "r", encoding="utf-8") as f:
@@ -42,60 +48,33 @@ def cargar(archivo):
     except FileNotFoundError:
         return []
 
-def guardar(archivo, datos):
-    # Ordenar los datos por provincia antes de guardar
-    try:
-        datos_ordenados = sorted(datos, key=lambda x: (x.get("provincia", ""), x.get("categoria", "")))
-        
-        # Manejo de posible error de versión del archivo
-        try:
-            with open(archivo, "w", encoding="utf-8") as f:
-                json.dump(datos_ordenados, f, indent=2, ensure_ascii=False)
-            print(f"Datos guardados correctamente en {archivo}")
-        except PermissionError:
-            # Si hay un problema de permisos o el archivo está siendo usado por otro proceso
-            archivo_temp = archivo + ".temp"
-            print(f"No se pudo guardar directamente. Guardando en archivo temporal: {archivo_temp}")
-            with open(archivo_temp, "w", encoding="utf-8") as f:
-                json.dump(datos_ordenados, f, indent=2, ensure_ascii=False)
-            print(f"Datos guardados en {archivo_temp}. Por favor, renombra este archivo a {archivo} manualmente.")
-    except Exception as e:
-        print(f"Error al guardar datos: {e}")
-        # Intentar guardar con un nombre de archivo alternativo
-        archivo_backup = archivo + ".backup"
-        try:
-            with open(archivo_backup, "w", encoding="utf-8") as f:
-                json.dump(datos, f, indent=2, ensure_ascii=False)
-            print(f"Se ha creado una copia de seguridad en {archivo_backup}")
-        except:
-            print("No se pudo crear una copia de seguridad.")
+def guardar(archivo, base):
+    with open(archivo, "w", encoding="utf-8") as f:
+        json.dump(base, f, indent=4, ensure_ascii=False)
 
-# Función para medir similitud entre preguntas
+# Similitud simple por palabras comunes
 def similitud(p1, p2):
     palabras1 = set(p1.lower().split())
     palabras2 = set(p2.lower().split())
     comunes = palabras1.intersection(palabras2)
     return len(comunes) / max(len(palabras1), 1)
 
-# Buscar respuesta en base de datos
-def encontrarrespuesta(pregunta, base):
+# Buscar respuesta más similar
+def encontrarrespuesta(pregunta, base, provincia=None):
     mejor = 0
     respuesta = None
     for item in base:
         sim = similitud(pregunta, item["pregunta"])
         if sim > mejor:
-            mejor = sim
-            respuesta = item["respuesta"]
+            if provincia and provincia in item["tema"].lower():
+                mejor = sim
+                respuesta = item["respuesta"]
+            elif not provincia:
+                mejor = sim
+                respuesta = item["respuesta"]
     return respuesta if mejor >= 0.3 else None
 
-# Verificar si una pregunta ya existe (similar)
-def pregunta_existe(pregunta, base):
-    for item in base:
-        if similitud(pregunta, item["pregunta"]) > 0.7:  # Umbral de similitud alto
-            return True, item["pregunta"]
-    return False, None
-
-# Detectar si se menciona una provincia
+# Detectar provincia mencionada
 def detectar_provincia(texto):
     texto_lower = texto.lower()
     for provincia in infogeneral.keys():
@@ -103,7 +82,7 @@ def detectar_provincia(texto):
             return provincia
     return None
 
-# Detectar si se menciona una categoría
+# Detectar categoría mencionada
 def detectar_categoria(texto):
     texto_lower = texto.lower()
     for categoria in categorias:
@@ -111,167 +90,72 @@ def detectar_categoria(texto):
             return categoria
     return None
 
-# Función para agregar nueva información
-def agregar_pregunta_respuesta(base, archivo):
-    print("\n--- AGREGAR NUEVA INFORMACIÓN ---")
-    
-    # Opción para elegir método de ingreso
-    metodo = input("¿Deseas seleccionar de la lista (1) o escribir manualmente (2)? ").strip()
-    
-    if metodo == "1":
-        # Selección de provincia desde lista
-        print("Provincias disponibles:")
-        provincias_lista = sorted(infogeneral.keys())
-        for i, prov in enumerate(provincias_lista, 1):
-            print(f"{i}. {prov.title()}")
-        
-        provincia = None
-        while not provincia:
-            entrada = input("\nSelecciona provincia (nombre o número): ").strip().lower()
-            if entrada.isdigit() and 0 < int(entrada) <= len(provincias_lista):
-                provincia = provincias_lista[int(entrada)-1]
-            elif entrada in infogeneral:
-                provincia = entrada
-            else:
-                print("Provincia no válida.")
-        
-        # Selección de categoría desde lista
-        print("\nCategorías disponibles:")
-        categorias_lista = sorted(categorias)
-        for i, cat in enumerate(categorias_lista, 1):
-            print(f"{i}. {cat}")
-        
-        categoria = None
-        while not categoria:
-            entrada = input("\nSelecciona categoría (nombre o número): ").strip().lower()
-            if entrada.isdigit() and 0 < int(entrada) <= len(categorias_lista):
-                categoria = categorias_lista[int(entrada)-1]
-            elif entrada in categorias:
-                categoria = entrada
-            else:
-                print("Categoría no válida.")
-    else:
-        # Ingreso manual de provincia
-        provincia = None
-        while not provincia:
-            provincia_input = input("Ingresa el nombre de la provincia: ").strip().lower()
-            if provincia_input in infogeneral:
-                provincia = provincia_input
-            else:
-                print(f"No se reconoce '{provincia_input}' como provincia válida.")
-                print("Provincias válidas:", ", ".join(sorted(infogeneral.keys())))
-        
-        # Ingreso manual de categoría
-        categoria = None
-        while not categoria:
-            categoria_input = input("Ingresa la categoría: ").strip().lower()
-            if categoria_input in categorias:
-                categoria = categoria_input
-            else:
-                print(f"No se reconoce '{categoria_input}' como categoría válida.")
-                print("Categorías válidas:", ", ".join(categorias))
-    
-    # Recoger pregunta y respuesta
-    pregunta = input("Ingresa la nueva pregunta: ").strip()
-    pregunta_completa = f"{pregunta} {provincia} {categoria}"
-    
-    # Verificar si la pregunta ya existe
-    existe, pregunta_existente = pregunta_existe(pregunta_completa, base)
-    if existe:
-        print(f"Ya existe una pregunta similar: '{pregunta_existente}'")
-        opcion = input("¿Deseas continuar y agregar otra versión? (s/n): ").strip().lower()
-        if opcion != 's':
-            print("Operación cancelada.")
-            return
-    
-    respuesta = input("Ingresa la respuesta: ").strip()
-    
-    # Agregar a la base de datos
-    nueva_entrada = {
-        "pregunta": pregunta_completa,
-        "respuesta": respuesta,
-        "provincia": provincia,
-        "categoria": categoria
-    }
-    base.append(nueva_entrada)
-    guardar("preguntasyrespuestas.json", base)
-
-    print(f"¡Información sobre {categoria} en {provincia.title()} guardada correctamente!")
-
-# Chatbot principal
+# Función principal del chatbot
 def chatbot():
     archivo = "preguntasyrespuestas.json"
     base = cargar(archivo)
-    
-    print("¡Hola! Soy tu chatbot de información sobre provincias argentinas.")
-    print("Escribe 'fin' para salir o 'agregar' para añadir nueva información.")
+
+    print(f"{colors[0]}Chatbot:{reset} ¡Hola! Soy tu chatbot de información sobre viajes en argentina. Escribe 'fin' para salir o 'agregar' para añadir nueva información.")
 
     while True:
-        pregunta = input("\nUsuario: ").strip().lower()
+        pregunta = input(f"{colors[1]}Usuario:{reset} ").strip().lower()
 
-        # fin para salir
         if pregunta == "fin":
-            print("Chatbot: ¡Hasta pronto!")
+            print(f"{colors[0]}Chatbot:{reset} ¡Hasta pronto!")
             break
-            
-        # agregar información    
+
         if pregunta == "agregar":
-            agregar_pregunta_respuesta(base, archivo)
+            tema = input("Provincia o tema: ").strip().lower()
+            preg = input("Escribe la pregunta: ").strip().lower()
+            resp = input("Escribe la respuesta: ").strip()
+            base.append({"tema": tema, "pregunta": preg, "respuesta": resp})
+            guardar(archivo, base)
+
+            # Recargar el archivo JSON después de guardar la nueva pregunta
+            base = cargar(archivo)
+
+            print(f"{colors[0]}Chatbot:{reset} Información guardada.")
             continue
 
-        # Saludo básico
-        if re.search(r"hola|ola", pregunta):
-            print("Chatbot: ¡Hola! ¿En qué puedo ayudarte?")
+        if "hola" in pregunta:
+            print(f"{colors[0]}Chatbot:{reset} ¡Hola! ¿En qué puedo ayudarte?")
             continue
 
-        # Detectar provincia y categoría
+        # Si el usuario escribe solo el nombre de una provincia
         provincia = detectar_provincia(pregunta)
+        if provincia:
+            if pregunta in infogeneral:
+                print(f"{colors[0]}Chatbot:{reset} {infogeneral[pregunta]}")
+                continue
+
         categoria = detectar_categoria(pregunta)
-        
-        # Caso 1: Provincia y categoría mencionadas
-        if provincia and categoria:
-            # Buscar en la base de datos primero
-            respuesta = encontrarrespuesta(f"{categoria} {provincia}", base)
-            if respuesta:
-                print("Chatbot:", respuesta)
-                continue
-                
-            # Si no hay respuesta específica en la base
-            print(f"Chatbot: No tengo información específica sobre {categoria} en {provincia.title()}.")
-            print("Chatbot: Lo que sé sobre esta provincia es:")
-            print("Chatbot:", infogeneral[provincia])
-            continue
+        respuesta = None
 
-        # Caso 2: Solo provincia mencionada
-        if provincia and not categoria:
-            print("Chatbot:", infogeneral[provincia])
-            continue
-        
-        # Caso 3: Solo categoría mencionada
-        if categoria and not provincia:
-            print("Chatbot: ¿De qué provincia necesitas esa información?")
-            provincia = input("Usuario: ").strip().lower()
-
-            if provincia not in infogeneral:
-                print(f"Chatbot: Lo siento, no tengo información sobre {provincia}.")
-                continue
-                
-            # Buscar en base de datos
-            respuesta = encontrarrespuesta(f"{categoria} {provincia}", base)
+        if categoria and provincia:
+            pregunta_completa = f"{categoria} {provincia}"
+            respuesta = encontrarrespuesta(pregunta_completa, base, provincia)
             if respuesta:
-                print("Chatbot:", respuesta)
+                print(f"{colors[0]}Chatbot:{reset} {respuesta}")
             else:
-                print(f"Chatbot: No tengo información específica sobre {categoria} en {provincia.title()}.")
-                print("Chatbot:", infogeneral[provincia])
-            continue
-        
-        # Caso 4: Ni provincia ni categoría mencionadas
-        respuesta = encontrarrespuesta(pregunta, base)
-        if respuesta:
-            print("Chatbot:", respuesta)
+                print(f"{colors[0]}Chatbot:{reset} No tengo información sobre {categoria} en {provincia}.")
+        elif categoria:
+            print(f"{colors[0]}Chatbot:{reset} ¿De qué provincia en específico necesitas esa información?")
+            provincia = input(f"{colors[1]}Usuario:{reset} ").strip().lower()
+            if provincia:
+                pregunta_completa = f"{categoria} {provincia}"
+                respuesta = encontrarrespuesta(pregunta_completa, base, provincia)
+                if respuesta:
+                    print(f"{colors[0]}Chatbot:{reset} {respuesta}")
+                else:
+                    print(f"{colors[0]}Chatbot:{reset} No tengo información sobre esa categoría en {provincia}.")
+            else:
+                print(f"{colors[0]}Chatbot:{reset} No proporcionaste una provincia válida.")
         else:
-            print("Chatbot: No tengo esa información. Puedes preguntarme sobre una provincia específica o usar 'agregar' para añadir información.")
+            respuesta = encontrarrespuesta(pregunta, base)
+            if respuesta:
+                print(f"{colors[0]}Chatbot:{reset} {respuesta}")
+            else:
+                print(f"{colors[0]}Chatbot:{reset} No pude encontrar una respuesta a esa pregunta. ¿Podrías ser más específico?")
+# Ejecutar chatbot
+chatbot()
 
-if __name__ == "__main__":
-    chatbot()
-# Fin del código
