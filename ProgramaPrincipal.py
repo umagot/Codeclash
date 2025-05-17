@@ -158,4 +158,3 @@ def chatbot():
                 print(f"{colors[0]}Chatbot:{reset} No pude encontrar una respuesta a esa pregunta. ¿Podrías ser más específico?")
 # Ejecutar chatbot
 chatbot()
-
